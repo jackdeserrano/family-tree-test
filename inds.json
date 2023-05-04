@@ -11,7 +11,11 @@
     "birthDate": "13 JUN 2003",
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "parents": [
+      "@I0002@",
+      "@I0003@"
+    ]
   },
   {
     "id": "@I0002@",
@@ -25,7 +29,18 @@
     "birthDate": "20 MAY 1967",
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "family": [
+      "@I0003@",
+      [
+        "@I0000@",
+        "@I0004@"
+      ]
+    ],
+    "parents": [
+      "@I0005@",
+      "@I0006@"
+    ]
   },
   {
     "id": "@I0003@",
@@ -39,7 +54,14 @@
     "birthDate": "23 NOV 1966",
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "family": [
+      "@I0002@",
+      [
+        "@I0000@",
+        "@I0004@"
+      ]
+    ]
   },
   {
     "id": "@I0004@",
@@ -53,7 +75,11 @@
     "birthDate": "24 OCT 2004",
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "parents": [
+      "@I0002@",
+      "@I0003@"
+    ]
   },
   {
     "id": "@I0005@",
@@ -67,7 +93,25 @@
     "birthDate": "10 FEB 1931",
     "birthPlace": null,
     "deathDate": "17 NOV 2008",
-    "deathPlace": null
+    "deathPlace": null,
+    "family": [
+      "@I0006@",
+      [
+        "@I0002@",
+        "@I0007@",
+        "@I0011@",
+        "@I0012@",
+        "@I0024@",
+        "@I0028@",
+        "@I0033@",
+        "@I0043@",
+        "@I0044@"
+      ]
+    ],
+    "parents": [
+      "@I0160@",
+      "@I0161@"
+    ]
   },
   {
     "id": "@I0006@",
@@ -81,7 +125,25 @@
     "birthDate": "22 JAN 1931",
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "family": [
+      "@I0005@",
+      [
+        "@I0002@",
+        "@I0007@",
+        "@I0011@",
+        "@I0012@",
+        "@I0024@",
+        "@I0028@",
+        "@I0033@",
+        "@I0043@",
+        "@I0044@"
+      ]
+    ],
+    "parents": [
+      "@I0045@",
+      "@I0046@"
+    ]
   },
   {
     "id": "@I0007@",
@@ -95,7 +157,18 @@
     "birthDate": "9 APR 1954",
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "parents": [
+      "@I0005@",
+      "@I0006@"
+    ],
+    "family": [
+      "@I0008@",
+      [
+        "@I0009@",
+        "@I0010@"
+      ]
+    ]
   },
   {
     "id": "@I0008@",
@@ -109,7 +182,14 @@
     "birthDate": "8 FEB 1955",
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "family": [
+      "@I0007@",
+      [
+        "@I0009@",
+        "@I0010@"
+      ]
+    ]
   },
   {
     "id": "@I0009@",
@@ -123,7 +203,11 @@
     "birthDate": "25 MAR 1987",
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "parents": [
+      "@I0007@",
+      "@I0008@"
+    ]
   },
   {
     "id": "@I0010@",
@@ -137,7 +221,11 @@
     "birthDate": "31 MAY 1989",
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "parents": [
+      "@I0007@",
+      "@I0008@"
+    ]
   },
   {
     "id": "@I0011@",
@@ -151,7 +239,11 @@
     "birthDate": "8 MAY 1956",
     "birthPlace": null,
     "deathDate": "13 FEB 2017",
-    "deathPlace": null
+    "deathPlace": null,
+    "parents": [
+      "@I0005@",
+      "@I0006@"
+    ]
   },
   {
     "id": "@I0012@",
@@ -165,7 +257,20 @@
     "birthDate": "14 MAR 1958",
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "parents": [
+      "@I0005@",
+      "@I0006@"
+    ],
+    "family": [
+      "@I0261@",
+      [
+        "@I0013@",
+        "@I0014@",
+        "@I0015@",
+        "@I0016@"
+      ]
+    ]
   },
   {
     "id": "@I0013@",
@@ -179,7 +284,17 @@
     "birthDate": "19 APR 1983",
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "parents": [
+      "@I0261@",
+      "@I0012@"
+    ],
+    "family": [
+      "@I0286@",
+      [
+        "@I0287@"
+      ]
+    ]
   },
   {
     "id": "@I0014@",
@@ -193,7 +308,18 @@
     "birthDate": "24 DEC 1984",
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "parents": [
+      "@I0261@",
+      "@I0012@"
+    ],
+    "family": [
+      "@I0017@",
+      [
+        "@I0018@",
+        "@I0019@"
+      ]
+    ]
   },
   {
     "id": "@I0015@",
@@ -207,7 +333,19 @@
     "birthDate": "12 FEB 1988",
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "parents": [
+      "@I0261@",
+      "@I0012@"
+    ],
+    "family": [
+      "@I0020@",
+      [
+        "@I0021@",
+        "@I0022@",
+        "@I0023@"
+      ]
+    ]
   },
   {
     "id": "@I0016@",
@@ -221,7 +359,11 @@
     "birthDate": "13 MAY 1991",
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "parents": [
+      "@I0261@",
+      "@I0012@"
+    ]
   },
   {
     "id": "@I0017@",
@@ -235,7 +377,14 @@
     "birthDate": "4 MAY 1985",
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "family": [
+      "@I0014@",
+      [
+        "@I0018@",
+        "@I0019@"
+      ]
+    ]
   },
   {
     "id": "@I0018@",
@@ -249,7 +398,11 @@
     "birthDate": "22 APR 2013",
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "parents": [
+      "@I0014@",
+      "@I0017@"
+    ]
   },
   {
     "id": "@I0019@",
@@ -263,7 +416,11 @@
     "birthDate": "4 MAR 2015",
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "parents": [
+      "@I0014@",
+      "@I0017@"
+    ]
   },
   {
     "id": "@I0020@",
@@ -277,7 +434,15 @@
     "birthDate": "19 SEP 1985",
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "family": [
+      "@I0015@",
+      [
+        "@I0021@",
+        "@I0022@",
+        "@I0023@"
+      ]
+    ]
   },
   {
     "id": "@I0021@",
@@ -291,7 +456,11 @@
     "birthDate": "8 JUL 2017",
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "parents": [
+      "@I0020@",
+      "@I0015@"
+    ]
   },
   {
     "id": "@I0022@",
@@ -305,7 +474,11 @@
     "birthDate": "10 DEC 2018",
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "parents": [
+      "@I0020@",
+      "@I0015@"
+    ]
   },
   {
     "id": "@I0023@",
@@ -319,7 +492,11 @@
     "birthDate": "27 DEC 2021",
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "parents": [
+      "@I0020@",
+      "@I0015@"
+    ]
   },
   {
     "id": "@I0024@",
@@ -333,7 +510,18 @@
     "birthDate": "12 FEB 1959",
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "parents": [
+      "@I0005@",
+      "@I0006@"
+    ],
+    "family": [
+      "@I0025@",
+      [
+        "@I0026@",
+        "@I0027@"
+      ]
+    ]
   },
   {
     "id": "@I0025@",
@@ -347,7 +535,14 @@
     "birthDate": "13 APR 1959",
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "family": [
+      "@I0024@",
+      [
+        "@I0026@",
+        "@I0027@"
+      ]
+    ]
   },
   {
     "id": "@I0026@",
@@ -361,7 +556,11 @@
     "birthDate": "4 MAY 1989",
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "parents": [
+      "@I0025@",
+      "@I0024@"
+    ]
   },
   {
     "id": "@I0027@",
@@ -375,7 +574,11 @@
     "birthDate": "22 AUG 1992",
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "parents": [
+      "@I0025@",
+      "@I0024@"
+    ]
   },
   {
     "id": "@I0028@",
@@ -389,7 +592,17 @@
     "birthDate": "30 MAR 1960",
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "parents": [
+      "@I0005@",
+      "@I0006@"
+    ],
+    "family": [
+      "@I0029@",
+      [
+        "@I0030@"
+      ]
+    ]
   },
   {
     "id": "@I0029@",
@@ -403,7 +616,13 @@
     "birthDate": "8 FEB 1958",
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "family": [
+      "@I0028@",
+      [
+        "@I0030@"
+      ]
+    ]
   },
   {
     "id": "@I0030@",
@@ -417,7 +636,17 @@
     "birthDate": "23 JAN 1989",
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "parents": [
+      "@I0029@",
+      "@I0028@"
+    ],
+    "family": [
+      "@I0031@",
+      [
+        "@I0032@"
+      ]
+    ]
   },
   {
     "id": "@I0031@",
@@ -431,7 +660,13 @@
     "birthDate": "9 JUL 1990",
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "family": [
+      "@I0030@",
+      [
+        "@I0032@"
+      ]
+    ]
   },
   {
     "id": "@I0032@",
@@ -445,7 +680,11 @@
     "birthDate": "12 JUN 2021",
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "parents": [
+      "@I0030@",
+      "@I0031@"
+    ]
   },
   {
     "id": "@I0033@",
@@ -459,7 +698,18 @@
     "birthDate": "5 SEP 1961",
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "parents": [
+      "@I0005@",
+      "@I0006@"
+    ],
+    "family": [
+      "@I0034@",
+      [
+        "@I0035@",
+        "@I0036@"
+      ]
+    ]
   },
   {
     "id": "@I0034@",
@@ -473,7 +723,14 @@
     "birthDate": "14 FEB 1961",
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "family": [
+      "@I0033@",
+      [
+        "@I0035@",
+        "@I0036@"
+      ]
+    ]
   },
   {
     "id": "@I0035@",
@@ -487,7 +744,18 @@
     "birthDate": "1 APR 1990",
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "parents": [
+      "@I0033@",
+      "@I0034@"
+    ],
+    "family": [
+      "@I0037@",
+      [
+        "@I0038@",
+        "@I0039@"
+      ]
+    ]
   },
   {
     "id": "@I0036@",
@@ -501,7 +769,18 @@
     "birthDate": "17 APR 1992",
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "parents": [
+      "@I0033@",
+      "@I0034@"
+    ],
+    "family": [
+      "@I0040@",
+      [
+        "@I0041@",
+        "@I0042@"
+      ]
+    ]
   },
   {
     "id": "@I0037@",
@@ -515,7 +794,14 @@
     "birthDate": "14 JAN 1990",
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "family": [
+      "@I0035@",
+      [
+        "@I0038@",
+        "@I0039@"
+      ]
+    ]
   },
   {
     "id": "@I0038@",
@@ -529,7 +815,11 @@
     "birthDate": "4 JUL 2020",
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "parents": [
+      "@I0037@",
+      "@I0035@"
+    ]
   },
   {
     "id": "@I0039@",
@@ -543,7 +833,11 @@
     "birthDate": "2 JUN 2022",
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "parents": [
+      "@I0037@",
+      "@I0035@"
+    ]
   },
   {
     "id": "@I0040@",
@@ -557,7 +851,14 @@
     "birthDate": null,
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "family": [
+      "@I0036@",
+      [
+        "@I0041@",
+        "@I0042@"
+      ]
+    ]
   },
   {
     "id": "@I0041@",
@@ -571,7 +872,11 @@
     "birthDate": "JUN 2020",
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "parents": [
+      "@I0040@",
+      "@I0036@"
+    ]
   },
   {
     "id": "@I0042@",
@@ -585,7 +890,11 @@
     "birthDate": "21 SEP 2022",
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "parents": [
+      "@I0040@",
+      "@I0036@"
+    ]
   },
   {
     "id": "@I0043@",
@@ -599,7 +908,11 @@
     "birthDate": "22 SEP 1962",
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "parents": [
+      "@I0005@",
+      "@I0006@"
+    ]
   },
   {
     "id": "@I0044@",
@@ -613,7 +926,11 @@
     "birthDate": "15 JUL 1970",
     "birthPlace": null,
     "deathDate": "15 JUL 1970",
-    "deathPlace": null
+    "deathPlace": null,
+    "parents": [
+      "@I0005@",
+      "@I0006@"
+    ]
   },
   {
     "id": "@I0045@",
@@ -627,7 +944,21 @@
     "birthDate": "28 MAR 1890",
     "birthPlace": null,
     "deathDate": "31 DEC 1962",
-    "deathPlace": null
+    "deathPlace": null,
+    "family": [
+      "@I0046@",
+      [
+        "@I0006@",
+        "@I0047@",
+        "@I0048@",
+        "@I0091@",
+        "@I0112@",
+        "@I0117@",
+        "@I0135@",
+        "@I0158@",
+        "@I0159@"
+      ]
+    ]
   },
   {
     "id": "@I0046@",
@@ -641,7 +972,21 @@
     "birthDate": "10 AUG 1889",
     "birthPlace": null,
     "deathDate": "21 NOV 1965",
-    "deathPlace": null
+    "deathPlace": null,
+    "family": [
+      "@I0045@",
+      [
+        "@I0006@",
+        "@I0047@",
+        "@I0048@",
+        "@I0091@",
+        "@I0112@",
+        "@I0117@",
+        "@I0135@",
+        "@I0158@",
+        "@I0159@"
+      ]
+    ]
   },
   {
     "id": "@I0047@",
@@ -655,7 +1000,11 @@
     "birthDate": "1912",
     "birthPlace": null,
     "deathDate": "1912",
-    "deathPlace": null
+    "deathPlace": null,
+    "parents": [
+      "@I0045@",
+      "@I0046@"
+    ]
   },
   {
     "id": "@I0048@",
@@ -669,7 +1018,22 @@
     "birthDate": "28 AUG 1914",
     "birthPlace": null,
     "deathDate": "20 MAR 1980",
-    "deathPlace": null
+    "deathPlace": null,
+    "parents": [
+      "@I0045@",
+      "@I0046@"
+    ],
+    "family": [
+      "@I0049@",
+      [
+        "@I0050@",
+        "@I0051@",
+        "@I0052@",
+        "@I0053@",
+        "@I0054@",
+        "@I0055@"
+      ]
+    ]
   },
   {
     "id": "@I0049@",
@@ -683,7 +1047,18 @@
     "birthDate": "15 AUG 1904",
     "birthPlace": null,
     "deathDate": "7 APR 1976",
-    "deathPlace": null
+    "deathPlace": null,
+    "family": [
+      "@I0048@",
+      [
+        "@I0050@",
+        "@I0051@",
+        "@I0052@",
+        "@I0053@",
+        "@I0054@",
+        "@I0055@"
+      ]
+    ]
   },
   {
     "id": "@I0050@",
@@ -697,7 +1072,19 @@
     "birthDate": "10 OCT 1934",
     "birthPlace": null,
     "deathDate": "1 FEB 2000",
-    "deathPlace": null
+    "deathPlace": null,
+    "parents": [
+      "@I0049@",
+      "@I0048@"
+    ],
+    "family": [
+      "@I0056@",
+      [
+        "@I0057@",
+        "@I0058@",
+        "@I0059@"
+      ]
+    ]
   },
   {
     "id": "@I0051@",
@@ -711,7 +1098,18 @@
     "birthDate": "4 MAY 1942",
     "birthPlace": null,
     "deathDate": "5 APR 2023",
-    "deathPlace": null
+    "deathPlace": null,
+    "parents": [
+      "@I0049@",
+      "@I0048@"
+    ],
+    "family": [
+      "@I0062@",
+      [
+        "@I0063@",
+        "@I0064@"
+      ]
+    ]
   },
   {
     "id": "@I0052@",
@@ -725,7 +1123,15 @@
     "birthDate": "7 APR 1945",
     "birthPlace": null,
     "deathDate": "FEB 2022",
-    "deathPlace": null
+    "deathPlace": null,
+    "parents": [
+      "@I0049@",
+      "@I0048@"
+    ],
+    "family": [
+      "@I0071@",
+      null
+    ]
   },
   {
     "id": "@I0053@",
@@ -739,7 +1145,18 @@
     "birthDate": "16 SEP 1947",
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "parents": [
+      "@I0049@",
+      "@I0048@"
+    ],
+    "family": [
+      "@I0072@",
+      [
+        "@I0073@",
+        "@I0074@"
+      ]
+    ]
   },
   {
     "id": "@I0054@",
@@ -753,7 +1170,19 @@
     "birthDate": "15 JUN 1952",
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "parents": [
+      "@I0049@",
+      "@I0048@"
+    ],
+    "family": [
+      "@I0081@",
+      [
+        "@I0082@",
+        "@I0083@",
+        "@I0084@"
+      ]
+    ]
   },
   {
     "id": "@I0055@",
@@ -767,7 +1196,18 @@
     "birthDate": "14 SEP 1955",
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "parents": [
+      "@I0049@",
+      "@I0048@"
+    ],
+    "family": [
+      "@I0088@",
+      [
+        "@I0089@",
+        "@I0090@"
+      ]
+    ]
   },
   {
     "id": "@I0056@",
@@ -781,7 +1221,15 @@
     "birthDate": "20 OCT 1941",
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "family": [
+      "@I0050@",
+      [
+        "@I0057@",
+        "@I0058@",
+        "@I0059@"
+      ]
+    ]
   },
   {
     "id": "@I0057@",
@@ -795,7 +1243,11 @@
     "birthDate": "11 JAN 1965",
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "parents": [
+      "@I0050@",
+      "@I0056@"
+    ]
   },
   {
     "id": "@I0058@",
@@ -809,7 +1261,17 @@
     "birthDate": "1 FEB 1972",
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "parents": [
+      "@I0050@",
+      "@I0056@"
+    ],
+    "family": [
+      "@I0060@",
+      [
+        "@I0061@"
+      ]
+    ]
   },
   {
     "id": "@I0059@",
@@ -823,7 +1285,11 @@
     "birthDate": "19 MAY 1981",
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "parents": [
+      "@I0050@",
+      "@I0056@"
+    ]
   },
   {
     "id": "@I0060@",
@@ -837,7 +1303,13 @@
     "birthDate": "7 FEB 1976",
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "family": [
+      "@I0058@",
+      [
+        "@I0061@"
+      ]
+    ]
   },
   {
     "id": "@I0061@",
@@ -851,7 +1323,11 @@
     "birthDate": "14 JAN 2002",
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "parents": [
+      "@I0058@",
+      "@I0060@"
+    ]
   },
   {
     "id": "@I0062@",
@@ -865,7 +1341,14 @@
     "birthDate": "26 DEC 1936",
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "family": [
+      "@I0051@",
+      [
+        "@I0063@",
+        "@I0064@"
+      ]
+    ]
   },
   {
     "id": "@I0063@",
@@ -879,7 +1362,17 @@
     "birthDate": "27 SEP 1972",
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "parents": [
+      "@I0062@",
+      "@I0051@"
+    ],
+    "family": [
+      null,
+      [
+        "@I0065@"
+      ]
+    ]
   },
   {
     "id": "@I0064@",
@@ -893,7 +1386,18 @@
     "birthDate": "11 MAR 1979",
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "parents": [
+      "@I0062@",
+      "@I0051@"
+    ],
+    "family": [
+      "@I0066@",
+      [
+        "@I0067@",
+        "@I0068@"
+      ]
+    ]
   },
   {
     "id": "@I0065@",
@@ -907,7 +1411,11 @@
     "birthDate": "14 JUL 2009",
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "parents": [
+      "@I0063@",
+      null
+    ]
   },
   {
     "id": "@I0066@",
@@ -921,7 +1429,14 @@
     "birthDate": null,
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "family": [
+      "@I0064@",
+      [
+        "@I0067@",
+        "@I0068@"
+      ]
+    ]
   },
   {
     "id": "@I0067@",
@@ -935,7 +1450,11 @@
     "birthDate": "23 MAR 2012",
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "parents": [
+      "@I0066@",
+      "@I0064@"
+    ]
   },
   {
     "id": "@I0068@",
@@ -949,7 +1468,11 @@
     "birthDate": "2 SEP 2015",
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "parents": [
+      "@I0066@",
+      "@I0064@"
+    ]
   },
   {
     "id": "@I0069@",
@@ -963,7 +1486,13 @@
     "birthDate": "21 MAR 1936",
     "birthPlace": null,
     "deathDate": "11 DEC 1975",
-    "deathPlace": null
+    "deathPlace": null,
+    "family": [
+      "@I0052@",
+      [
+        "@I0070@"
+      ]
+    ]
   },
   {
     "id": "@I0070@",
@@ -977,7 +1506,11 @@
     "birthDate": "31 MAY 1969",
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "parents": [
+      "@I0069@",
+      "@I0052@"
+    ]
   },
   {
     "id": "@I0071@",
@@ -991,7 +1524,11 @@
     "birthDate": "20 FEB 1941",
     "birthPlace": null,
     "deathDate": "JAN 2022",
-    "deathPlace": null
+    "deathPlace": null,
+    "family": [
+      "@I0052@",
+      null
+    ]
   },
   {
     "id": "@I0072@",
@@ -1005,7 +1542,14 @@
     "birthDate": "24 SEP 1948",
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "family": [
+      "@I0053@",
+      [
+        "@I0073@",
+        "@I0074@"
+      ]
+    ]
   },
   {
     "id": "@I0073@",
@@ -1019,7 +1563,18 @@
     "birthDate": "1 JAN 1972",
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "parents": [
+      "@I0053@",
+      "@I0072@"
+    ],
+    "family": [
+      "@I0075@",
+      [
+        "@I0076@",
+        "@I0077@"
+      ]
+    ]
   },
   {
     "id": "@I0074@",
@@ -1033,7 +1588,18 @@
     "birthDate": "16 SEP 1973",
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "parents": [
+      "@I0053@",
+      "@I0072@"
+    ],
+    "family": [
+      "@I0078@",
+      [
+        "@I0079@",
+        "@I0080@"
+      ]
+    ]
   },
   {
     "id": "@I0075@",
@@ -1047,7 +1613,14 @@
     "birthDate": "25 DEC 1971",
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "family": [
+      "@I0073@",
+      [
+        "@I0076@",
+        "@I0077@"
+      ]
+    ]
   },
   {
     "id": "@I0076@",
@@ -1061,7 +1634,11 @@
     "birthDate": "2 JUL 1993",
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "parents": [
+      "@I0075@",
+      "@I0073@"
+    ]
   },
   {
     "id": "@I0077@",
@@ -1075,7 +1652,11 @@
     "birthDate": null,
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "parents": [
+      "@I0075@",
+      "@I0073@"
+    ]
   },
   {
     "id": "@I0078@",
@@ -1089,7 +1670,14 @@
     "birthDate": "21 JAN 1978",
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "family": [
+      "@I0074@",
+      [
+        "@I0079@",
+        "@I0080@"
+      ]
+    ]
   },
   {
     "id": "@I0079@",
@@ -1103,7 +1691,11 @@
     "birthDate": "18 OCT 1997",
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "parents": [
+      "@I0074@",
+      "@I0078@"
+    ]
   },
   {
     "id": "@I0080@",
@@ -1117,7 +1709,11 @@
     "birthDate": "8 APR 2003",
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "parents": [
+      "@I0074@",
+      "@I0078@"
+    ]
   },
   {
     "id": "@I0081@",
@@ -1131,7 +1727,15 @@
     "birthDate": "4 SEP 1948",
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "family": [
+      "@I0054@",
+      [
+        "@I0082@",
+        "@I0083@",
+        "@I0084@"
+      ]
+    ]
   },
   {
     "id": "@I0082@",
@@ -1145,7 +1749,18 @@
     "birthDate": "16 JUN 1974",
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "parents": [
+      "@I0054@",
+      "@I0081@"
+    ],
+    "family": [
+      "@I0085@",
+      [
+        "@I0086@",
+        "@I0087@"
+      ]
+    ]
   },
   {
     "id": "@I0083@",
@@ -1159,7 +1774,11 @@
     "birthDate": "16 JUN 1974",
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "parents": [
+      "@I0054@",
+      "@I0081@"
+    ]
   },
   {
     "id": "@I0084@",
@@ -1173,7 +1792,11 @@
     "birthDate": "1 JUN 1985",
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "parents": [
+      "@I0054@",
+      "@I0081@"
+    ]
   },
   {
     "id": "@I0085@",
@@ -1187,7 +1810,14 @@
     "birthDate": null,
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "family": [
+      "@I0082@",
+      [
+        "@I0086@",
+        "@I0087@"
+      ]
+    ]
   },
   {
     "id": "@I0086@",
@@ -1201,7 +1831,11 @@
     "birthDate": "25 MAR 2010",
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "parents": [
+      "@I0082@",
+      "@I0085@"
+    ]
   },
   {
     "id": "@I0087@",
@@ -1215,7 +1849,11 @@
     "birthDate": "27 FEB 2019",
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "parents": [
+      "@I0082@",
+      "@I0085@"
+    ]
   },
   {
     "id": "@I0088@",
@@ -1229,7 +1867,14 @@
     "birthDate": "4 JAN 1966",
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "family": [
+      "@I0055@",
+      [
+        "@I0089@",
+        "@I0090@"
+      ]
+    ]
   },
   {
     "id": "@I0089@",
@@ -1243,7 +1888,11 @@
     "birthDate": "16 JAN 1986",
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "parents": [
+      "@I0055@",
+      "@I0088@"
+    ]
   },
   {
     "id": "@I0090@",
@@ -1257,7 +1906,11 @@
     "birthDate": "4 JAN 1990",
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "parents": [
+      "@I0055@",
+      "@I0088@"
+    ]
   },
   {
     "id": "@I0091@",
@@ -1271,7 +1924,20 @@
     "birthDate": "3 SEP 1919",
     "birthPlace": null,
     "deathDate": "11 DEC 2013",
-    "deathPlace": null
+    "deathPlace": null,
+    "parents": [
+      "@I0045@",
+      "@I0046@"
+    ],
+    "family": [
+      "@I0092@",
+      [
+        "@I0093@",
+        "@I0094@",
+        "@I0095@",
+        "@I0096@"
+      ]
+    ]
   },
   {
     "id": "@I0092@",
@@ -1285,7 +1951,16 @@
     "birthDate": "23 SEP 1922",
     "birthPlace": null,
     "deathDate": "4 JUN 1994",
-    "deathPlace": null
+    "deathPlace": null,
+    "family": [
+      "@I0091@",
+      [
+        "@I0093@",
+        "@I0094@",
+        "@I0095@",
+        "@I0096@"
+      ]
+    ]
   },
   {
     "id": "@I0093@",
@@ -1299,7 +1974,18 @@
     "birthDate": "23 JAN 1950",
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "parents": [
+      "@I0091@",
+      "@I0092@"
+    ],
+    "family": [
+      "@I0097@",
+      [
+        "@I0098@",
+        "@I0099@"
+      ]
+    ]
   },
   {
     "id": "@I0094@",
@@ -1313,7 +1999,18 @@
     "birthDate": "1 MAY 1953",
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "parents": [
+      "@I0091@",
+      "@I0092@"
+    ],
+    "family": [
+      null,
+      [
+        "@I0102@",
+        "@I0103@"
+      ]
+    ]
   },
   {
     "id": "@I0095@",
@@ -1327,7 +2024,19 @@
     "birthDate": "9 JAN 1951",
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "parents": [
+      "@I0091@",
+      "@I0092@"
+    ],
+    "family": [
+      "@I0104@",
+      [
+        "@I0105@",
+        "@I0106@",
+        "@I0107@"
+      ]
+    ]
   },
   {
     "id": "@I0096@",
@@ -1341,7 +2050,18 @@
     "birthDate": "6 MAR 1957",
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "parents": [
+      "@I0091@",
+      "@I0092@"
+    ],
+    "family": [
+      "@I0109@",
+      [
+        "@I0110@",
+        "@I0111@"
+      ]
+    ]
   },
   {
     "id": "@I0097@",
@@ -1355,7 +2075,14 @@
     "birthDate": "23 JAN 1948",
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "family": [
+      "@I0093@",
+      [
+        "@I0098@",
+        "@I0099@"
+      ]
+    ]
   },
   {
     "id": "@I0098@",
@@ -1369,7 +2096,15 @@
     "birthDate": "19 APR 1976",
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "parents": [
+      "@I0097@",
+      "@I0093@"
+    ],
+    "family": [
+      "@I0100@",
+      null
+    ]
   },
   {
     "id": "@I0099@",
@@ -1383,7 +2118,15 @@
     "birthDate": "25 OCT 1978",
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "parents": [
+      "@I0097@",
+      "@I0093@"
+    ],
+    "family": [
+      "@I0101@",
+      null
+    ]
   },
   {
     "id": "@I0100@",
@@ -1397,7 +2140,11 @@
     "birthDate": null,
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "family": [
+      "@I0098@",
+      null
+    ]
   },
   {
     "id": "@I0101@",
@@ -1411,7 +2158,11 @@
     "birthDate": null,
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "family": [
+      "@I0099@",
+      null
+    ]
   },
   {
     "id": "@I0102@",
@@ -1425,7 +2176,11 @@
     "birthDate": "6 MAY 1980",
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "parents": [
+      "@I0094@",
+      null
+    ]
   },
   {
     "id": "@I0103@",
@@ -1439,7 +2194,11 @@
     "birthDate": "15 OCT 1982",
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "parents": [
+      "@I0094@",
+      null
+    ]
   },
   {
     "id": "@I0104@",
@@ -1453,7 +2212,15 @@
     "birthDate": "9 DEC 1951",
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "family": [
+      "@I0095@",
+      [
+        "@I0105@",
+        "@I0106@",
+        "@I0107@"
+      ]
+    ]
   },
   {
     "id": "@I0105@",
@@ -1467,7 +2234,11 @@
     "birthDate": "14 DEC 1981",
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "parents": [
+      "@I0104@",
+      "@I0095@"
+    ]
   },
   {
     "id": "@I0106@",
@@ -1481,7 +2252,17 @@
     "birthDate": "5 JUL 1983",
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "parents": [
+      "@I0104@",
+      "@I0095@"
+    ],
+    "family": [
+      null,
+      [
+        "@I0108@"
+      ]
+    ]
   },
   {
     "id": "@I0107@",
@@ -1495,7 +2276,11 @@
     "birthDate": "19 NOV 1985",
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "parents": [
+      "@I0104@",
+      "@I0095@"
+    ]
   },
   {
     "id": "@I0108@",
@@ -1509,7 +2294,11 @@
     "birthDate": "25 OCT 2000",
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "parents": [
+      null,
+      "@I0106@"
+    ]
   },
   {
     "id": "@I0109@",
@@ -1523,7 +2312,14 @@
     "birthDate": "7 JAN 1950",
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "family": [
+      "@I0096@",
+      [
+        "@I0110@",
+        "@I0111@"
+      ]
+    ]
   },
   {
     "id": "@I0110@",
@@ -1537,7 +2333,11 @@
     "birthDate": "11 NOV 1980",
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "parents": [
+      "@I0109@",
+      "@I0096@"
+    ]
   },
   {
     "id": "@I0111@",
@@ -1551,7 +2351,11 @@
     "birthDate": "28 FEB 1984",
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "parents": [
+      "@I0109@",
+      "@I0096@"
+    ]
   },
   {
     "id": "@I0112@",
@@ -1565,7 +2369,18 @@
     "birthDate": "7 NOV 1921",
     "birthPlace": null,
     "deathDate": "19 JUL 1999",
-    "deathPlace": null
+    "deathPlace": null,
+    "parents": [
+      "@I0045@",
+      "@I0046@"
+    ],
+    "family": [
+      "@I0113@",
+      [
+        "@I0114@",
+        "@I0115@"
+      ]
+    ]
   },
   {
     "id": "@I0113@",
@@ -1579,7 +2394,14 @@
     "birthDate": "26 SEP 1925",
     "birthPlace": null,
     "deathDate": "1996",
-    "deathPlace": null
+    "deathPlace": null,
+    "family": [
+      "@I0112@",
+      [
+        "@I0114@",
+        "@I0115@"
+      ]
+    ]
   },
   {
     "id": "@I0114@",
@@ -1593,7 +2415,11 @@
     "birthDate": "3 FEB 1957",
     "birthPlace": null,
     "deathDate": "13 MAR 2001",
-    "deathPlace": null
+    "deathPlace": null,
+    "parents": [
+      "@I0112@",
+      "@I0113@"
+    ]
   },
   {
     "id": "@I0115@",
@@ -1607,7 +2433,15 @@
     "birthDate": "28 MAR 1959",
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "parents": [
+      "@I0112@",
+      "@I0113@"
+    ],
+    "family": [
+      "@I0116@",
+      null
+    ]
   },
   {
     "id": "@I0116@",
@@ -1621,7 +2455,11 @@
     "birthDate": "2 NOV 1956",
     "birthPlace": null,
     "deathDate": "2 JAN 2000",
-    "deathPlace": null
+    "deathPlace": null,
+    "family": [
+      "@I0115@",
+      null
+    ]
   },
   {
     "id": "@I0117@",
@@ -1635,7 +2473,20 @@
     "birthDate": "17 NOV 1923",
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "parents": [
+      "@I0045@",
+      "@I0046@"
+    ],
+    "family": [
+      "@I0118@",
+      [
+        "@I0119@",
+        "@I0120@",
+        "@I0121@",
+        "@I0122@"
+      ]
+    ]
   },
   {
     "id": "@I0118@",
@@ -1649,7 +2500,16 @@
     "birthDate": "6 AUG 1926",
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "family": [
+      "@I0117@",
+      [
+        "@I0119@",
+        "@I0120@",
+        "@I0121@",
+        "@I0122@"
+      ]
+    ]
   },
   {
     "id": "@I0119@",
@@ -1663,7 +2523,18 @@
     "birthDate": "17 DEC 1948",
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "parents": [
+      "@I0118@",
+      "@I0117@"
+    ],
+    "family": [
+      "@I0123@",
+      [
+        "@I0124@",
+        "@I0125@"
+      ]
+    ]
   },
   {
     "id": "@I0120@",
@@ -1677,7 +2548,17 @@
     "birthDate": "11 FEB 1953",
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "parents": [
+      "@I0118@",
+      "@I0117@"
+    ],
+    "family": [
+      "@I0127@",
+      [
+        "@I0128@"
+      ]
+    ]
   },
   {
     "id": "@I0121@",
@@ -1691,7 +2572,18 @@
     "birthDate": "21 MAR 1964",
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "parents": [
+      "@I0118@",
+      "@I0117@"
+    ],
+    "family": [
+      "@I0129@",
+      [
+        "@I0130@",
+        "@I0131@"
+      ]
+    ]
   },
   {
     "id": "@I0122@",
@@ -1705,7 +2597,18 @@
     "birthDate": "9 JUL 1969",
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "parents": [
+      "@I0118@",
+      "@I0117@"
+    ],
+    "family": [
+      "@I0132@",
+      [
+        "@I0133@",
+        "@I0134@"
+      ]
+    ]
   },
   {
     "id": "@I0123@",
@@ -1719,7 +2622,14 @@
     "birthDate": "8 JUN 1945",
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "family": [
+      "@I0119@",
+      [
+        "@I0124@",
+        "@I0125@"
+      ]
+    ]
   },
   {
     "id": "@I0124@",
@@ -1733,7 +2643,17 @@
     "birthDate": "1 OCT 1970",
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "parents": [
+      "@I0123@",
+      "@I0119@"
+    ],
+    "family": [
+      null,
+      [
+        "@I0126@"
+      ]
+    ]
   },
   {
     "id": "@I0125@",
@@ -1747,7 +2667,11 @@
     "birthDate": "25 MAY 1975",
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "parents": [
+      "@I0123@",
+      "@I0119@"
+    ]
   },
   {
     "id": "@I0126@",
@@ -1761,7 +2685,11 @@
     "birthDate": "18 AUG 1995",
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "parents": [
+      null,
+      "@I0124@"
+    ]
   },
   {
     "id": "@I0127@",
@@ -1775,7 +2703,13 @@
     "birthDate": "29 DEC 1956",
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "family": [
+      "@I0120@",
+      [
+        "@I0128@"
+      ]
+    ]
   },
   {
     "id": "@I0128@",
@@ -1789,7 +2723,11 @@
     "birthDate": "29 OCT 1989",
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "parents": [
+      "@I0120@",
+      "@I0127@"
+    ]
   },
   {
     "id": "@I0129@",
@@ -1803,7 +2741,14 @@
     "birthDate": "21 JAN 1963",
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "family": [
+      "@I0121@",
+      [
+        "@I0130@",
+        "@I0131@"
+      ]
+    ]
   },
   {
     "id": "@I0130@",
@@ -1817,7 +2762,11 @@
     "birthDate": "17 AUG 1994",
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "parents": [
+      "@I0121@",
+      "@I0129@"
+    ]
   },
   {
     "id": "@I0131@",
@@ -1831,7 +2780,11 @@
     "birthDate": "29 APR 1997",
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "parents": [
+      "@I0121@",
+      "@I0129@"
+    ]
   },
   {
     "id": "@I0132@",
@@ -1845,7 +2798,14 @@
     "birthDate": "8 MAY 1968",
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "family": [
+      "@I0122@",
+      [
+        "@I0133@",
+        "@I0134@"
+      ]
+    ]
   },
   {
     "id": "@I0133@",
@@ -1859,7 +2819,11 @@
     "birthDate": "6 SEP 1988",
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "parents": [
+      "@I0132@",
+      "@I0122@"
+    ]
   },
   {
     "id": "@I0134@",
@@ -1873,7 +2837,11 @@
     "birthDate": "16 JAN 1992",
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "parents": [
+      "@I0132@",
+      "@I0122@"
+    ]
   },
   {
     "id": "@I0135@",
@@ -1887,7 +2855,20 @@
     "birthDate": "8 FEB 1926",
     "birthPlace": null,
     "deathDate": "1 SEP 2020",
-    "deathPlace": null
+    "deathPlace": null,
+    "parents": [
+      "@I0045@",
+      "@I0046@"
+    ],
+    "family": [
+      "@I0137@",
+      [
+        "@I0138@",
+        "@I0139@",
+        "@I0140@",
+        "@I0141@"
+      ]
+    ]
   },
   {
     "id": "@I0137@",
@@ -1901,7 +2882,16 @@
     "birthDate": "28 NOV 1922",
     "birthPlace": null,
     "deathDate": "11 DEC 2007",
-    "deathPlace": null
+    "deathPlace": null,
+    "family": [
+      "@I0135@",
+      [
+        "@I0138@",
+        "@I0139@",
+        "@I0140@",
+        "@I0141@"
+      ]
+    ]
   },
   {
     "id": "@I0138@",
@@ -1915,7 +2905,18 @@
     "birthDate": "15 AUG 1946",
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "parents": [
+      "@I0137@",
+      "@I0135@"
+    ],
+    "family": [
+      "@I0142@",
+      [
+        "@I0143@",
+        "@I0144@"
+      ]
+    ]
   },
   {
     "id": "@I0139@",
@@ -1929,7 +2930,19 @@
     "birthDate": "9 OCT 1949",
     "birthPlace": null,
     "deathDate": "4 JUN 1990",
-    "deathPlace": null
+    "deathPlace": null,
+    "parents": [
+      "@I0137@",
+      "@I0135@"
+    ],
+    "family": [
+      "@I0147@",
+      [
+        "@I0148@",
+        "@I0149@",
+        "@I0150@"
+      ]
+    ]
   },
   {
     "id": "@I0140@",
@@ -1943,7 +2956,18 @@
     "birthDate": "9 APR 1954",
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "parents": [
+      "@I0137@",
+      "@I0135@"
+    ],
+    "family": [
+      "@I0152@",
+      [
+        "@I0153@",
+        "@I0154@"
+      ]
+    ]
   },
   {
     "id": "@I0141@",
@@ -1957,7 +2981,18 @@
     "birthDate": "2 DEC 1960",
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "parents": [
+      "@I0137@",
+      "@I0135@"
+    ],
+    "family": [
+      "@I0155@",
+      [
+        "@I0156@",
+        "@I0157@"
+      ]
+    ]
   },
   {
     "id": "@I0142@",
@@ -1971,7 +3006,14 @@
     "birthDate": "20 JUN 1942",
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "family": [
+      "@I0138@",
+      [
+        "@I0143@",
+        "@I0144@"
+      ]
+    ]
   },
   {
     "id": "@I0143@",
@@ -1985,7 +3027,15 @@
     "birthDate": "12 MAY 1970",
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "parents": [
+      "@I0142@",
+      "@I0138@"
+    ],
+    "family": [
+      "@I0145@",
+      null
+    ]
   },
   {
     "id": "@I0144@",
@@ -1999,7 +3049,15 @@
     "birthDate": "1 AUG 1976",
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "parents": [
+      "@I0142@",
+      "@I0138@"
+    ],
+    "family": [
+      "@I0146@",
+      null
+    ]
   },
   {
     "id": "@I0145@",
@@ -2013,7 +3071,11 @@
     "birthDate": null,
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "family": [
+      "@I0143@",
+      null
+    ]
   },
   {
     "id": "@I0146@",
@@ -2027,7 +3089,11 @@
     "birthDate": "18 JUL 1976",
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "family": [
+      "@I0144@",
+      null
+    ]
   },
   {
     "id": "@I0147@",
@@ -2041,7 +3107,15 @@
     "birthDate": "30 MAY 1946",
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "family": [
+      "@I0139@",
+      [
+        "@I0148@",
+        "@I0149@",
+        "@I0150@"
+      ]
+    ]
   },
   {
     "id": "@I0148@",
@@ -2055,7 +3129,11 @@
     "birthDate": "4 MAR 1977",
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "parents": [
+      "@I0147@",
+      "@I0139@"
+    ]
   },
   {
     "id": "@I0149@",
@@ -2069,7 +3147,15 @@
     "birthDate": "7 JUN 1979",
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "parents": [
+      "@I0147@",
+      "@I0139@"
+    ],
+    "family": [
+      "@I0151@",
+      null
+    ]
   },
   {
     "id": "@I0150@",
@@ -2083,7 +3169,11 @@
     "birthDate": "29 NOV 1988",
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "parents": [
+      "@I0147@",
+      "@I0139@"
+    ]
   },
   {
     "id": "@I0151@",
@@ -2097,7 +3187,11 @@
     "birthDate": "2 APR 1979",
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "family": [
+      "@I0149@",
+      null
+    ]
   },
   {
     "id": "@I0152@",
@@ -2111,7 +3205,14 @@
     "birthDate": "8 MAY 1956",
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "family": [
+      "@I0140@",
+      [
+        "@I0153@",
+        "@I0154@"
+      ]
+    ]
   },
   {
     "id": "@I0153@",
@@ -2125,7 +3226,11 @@
     "birthDate": "10 FEB 1984",
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "parents": [
+      "@I0140@",
+      "@I0152@"
+    ]
   },
   {
     "id": "@I0154@",
@@ -2139,7 +3244,11 @@
     "birthDate": null,
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "parents": [
+      "@I0140@",
+      "@I0152@"
+    ]
   },
   {
     "id": "@I0155@",
@@ -2153,7 +3262,14 @@
     "birthDate": "29 JAN 1959",
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "family": [
+      "@I0141@",
+      [
+        "@I0156@",
+        "@I0157@"
+      ]
+    ]
   },
   {
     "id": "@I0156@",
@@ -2167,7 +3283,11 @@
     "birthDate": "30 MAR 1998",
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "parents": [
+      "@I0155@",
+      "@I0141@"
+    ]
   },
   {
     "id": "@I0157@",
@@ -2181,7 +3301,11 @@
     "birthDate": "16 JUL 2000",
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "parents": [
+      "@I0155@",
+      "@I0141@"
+    ]
   },
   {
     "id": "@I0158@",
@@ -2195,7 +3319,11 @@
     "birthDate": "1933",
     "birthPlace": null,
     "deathDate": "1933",
-    "deathPlace": null
+    "deathPlace": null,
+    "parents": [
+      "@I0045@",
+      "@I0046@"
+    ]
   },
   {
     "id": "@I0159@",
@@ -2209,7 +3337,11 @@
     "birthDate": "1935",
     "birthPlace": null,
     "deathDate": "1935",
-    "deathPlace": null
+    "deathPlace": null,
+    "parents": [
+      "@I0045@",
+      "@I0046@"
+    ]
   },
   {
     "id": "@I0160@",
@@ -2223,7 +3355,26 @@
     "birthDate": "14 JUL 1886",
     "birthPlace": null,
     "deathDate": "28 SEP 1963",
-    "deathPlace": null
+    "deathPlace": null,
+    "family": [
+      "@I0161@",
+      [
+        "@I0005@",
+        "@I0162@",
+        "@I0163@",
+        "@I0164@",
+        "@I0165@",
+        "@I0166@",
+        "@I0167@",
+        "@I0168@",
+        "@I0169@",
+        "@I0170@"
+      ]
+    ],
+    "parents": [
+      "@I0299@",
+      "@I0300@"
+    ]
   },
   {
     "id": "@I0161@",
@@ -2237,7 +3388,26 @@
     "birthDate": "26 APR 1897",
     "birthPlace": "Beveren-Roeselare, Belgium",
     "deathDate": "17 JAN 1983",
-    "deathPlace": null
+    "deathPlace": null,
+    "family": [
+      "@I0160@",
+      [
+        "@I0005@",
+        "@I0162@",
+        "@I0163@",
+        "@I0164@",
+        "@I0165@",
+        "@I0166@",
+        "@I0167@",
+        "@I0168@",
+        "@I0169@",
+        "@I0170@"
+      ]
+    ],
+    "parents": [
+      "@I0171@",
+      "@I0172@"
+    ]
   },
   {
     "id": "@I0162@",
@@ -2251,7 +3421,21 @@
     "birthDate": "2 JAN 1916",
     "birthPlace": null,
     "deathDate": "15 SEP 1990",
-    "deathPlace": null
+    "deathPlace": null,
+    "parents": [
+      "@I0160@",
+      "@I0161@"
+    ],
+    "family": [
+      "@I0232@",
+      [
+        "@I0233@",
+        "@I0234@",
+        "@I0235@",
+        "@I0236@",
+        "@I0237@"
+      ]
+    ]
   },
   {
     "id": "@I0163@",
@@ -2265,7 +3449,20 @@
     "birthDate": "10 JUL 1925",
     "birthPlace": null,
     "deathDate": "11 FEB 2010",
-    "deathPlace": null
+    "deathPlace": null,
+    "parents": [
+      "@I0160@",
+      "@I0161@"
+    ],
+    "family": [
+      "@I0238@",
+      [
+        "@I0239@",
+        "@I0243@",
+        "@I0245@",
+        "@I0249@"
+      ]
+    ]
   },
   {
     "id": "@I0164@",
@@ -2279,7 +3476,19 @@
     "birthDate": "10 JUL 1926",
     "birthPlace": null,
     "deathDate": "19 FEB 2019",
-    "deathPlace": null
+    "deathPlace": null,
+    "parents": [
+      "@I0160@",
+      "@I0161@"
+    ],
+    "family": [
+      "@I0253@",
+      [
+        "@I0254@",
+        "@I0255@",
+        "@I0258@"
+      ]
+    ]
   },
   {
     "id": "@I0165@",
@@ -2293,7 +3502,11 @@
     "birthDate": "1923",
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "parents": [
+      "@I0160@",
+      "@I0161@"
+    ]
   },
   {
     "id": "@I0166@",
@@ -2307,7 +3520,21 @@
     "birthDate": "14 NOV 1927",
     "birthPlace": null,
     "deathDate": "20 NOV 1986",
-    "deathPlace": null
+    "deathPlace": null,
+    "parents": [
+      "@I0160@",
+      "@I0161@"
+    ],
+    "family": [
+      "@I0263@",
+      [
+        "@I0274@",
+        "@I0276@",
+        "@I0277@",
+        "@I0278@",
+        "@I0280@"
+      ]
+    ]
   },
   {
     "id": "@I0167@",
@@ -2321,7 +3548,18 @@
     "birthDate": "10 APR 1929",
     "birthPlace": null,
     "deathDate": "18 JAN 2017",
-    "deathPlace": null
+    "deathPlace": null,
+    "parents": [
+      "@I0160@",
+      "@I0161@"
+    ],
+    "family": [
+      "@I0271@",
+      [
+        "@I0272@",
+        "@I0273@"
+      ]
+    ]
   },
   {
     "id": "@I0168@",
@@ -2335,7 +3573,19 @@
     "birthDate": "10 JUN 1933",
     "birthPlace": null,
     "deathDate": "2007",
-    "deathPlace": null
+    "deathPlace": null,
+    "parents": [
+      "@I0160@",
+      "@I0161@"
+    ],
+    "family": [
+      "@I0264@",
+      [
+        "@I0265@",
+        "@I0267@",
+        "@I0269@"
+      ]
+    ]
   },
   {
     "id": "@I0169@",
@@ -2349,7 +3599,11 @@
     "birthDate": null,
     "birthPlace": null,
     "deathDate": "1934",
-    "deathPlace": null
+    "deathPlace": null,
+    "parents": [
+      "@I0160@",
+      "@I0161@"
+    ]
   },
   {
     "id": "@I0170@",
@@ -2363,7 +3617,19 @@
     "birthDate": "17 DEC 1935",
     "birthPlace": null,
     "deathDate": "8 NOV 2011",
-    "deathPlace": null
+    "deathPlace": null,
+    "parents": [
+      "@I0160@",
+      "@I0161@"
+    ],
+    "family": [
+      "@I0270@",
+      [
+        "@I0281@",
+        "@I0282@",
+        "@I0284@"
+      ]
+    ]
   },
   {
     "id": "@I0171@",
@@ -2377,7 +3643,21 @@
     "birthDate": "5 MAY 1853",
     "birthPlace": "Koolskamp, Belgium",
     "deathDate": "1 JUN 1939",
-    "deathPlace": "Hooglede, Belgium"
+    "deathPlace": "Hooglede, Belgium",
+    "family": [
+      "@I0172@",
+      [
+        "@I0161@",
+        "@I0288@",
+        "@I0290@",
+        "@I0291@",
+        "@I0292@"
+      ]
+    ],
+    "parents": [
+      "@I0173@",
+      "@I0174@"
+    ]
   },
   {
     "id": "@I0172@",
@@ -2391,7 +3671,21 @@
     "birthDate": "19 JUN 1861",
     "birthPlace": "Ardooie, Belgium",
     "deathDate": "6 AUG 1933",
-    "deathPlace": "Hooglede, Belgium"
+    "deathPlace": "Hooglede, Belgium",
+    "family": [
+      "@I0171@",
+      [
+        "@I0161@",
+        "@I0288@",
+        "@I0290@",
+        "@I0291@",
+        "@I0292@"
+      ]
+    ],
+    "parents": [
+      "@I0202@",
+      "@I0203@"
+    ]
   },
   {
     "id": "@I0173@",
@@ -2405,7 +3699,17 @@
     "birthDate": "27 JUN 1809",
     "birthPlace": "Kachtem, Belgium",
     "deathDate": "17 JUL 1903",
-    "deathPlace": "Koolskamp, Belgium"
+    "deathPlace": "Koolskamp, Belgium",
+    "family": [
+      "@I0174@",
+      [
+        "@I0171@"
+      ]
+    ],
+    "parents": [
+      "@I0175@",
+      "@I0176@"
+    ]
   },
   {
     "id": "@I0174@",
@@ -2419,7 +3723,17 @@
     "birthDate": "31 MAR 1820",
     "birthPlace": "Koolskamp, Belgium",
     "deathDate": "7 APR 1902",
-    "deathPlace": "Koolskamp, Belgium"
+    "deathPlace": "Koolskamp, Belgium",
+    "family": [
+      "@I0173@",
+      [
+        "@I0171@"
+      ]
+    ],
+    "parents": [
+      "@I0189@",
+      "@I0190@"
+    ]
   },
   {
     "id": "@I0175@",
@@ -2433,7 +3747,17 @@
     "birthDate": "3 MAR 1770",
     "birthPlace": "Rumbeke, Belgium",
     "deathDate": "14 DEC 1836",
-    "deathPlace": "Zwevezele, Belgium"
+    "deathPlace": "Zwevezele, Belgium",
+    "family": [
+      "@I0176@",
+      [
+        "@I0173@"
+      ]
+    ],
+    "parents": [
+      "@I0177@",
+      "@I0178@"
+    ]
   },
   {
     "id": "@I0176@",
@@ -2447,7 +3771,17 @@
     "birthDate": "23 DEC 1778",
     "birthPlace": "Ardooie, Belgium",
     "deathDate": "3 NOV 1816",
-    "deathPlace": "Koolskamp, Belgium"
+    "deathPlace": "Koolskamp, Belgium",
+    "family": [
+      "@I0175@",
+      [
+        "@I0173@"
+      ]
+    ],
+    "parents": [
+      "@I0183@",
+      "@I0184@"
+    ]
   },
   {
     "id": "@I0177@",
@@ -2461,7 +3795,17 @@
     "birthDate": "4 MAR 1725",
     "birthPlace": "Rumbeke, Belgium",
     "deathDate": "18 APR 1792",
-    "deathPlace": "Rumbeke, Belgium"
+    "deathPlace": "Rumbeke, Belgium",
+    "family": [
+      "@I0178@",
+      [
+        "@I0175@"
+      ]
+    ],
+    "parents": [
+      "@I0179@",
+      "@I0180@"
+    ]
   },
   {
     "id": "@I0178@",
@@ -2475,7 +3819,17 @@
     "birthDate": "29 NOV 1734",
     "birthPlace": "Rumbeke, Belgium",
     "deathDate": "18 JAN 1820",
-    "deathPlace": "Rumbeke, Belgium"
+    "deathPlace": "Rumbeke, Belgium",
+    "family": [
+      "@I0177@",
+      [
+        "@I0175@"
+      ]
+    ],
+    "parents": [
+      "@I0181@",
+      "@I0182@"
+    ]
   },
   {
     "id": "@I0179@",
@@ -2489,7 +3843,13 @@
     "birthDate": "18 JUN 1700",
     "birthPlace": "Rumbeke, Belgium",
     "deathDate": "3 DEC 1751",
-    "deathPlace": "Rumbeke, Belgium"
+    "deathPlace": "Rumbeke, Belgium",
+    "family": [
+      "@I0180@",
+      [
+        "@I0177@"
+      ]
+    ]
   },
   {
     "id": "@I0180@",
@@ -2503,7 +3863,13 @@
     "birthDate": "20 DEC 1699",
     "birthPlace": "Rumbeke, Belgium",
     "deathDate": "25 APR 1757",
-    "deathPlace": "Rumbeke, Belgium"
+    "deathPlace": "Rumbeke, Belgium",
+    "family": [
+      "@I0179@",
+      [
+        "@I0177@"
+      ]
+    ]
   },
   {
     "id": "@I0181@",
@@ -2517,7 +3883,13 @@
     "birthDate": "19 SEP 1706",
     "birthPlace": null,
     "deathDate": "26 MAR 1786",
-    "deathPlace": "Rumbeke, Belgium"
+    "deathPlace": "Rumbeke, Belgium",
+    "family": [
+      "@I0182@",
+      [
+        "@I0178@"
+      ]
+    ]
   },
   {
     "id": "@I0182@",
@@ -2531,7 +3903,13 @@
     "birthDate": "14 JUL 1708",
     "birthPlace": "Roeselare, Belgium",
     "deathDate": "10 MAR 1779",
-    "deathPlace": "Rumbeke, Belgium"
+    "deathPlace": "Rumbeke, Belgium",
+    "family": [
+      "@I0181@",
+      [
+        "@I0178@"
+      ]
+    ]
   },
   {
     "id": "@I0183@",
@@ -2545,7 +3923,17 @@
     "birthDate": "19 JAN 1747",
     "birthPlace": "Ardooie, Belgium",
     "deathDate": "1 JAN 1806",
-    "deathPlace": "Ardooie, Belgium"
+    "deathPlace": "Ardooie, Belgium",
+    "family": [
+      "@I0184@",
+      [
+        "@I0176@"
+      ]
+    ],
+    "parents": [
+      "@I0185@",
+      "@I0186@"
+    ]
   },
   {
     "id": "@I0184@",
@@ -2559,7 +3947,17 @@
     "birthDate": "30 AUG 1750",
     "birthPlace": "Ardooie, Belgium",
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "family": [
+      "@I0183@",
+      [
+        "@I0176@"
+      ]
+    ],
+    "parents": [
+      "@I0187@",
+      "@I0188@"
+    ]
   },
   {
     "id": "@I0185@",
@@ -2573,7 +3971,13 @@
     "birthDate": null,
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "family": [
+      "@I0186@",
+      [
+        "@I0183@"
+      ]
+    ]
   },
   {
     "id": "@I0186@",
@@ -2587,7 +3991,13 @@
     "birthDate": null,
     "birthPlace": null,
     "deathDate": "30 JUN 1758",
-    "deathPlace": "Ardooie, Belgium"
+    "deathPlace": "Ardooie, Belgium",
+    "family": [
+      "@I0185@",
+      [
+        "@I0183@"
+      ]
+    ]
   },
   {
     "id": "@I0187@",
@@ -2601,7 +4011,13 @@
     "birthDate": null,
     "birthPlace": null,
     "deathDate": "6 DEC 1779",
-    "deathPlace": "Ardooie, Belgium"
+    "deathPlace": "Ardooie, Belgium",
+    "family": [
+      "@I0188@",
+      [
+        "@I0184@"
+      ]
+    ]
   },
   {
     "id": "@I0188@",
@@ -2615,7 +4031,13 @@
     "birthDate": "20 MAY 1715",
     "birthPlace": "Ardooie, Belgium",
     "deathDate": "2 MAY 1767",
-    "deathPlace": "Ardooie, Belgium"
+    "deathPlace": "Ardooie, Belgium",
+    "family": [
+      "@I0187@",
+      [
+        "@I0184@"
+      ]
+    ]
   },
   {
     "id": "@I0189@",
@@ -2629,7 +4051,17 @@
     "birthDate": "8 OCT 1779",
     "birthPlace": "Ledegem, Belgium",
     "deathDate": "25 AUG 1848",
-    "deathPlace": "Koolskamp, Belgium"
+    "deathPlace": "Koolskamp, Belgium",
+    "family": [
+      "@I0190@",
+      [
+        "@I0174@"
+      ]
+    ],
+    "parents": [
+      "@I0191@",
+      "@I0192@"
+    ]
   },
   {
     "id": "@I0190@",
@@ -2643,7 +4075,17 @@
     "birthDate": "20 MAY 1783",
     "birthPlace": "Zwevezele, Belgium",
     "deathDate": "12 JUN 1855",
-    "deathPlace": "Koolskamp, Belgium"
+    "deathPlace": "Koolskamp, Belgium",
+    "family": [
+      "@I0189@",
+      [
+        "@I0174@"
+      ]
+    ],
+    "parents": [
+      "@I0196@",
+      "@I0197@"
+    ]
   },
   {
     "id": "@I0191@",
@@ -2657,7 +4099,17 @@
     "birthDate": null,
     "birthPlace": null,
     "deathDate": "5 JAN 1809",
-    "deathPlace": "Moorslede, Belgium"
+    "deathPlace": "Moorslede, Belgium",
+    "family": [
+      "@I0192@",
+      [
+        "@I0189@"
+      ]
+    ],
+    "parents": [
+      "@I0193@",
+      null
+    ]
   },
   {
     "id": "@I0192@",
@@ -2671,7 +4123,17 @@
     "birthDate": "20 JUL 1741",
     "birthPlace": "Hooglede, Belgium",
     "deathDate": "11 OCT 1780",
-    "deathPlace": "Ledegem, Belgium"
+    "deathPlace": "Ledegem, Belgium",
+    "family": [
+      "@I0191@",
+      [
+        "@I0189@"
+      ]
+    ],
+    "parents": [
+      "@I0194@",
+      "@I0195@"
+    ]
   },
   {
     "id": "@I0193@",
@@ -2685,7 +4147,13 @@
     "birthDate": null,
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "family": [
+      null,
+      [
+        "@I0191@"
+      ]
+    ]
   },
   {
     "id": "@I0194@",
@@ -2699,7 +4167,13 @@
     "birthDate": null,
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "family": [
+      "@I0195@",
+      [
+        "@I0192@"
+      ]
+    ]
   },
   {
     "id": "@I0195@",
@@ -2713,7 +4187,13 @@
     "birthDate": null,
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "family": [
+      "@I0194@",
+      [
+        "@I0192@"
+      ]
+    ]
   },
   {
     "id": "@I0196@",
@@ -2727,7 +4207,17 @@
     "birthDate": null,
     "birthPlace": null,
     "deathDate": "9 OCT 1803",
-    "deathPlace": null
+    "deathPlace": null,
+    "family": [
+      "@I0197@",
+      [
+        "@I0190@"
+      ]
+    ],
+    "parents": [
+      "@I0198@",
+      "@I0199@"
+    ]
   },
   {
     "id": "@I0197@",
@@ -2741,7 +4231,17 @@
     "birthDate": null,
     "birthPlace": null,
     "deathDate": "31 JUL 1829",
-    "deathPlace": "Koolskamp, Belgium"
+    "deathPlace": "Koolskamp, Belgium",
+    "family": [
+      "@I0196@",
+      [
+        "@I0190@"
+      ]
+    ],
+    "parents": [
+      "@I0200@",
+      "@I0201@"
+    ]
   },
   {
     "id": "@I0198@",
@@ -2755,7 +4255,13 @@
     "birthDate": null,
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "family": [
+      "@I0199@",
+      [
+        "@I0196@"
+      ]
+    ]
   },
   {
     "id": "@I0199@",
@@ -2769,7 +4275,17 @@
     "birthDate": null,
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "family": [
+      "@I0198@",
+      [
+        "@I0196@"
+      ]
+    ],
+    "parents": [
+      "@I0309@",
+      "@I0310@"
+    ]
   },
   {
     "id": "@I0200@",
@@ -2783,7 +4299,13 @@
     "birthDate": null,
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "family": [
+      "@I0201@",
+      [
+        "@I0197@"
+      ]
+    ]
   },
   {
     "id": "@I0201@",
@@ -2797,7 +4319,13 @@
     "birthDate": null,
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "family": [
+      "@I0200@",
+      [
+        "@I0197@"
+      ]
+    ]
   },
   {
     "id": "@I0202@",
@@ -2811,7 +4339,17 @@
     "birthDate": "26 SEP 1822",
     "birthPlace": "Beveren-Roeselare, Belgium",
     "deathDate": "29 MAY 1883",
-    "deathPlace": "Beveren-Roeselare, Belgium"
+    "deathPlace": "Beveren-Roeselare, Belgium",
+    "family": [
+      "@I0203@",
+      [
+        "@I0172@"
+      ]
+    ],
+    "parents": [
+      "@I0204@",
+      "@I0205@"
+    ]
   },
   {
     "id": "@I0203@",
@@ -2825,7 +4363,17 @@
     "birthDate": "6 MAR 1825",
     "birthPlace": "Beveren-Roeselare, Belgium",
     "deathDate": "6 FEB 1907",
-    "deathPlace": "Beveren-Roeselare, Belgium"
+    "deathPlace": "Beveren-Roeselare, Belgium",
+    "family": [
+      "@I0202@",
+      [
+        "@I0172@"
+      ]
+    ],
+    "parents": [
+      "@I0218@",
+      "@I0219@"
+    ]
   },
   {
     "id": "@I0204@",
@@ -2839,7 +4387,17 @@
     "birthDate": "1 SEP 1789",
     "birthPlace": "Beveren-Roeselare, Belgium",
     "deathDate": "4 AUG 1876",
-    "deathPlace": "Oostnieuwkerke, Belgium"
+    "deathPlace": "Oostnieuwkerke, Belgium",
+    "family": [
+      "@I0205@",
+      [
+        "@I0202@"
+      ]
+    ],
+    "parents": [
+      "@I0206@",
+      "@I0207@"
+    ]
   },
   {
     "id": "@I0205@",
@@ -2853,7 +4411,17 @@
     "birthDate": "14 MAR 1784",
     "birthPlace": "Lichtervelde, Belgium",
     "deathDate": "10 JUL 1852",
-    "deathPlace": "Ardooie, Belgium"
+    "deathPlace": "Ardooie, Belgium",
+    "family": [
+      "@I0204@",
+      [
+        "@I0202@"
+      ]
+    ],
+    "parents": [
+      "@I0212@",
+      "@I0213@"
+    ]
   },
   {
     "id": "@I0206@",
@@ -2867,7 +4435,17 @@
     "birthDate": "10 APR 1753",
     "birthPlace": "Izegem, Belgium",
     "deathDate": "18 MAY 1830",
-    "deathPlace": "Beveren-Roeselare, Belgium"
+    "deathPlace": "Beveren-Roeselare, Belgium",
+    "family": [
+      "@I0207@",
+      [
+        "@I0204@"
+      ]
+    ],
+    "parents": [
+      "@I0208@",
+      "@I0209@"
+    ]
   },
   {
     "id": "@I0207@",
@@ -2881,7 +4459,17 @@
     "birthDate": "30 JUL 1762",
     "birthPlace": "Gits, Belgium",
     "deathDate": "1 NOV 1794",
-    "deathPlace": "Beveren-Roeselare, Belgium"
+    "deathPlace": "Beveren-Roeselare, Belgium",
+    "family": [
+      "@I0206@",
+      [
+        "@I0204@"
+      ]
+    ],
+    "parents": [
+      "@I0210@",
+      "@I0211@"
+    ]
   },
   {
     "id": "@I0208@",
@@ -2895,7 +4483,13 @@
     "birthDate": null,
     "birthPlace": null,
     "deathDate": "20 JUL 1757",
-    "deathPlace": "Izegem, Belgium"
+    "deathPlace": "Izegem, Belgium",
+    "family": [
+      "@I0209@",
+      [
+        "@I0206@"
+      ]
+    ]
   },
   {
     "id": "@I0209@",
@@ -2909,7 +4503,13 @@
     "birthDate": null,
     "birthPlace": null,
     "deathDate": "26 FEB 1755",
-    "deathPlace": "Izegem, Belgium"
+    "deathPlace": "Izegem, Belgium",
+    "family": [
+      "@I0208@",
+      [
+        "@I0206@"
+      ]
+    ]
   },
   {
     "id": "@I0210@",
@@ -2923,7 +4523,13 @@
     "birthDate": null,
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "family": [
+      "@I0211@",
+      [
+        "@I0207@"
+      ]
+    ]
   },
   {
     "id": "@I0211@",
@@ -2937,7 +4543,13 @@
     "birthDate": "17 FEB 1727",
     "birthPlace": "Gits, Belgium",
     "deathDate": "27 DEC 1771",
-    "deathPlace": "Gits, Belgium"
+    "deathPlace": "Gits, Belgium",
+    "family": [
+      "@I0210@",
+      [
+        "@I0207@"
+      ]
+    ]
   },
   {
     "id": "@I0212@",
@@ -2951,7 +4563,17 @@
     "birthDate": "24 APR 1749",
     "birthPlace": "Lichtervelde, Belgium",
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "family": [
+      "@I0213@",
+      [
+        "@I0205@"
+      ]
+    ],
+    "parents": [
+      "@I0214@",
+      "@I0215@"
+    ]
   },
   {
     "id": "@I0213@",
@@ -2965,7 +4587,17 @@
     "birthDate": "5 DEC 1749",
     "birthPlace": "Lichtervelde, Belgium",
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "family": [
+      "@I0212@",
+      [
+        "@I0205@"
+      ]
+    ],
+    "parents": [
+      "@I0216@",
+      "@I0217@"
+    ]
   },
   {
     "id": "@I0214@",
@@ -2979,7 +4611,13 @@
     "birthDate": null,
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "family": [
+      "@I0215@",
+      [
+        "@I0212@"
+      ]
+    ]
   },
   {
     "id": "@I0215@",
@@ -2993,7 +4631,13 @@
     "birthDate": null,
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "family": [
+      "@I0214@",
+      [
+        "@I0212@"
+      ]
+    ]
   },
   {
     "id": "@I0216@",
@@ -3007,7 +4651,13 @@
     "birthDate": null,
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "family": [
+      "@I0217@",
+      [
+        "@I0213@"
+      ]
+    ]
   },
   {
     "id": "@I0217@",
@@ -3021,7 +4671,13 @@
     "birthDate": null,
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "family": [
+      "@I0216@",
+      [
+        "@I0213@"
+      ]
+    ]
   },
   {
     "id": "@I0218@",
@@ -3035,7 +4691,17 @@
     "birthDate": "21 APR 1791",
     "birthPlace": "Beveren-Roeselare, Belgium",
     "deathDate": "29 JAN 1867",
-    "deathPlace": "Beveren-Roeselare, Belgium"
+    "deathPlace": "Beveren-Roeselare, Belgium",
+    "family": [
+      "@I0219@",
+      [
+        "@I0203@"
+      ]
+    ],
+    "parents": [
+      "@I0220@",
+      "@I0221@"
+    ]
   },
   {
     "id": "@I0219@",
@@ -3049,7 +4715,17 @@
     "birthDate": "1 DEC 1794",
     "birthPlace": "Oostnieuwkerke, Belgium",
     "deathDate": "6 JUN 1873",
-    "deathPlace": "Roeselare, Belgium"
+    "deathPlace": "Roeselare, Belgium",
+    "family": [
+      "@I0218@",
+      [
+        "@I0203@"
+      ]
+    ],
+    "parents": [
+      "@I0226@",
+      "@I0227@"
+    ]
   },
   {
     "id": "@I0220@",
@@ -3063,7 +4739,17 @@
     "birthDate": "30 APR 1754",
     "birthPlace": "Beveren-Roeselare, Belgium",
     "deathDate": "23 SEP 1807",
-    "deathPlace": "Beveren-Roeselare, Belgium"
+    "deathPlace": "Beveren-Roeselare, Belgium",
+    "family": [
+      "@I0221@",
+      [
+        "@I0218@"
+      ]
+    ],
+    "parents": [
+      "@I0222@",
+      "@I0223@"
+    ]
   },
   {
     "id": "@I0221@",
@@ -3077,7 +4763,17 @@
     "birthDate": "12 AUG 1755",
     "birthPlace": "Roeselare, Belgium",
     "deathDate": "25 APR 1817",
-    "deathPlace": "Beveren-Roeselare, Belgium"
+    "deathPlace": "Beveren-Roeselare, Belgium",
+    "family": [
+      "@I0220@",
+      [
+        "@I0218@"
+      ]
+    ],
+    "parents": [
+      "@I0224@",
+      "@I0225@"
+    ]
   },
   {
     "id": "@I0222@",
@@ -3091,7 +4787,13 @@
     "birthDate": "8 DEC 1708",
     "birthPlace": "Beveren-Roeselare, Belgium",
     "deathDate": "10 JAN 1789",
-    "deathPlace": "Beveren-Roeselare, Belgium"
+    "deathPlace": "Beveren-Roeselare, Belgium",
+    "family": [
+      "@I0223@",
+      [
+        "@I0220@"
+      ]
+    ]
   },
   {
     "id": "@I0223@",
@@ -3105,7 +4807,13 @@
     "birthDate": "17 AUG 1711",
     "birthPlace": "Beveren-Roeselare, Belgium",
     "deathDate": "16 DEC 1768",
-    "deathPlace": "Beveren-Roeselare, Belgium"
+    "deathPlace": "Beveren-Roeselare, Belgium",
+    "family": [
+      "@I0222@",
+      [
+        "@I0220@"
+      ]
+    ]
   },
   {
     "id": "@I0224@",
@@ -3119,7 +4827,13 @@
     "birthDate": null,
     "birthPlace": null,
     "deathDate": "18 AUG 1769",
-    "deathPlace": "Roeselare, Belgium"
+    "deathPlace": "Roeselare, Belgium",
+    "family": [
+      "@I0225@",
+      [
+        "@I0221@"
+      ]
+    ]
   },
   {
     "id": "@I0225@",
@@ -3133,7 +4847,13 @@
     "birthDate": null,
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "family": [
+      "@I0224@",
+      [
+        "@I0221@"
+      ]
+    ]
   },
   {
     "id": "@I0226@",
@@ -3147,7 +4867,17 @@
     "birthDate": "24 JUN 1753",
     "birthPlace": "Oostnieuwkerke, Belgium",
     "deathDate": "2 DEC 1833",
-    "deathPlace": "Oostnieuwkerke, Belgium"
+    "deathPlace": "Oostnieuwkerke, Belgium",
+    "family": [
+      "@I0227@",
+      [
+        "@I0219@"
+      ]
+    ],
+    "parents": [
+      "@I0228@",
+      "@I0229@"
+    ]
   },
   {
     "id": "@I0227@",
@@ -3161,7 +4891,17 @@
     "birthDate": "11 APR 1754",
     "birthPlace": "Oostnieuwkerke, Belgium",
     "deathDate": "8 MAY 1812",
-    "deathPlace": "Oostnieuwkerke, Belgium"
+    "deathPlace": "Oostnieuwkerke, Belgium",
+    "family": [
+      "@I0226@",
+      [
+        "@I0219@"
+      ]
+    ],
+    "parents": [
+      "@I0230@",
+      "@I0231@"
+    ]
   },
   {
     "id": "@I0228@",
@@ -3175,7 +4915,13 @@
     "birthDate": null,
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "family": [
+      "@I0229@",
+      [
+        "@I0226@"
+      ]
+    ]
   },
   {
     "id": "@I0229@",
@@ -3189,7 +4935,13 @@
     "birthDate": null,
     "birthPlace": null,
     "deathDate": "6 OCT 1760",
-    "deathPlace": "Oostnieuwkerke, Belgium"
+    "deathPlace": "Oostnieuwkerke, Belgium",
+    "family": [
+      "@I0228@",
+      [
+        "@I0226@"
+      ]
+    ]
   },
   {
     "id": "@I0230@",
@@ -3203,7 +4955,13 @@
     "birthDate": "1700",
     "birthPlace": "Oostnieuwkerke, Belgium",
     "deathDate": "6 JUL 1774",
-    "deathPlace": "Oostnieuwkerke, Belgium"
+    "deathPlace": "Oostnieuwkerke, Belgium",
+    "family": [
+      "@I0231@",
+      [
+        "@I0227@"
+      ]
+    ]
   },
   {
     "id": "@I0231@",
@@ -3217,7 +4975,13 @@
     "birthDate": "1722",
     "birthPlace": "Oostnieuwkerke, Belgium",
     "deathDate": "30 OCT 1793",
-    "deathPlace": "Oostnieuwkerke, Belgium"
+    "deathPlace": "Oostnieuwkerke, Belgium",
+    "family": [
+      "@I0230@",
+      [
+        "@I0227@"
+      ]
+    ]
   },
   {
     "id": "@I0232@",
@@ -3231,7 +4995,17 @@
     "birthDate": null,
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "family": [
+      "@I0162@",
+      [
+        "@I0233@",
+        "@I0234@",
+        "@I0235@",
+        "@I0236@",
+        "@I0237@"
+      ]
+    ]
   },
   {
     "id": "@I0233@",
@@ -3245,7 +5019,11 @@
     "birthDate": null,
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "parents": [
+      "@I0162@",
+      "@I0232@"
+    ]
   },
   {
     "id": "@I0234@",
@@ -3259,7 +5037,11 @@
     "birthDate": null,
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "parents": [
+      "@I0162@",
+      "@I0232@"
+    ]
   },
   {
     "id": "@I0235@",
@@ -3273,7 +5055,11 @@
     "birthDate": null,
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "parents": [
+      "@I0162@",
+      "@I0232@"
+    ]
   },
   {
     "id": "@I0236@",
@@ -3287,7 +5073,11 @@
     "birthDate": null,
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "parents": [
+      "@I0162@",
+      "@I0232@"
+    ]
   },
   {
     "id": "@I0237@",
@@ -3301,7 +5091,11 @@
     "birthDate": null,
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "parents": [
+      "@I0162@",
+      "@I0232@"
+    ]
   },
   {
     "id": "@I0238@",
@@ -3315,7 +5109,16 @@
     "birthDate": null,
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "family": [
+      "@I0163@",
+      [
+        "@I0239@",
+        "@I0243@",
+        "@I0245@",
+        "@I0249@"
+      ]
+    ]
   },
   {
     "id": "@I0239@",
@@ -3329,7 +5132,18 @@
     "birthDate": null,
     "birthPlace": null,
     "deathDate": "23 AUG 1982",
-    "deathPlace": null
+    "deathPlace": null,
+    "parents": [
+      "@I0238@",
+      "@I0163@"
+    ],
+    "family": [
+      "@I0240@",
+      [
+        "@I0241@",
+        "@I0242@"
+      ]
+    ]
   },
   {
     "id": "@I0240@",
@@ -3343,7 +5157,14 @@
     "birthDate": null,
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "family": [
+      "@I0239@",
+      [
+        "@I0241@",
+        "@I0242@"
+      ]
+    ]
   },
   {
     "id": "@I0241@",
@@ -3357,7 +5178,11 @@
     "birthDate": null,
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "parents": [
+      "@I0239@",
+      "@I0240@"
+    ]
   },
   {
     "id": "@I0242@",
@@ -3371,7 +5196,15 @@
     "birthDate": null,
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "parents": [
+      "@I0239@",
+      "@I0240@"
+    ],
+    "family": [
+      "@I0298@",
+      null
+    ]
   },
   {
     "id": "@I0243@",
@@ -3385,7 +5218,15 @@
     "birthDate": null,
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "parents": [
+      "@I0238@",
+      "@I0163@"
+    ],
+    "family": [
+      "@I0262@",
+      null
+    ]
   },
   {
     "id": "@I0245@",
@@ -3399,7 +5240,18 @@
     "birthDate": null,
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "parents": [
+      "@I0238@",
+      "@I0163@"
+    ],
+    "family": [
+      "@I0246@",
+      [
+        "@I0247@",
+        "@I0248@"
+      ]
+    ]
   },
   {
     "id": "@I0246@",
@@ -3413,7 +5265,14 @@
     "birthDate": null,
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "family": [
+      "@I0245@",
+      [
+        "@I0247@",
+        "@I0248@"
+      ]
+    ]
   },
   {
     "id": "@I0247@",
@@ -3427,7 +5286,11 @@
     "birthDate": null,
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "parents": [
+      "@I0245@",
+      "@I0246@"
+    ]
   },
   {
     "id": "@I0248@",
@@ -3441,7 +5304,11 @@
     "birthDate": null,
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "parents": [
+      "@I0245@",
+      "@I0246@"
+    ]
   },
   {
     "id": "@I0249@",
@@ -3455,7 +5322,18 @@
     "birthDate": null,
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "parents": [
+      "@I0238@",
+      "@I0163@"
+    ],
+    "family": [
+      "@I0250@",
+      [
+        "@I0251@",
+        "@I0252@"
+      ]
+    ]
   },
   {
     "id": "@I0250@",
@@ -3469,7 +5347,14 @@
     "birthDate": null,
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "family": [
+      "@I0249@",
+      [
+        "@I0251@",
+        "@I0252@"
+      ]
+    ]
   },
   {
     "id": "@I0251@",
@@ -3483,7 +5368,11 @@
     "birthDate": null,
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "parents": [
+      "@I0249@",
+      "@I0250@"
+    ]
   },
   {
     "id": "@I0252@",
@@ -3497,7 +5386,11 @@
     "birthDate": null,
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "parents": [
+      "@I0249@",
+      "@I0250@"
+    ]
   },
   {
     "id": "@I0253@",
@@ -3511,7 +5404,15 @@
     "birthDate": null,
     "birthPlace": null,
     "deathDate": "15 NOV 2007",
-    "deathPlace": null
+    "deathPlace": null,
+    "family": [
+      "@I0164@",
+      [
+        "@I0254@",
+        "@I0255@",
+        "@I0258@"
+      ]
+    ]
   },
   {
     "id": "@I0254@",
@@ -3525,7 +5426,15 @@
     "birthDate": null,
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "parents": [
+      "@I0253@",
+      "@I0164@"
+    ],
+    "family": [
+      "@I0260@",
+      null
+    ]
   },
   {
     "id": "@I0255@",
@@ -3539,7 +5448,15 @@
     "birthDate": null,
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "parents": [
+      "@I0253@",
+      "@I0164@"
+    ],
+    "family": [
+      "@I0257@",
+      null
+    ]
   },
   {
     "id": "@I0256@",
@@ -3553,7 +5470,11 @@
     "birthDate": null,
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "family": [
+      "@I0254@",
+      null
+    ]
   },
   {
     "id": "@I0257@",
@@ -3567,7 +5488,11 @@
     "birthDate": null,
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "family": [
+      "@I0255@",
+      null
+    ]
   },
   {
     "id": "@I0258@",
@@ -3581,7 +5506,15 @@
     "birthDate": null,
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "parents": [
+      "@I0253@",
+      "@I0164@"
+    ],
+    "family": [
+      "@I0259@",
+      null
+    ]
   },
   {
     "id": "@I0259@",
@@ -3595,7 +5528,11 @@
     "birthDate": null,
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "family": [
+      "@I0258@",
+      null
+    ]
   },
   {
     "id": "@I0260@",
@@ -3609,7 +5546,11 @@
     "birthDate": null,
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "family": [
+      "@I0254@",
+      null
+    ]
   },
   {
     "id": "@I0261@",
@@ -3623,7 +5564,16 @@
     "birthDate": null,
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "family": [
+      "@I0012@",
+      [
+        "@I0013@",
+        "@I0014@",
+        "@I0015@",
+        "@I0016@"
+      ]
+    ]
   },
   {
     "id": "@I0262@",
@@ -3637,7 +5587,11 @@
     "birthDate": null,
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "family": [
+      "@I0243@",
+      null
+    ]
   },
   {
     "id": "@I0263@",
@@ -3651,7 +5605,17 @@
     "birthDate": "1928",
     "birthPlace": "Horní Němčí, Czech Republic",
     "deathDate": "18 JUN 2012",
-    "deathPlace": "Simcoe, Ontario"
+    "deathPlace": "Simcoe, Ontario",
+    "family": [
+      "@I0166@",
+      [
+        "@I0274@",
+        "@I0276@",
+        "@I0277@",
+        "@I0278@",
+        "@I0280@"
+      ]
+    ]
   },
   {
     "id": "@I0264@",
@@ -3665,7 +5629,15 @@
     "birthDate": "31 JAN 1931",
     "birthPlace": "Leeuwarden, Netherlands",
     "deathDate": "8 APR 2019",
-    "deathPlace": null
+    "deathPlace": null,
+    "family": [
+      "@I0168@",
+      [
+        "@I0265@",
+        "@I0267@",
+        "@I0269@"
+      ]
+    ]
   },
   {
     "id": "@I0265@",
@@ -3679,7 +5651,11 @@
     "birthDate": null,
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "parents": [
+      "@I0264@",
+      "@I0168@"
+    ]
   },
   {
     "id": "@I0267@",
@@ -3693,7 +5669,15 @@
     "birthDate": null,
     "birthPlace": null,
     "deathDate": "22 NOV 2022",
-    "deathPlace": null
+    "deathPlace": null,
+    "parents": [
+      "@I0264@",
+      "@I0168@"
+    ],
+    "family": [
+      "@I0268@",
+      null
+    ]
   },
   {
     "id": "@I0268@",
@@ -3707,7 +5691,11 @@
     "birthDate": null,
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "family": [
+      "@I0267@",
+      null
+    ]
   },
   {
     "id": "@I0269@",
@@ -3721,7 +5709,11 @@
     "birthDate": null,
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "parents": [
+      "@I0264@",
+      "@I0168@"
+    ]
   },
   {
     "id": "@I0270@",
@@ -3735,7 +5727,15 @@
     "birthDate": null,
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "family": [
+      "@I0170@",
+      [
+        "@I0281@",
+        "@I0282@",
+        "@I0284@"
+      ]
+    ]
   },
   {
     "id": "@I0271@",
@@ -3749,7 +5749,14 @@
     "birthDate": null,
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "family": [
+      "@I0167@",
+      [
+        "@I0272@",
+        "@I0273@"
+      ]
+    ]
   },
   {
     "id": "@I0272@",
@@ -3763,7 +5770,11 @@
     "birthDate": null,
     "birthPlace": null,
     "deathDate": "11 AUG 2017",
-    "deathPlace": null
+    "deathPlace": null,
+    "parents": [
+      "@I0271@",
+      "@I0167@"
+    ]
   },
   {
     "id": "@I0273@",
@@ -3777,7 +5788,11 @@
     "birthDate": null,
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "parents": [
+      "@I0271@",
+      "@I0167@"
+    ]
   },
   {
     "id": "@I0274@",
@@ -3791,7 +5806,18 @@
     "birthDate": null,
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "parents": [
+      "@I0166@",
+      "@I0263@"
+    ],
+    "family": [
+      "@I0275@",
+      [
+        "@I0295@",
+        "@I0296@"
+      ]
+    ]
   },
   {
     "id": "@I0275@",
@@ -3805,7 +5831,14 @@
     "birthDate": null,
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "family": [
+      "@I0274@",
+      [
+        "@I0295@",
+        "@I0296@"
+      ]
+    ]
   },
   {
     "id": "@I0276@",
@@ -3819,7 +5852,11 @@
     "birthDate": null,
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "parents": [
+      "@I0166@",
+      "@I0263@"
+    ]
   },
   {
     "id": "@I0277@",
@@ -3833,7 +5870,17 @@
     "birthDate": null,
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "parents": [
+      "@I0166@",
+      "@I0263@"
+    ],
+    "family": [
+      "@I0294@",
+      [
+        "@I0297@"
+      ]
+    ]
   },
   {
     "id": "@I0278@",
@@ -3847,7 +5894,15 @@
     "birthDate": null,
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "parents": [
+      "@I0166@",
+      "@I0263@"
+    ],
+    "family": [
+      "@I0279@",
+      null
+    ]
   },
   {
     "id": "@I0279@",
@@ -3861,7 +5916,11 @@
     "birthDate": null,
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "family": [
+      "@I0278@",
+      null
+    ]
   },
   {
     "id": "@I0280@",
@@ -3875,7 +5934,11 @@
     "birthDate": null,
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "parents": [
+      "@I0166@",
+      "@I0263@"
+    ]
   },
   {
     "id": "@I0281@",
@@ -3889,7 +5952,11 @@
     "birthDate": null,
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "parents": [
+      "@I0170@",
+      "@I0270@"
+    ]
   },
   {
     "id": "@I0282@",
@@ -3903,7 +5970,15 @@
     "birthDate": null,
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "parents": [
+      "@I0170@",
+      "@I0270@"
+    ],
+    "family": [
+      "@I0283@",
+      null
+    ]
   },
   {
     "id": "@I0283@",
@@ -3917,7 +5992,11 @@
     "birthDate": null,
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "family": [
+      "@I0282@",
+      null
+    ]
   },
   {
     "id": "@I0284@",
@@ -3931,7 +6010,15 @@
     "birthDate": null,
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "parents": [
+      "@I0170@",
+      "@I0270@"
+    ],
+    "family": [
+      "@I0285@",
+      null
+    ]
   },
   {
     "id": "@I0285@",
@@ -3945,7 +6032,11 @@
     "birthDate": null,
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "family": [
+      "@I0284@",
+      null
+    ]
   },
   {
     "id": "@I0286@",
@@ -3959,7 +6050,13 @@
     "birthDate": "27 MAY 1983",
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "family": [
+      "@I0013@",
+      [
+        "@I0287@"
+      ]
+    ]
   },
   {
     "id": "@I0287@",
@@ -3973,7 +6070,11 @@
     "birthDate": "12 JAN 2020",
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "parents": [
+      "@I0286@",
+      "@I0013@"
+    ]
   },
   {
     "id": "@I0288@",
@@ -3987,7 +6088,15 @@
     "birthDate": null,
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "parents": [
+      "@I0171@",
+      "@I0172@"
+    ],
+    "family": [
+      "@I0289@",
+      null
+    ]
   },
   {
     "id": "@I0289@",
@@ -4001,7 +6110,11 @@
     "birthDate": null,
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "family": [
+      "@I0288@",
+      null
+    ]
   },
   {
     "id": "@I0290@",
@@ -4015,7 +6128,11 @@
     "birthDate": null,
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "parents": [
+      "@I0171@",
+      "@I0172@"
+    ]
   },
   {
     "id": "@I0291@",
@@ -4029,7 +6146,11 @@
     "birthDate": null,
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "parents": [
+      "@I0171@",
+      "@I0172@"
+    ]
   },
   {
     "id": "@I0292@",
@@ -4043,7 +6164,15 @@
     "birthDate": null,
     "birthPlace": null,
     "deathDate": "7 FEB 1984",
-    "deathPlace": null
+    "deathPlace": null,
+    "parents": [
+      "@I0171@",
+      "@I0172@"
+    ],
+    "family": [
+      "@I0293@",
+      null
+    ]
   },
   {
     "id": "@I0293@",
@@ -4057,7 +6186,11 @@
     "birthDate": null,
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "family": [
+      "@I0292@",
+      null
+    ]
   },
   {
     "id": "@I0294@",
@@ -4071,7 +6204,13 @@
     "birthDate": null,
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "family": [
+      "@I0277@",
+      [
+        "@I0297@"
+      ]
+    ]
   },
   {
     "id": "@I0295@",
@@ -4085,7 +6224,11 @@
     "birthDate": null,
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "parents": [
+      "@I0275@",
+      "@I0274@"
+    ]
   },
   {
     "id": "@I0296@",
@@ -4099,7 +6242,11 @@
     "birthDate": null,
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "parents": [
+      "@I0275@",
+      "@I0274@"
+    ]
   },
   {
     "id": "@I0297@",
@@ -4113,7 +6260,11 @@
     "birthDate": null,
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "parents": [
+      "@I0294@",
+      "@I0277@"
+    ]
   },
   {
     "id": "@I0298@",
@@ -4127,7 +6278,11 @@
     "birthDate": null,
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "family": [
+      "@I0242@",
+      null
+    ]
   },
   {
     "id": "@I0299@",
@@ -4141,7 +6296,17 @@
     "birthDate": null,
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "family": [
+      "@I0300@",
+      [
+        "@I0160@"
+      ]
+    ],
+    "parents": [
+      "@I0301@",
+      "@I0302@"
+    ]
   },
   {
     "id": "@I0300@",
@@ -4155,7 +6320,13 @@
     "birthDate": null,
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "family": [
+      "@I0299@",
+      [
+        "@I0160@"
+      ]
+    ]
   },
   {
     "id": "@I0301@",
@@ -4169,7 +6340,17 @@
     "birthDate": null,
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "family": [
+      "@I0302@",
+      [
+        "@I0299@"
+      ]
+    ],
+    "parents": [
+      "@I0303@",
+      "@I0304@"
+    ]
   },
   {
     "id": "@I0302@",
@@ -4183,7 +6364,13 @@
     "birthDate": null,
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "family": [
+      "@I0301@",
+      [
+        "@I0299@"
+      ]
+    ]
   },
   {
     "id": "@I0303@",
@@ -4197,7 +6384,17 @@
     "birthDate": "17 OCT 1771",
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "family": [
+      "@I0304@",
+      [
+        "@I0301@"
+      ]
+    ],
+    "parents": [
+      "@I0305@",
+      "@I0306@"
+    ]
   },
   {
     "id": "@I0304@",
@@ -4211,7 +6408,13 @@
     "birthDate": "27 DEC 1771",
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "family": [
+      "@I0303@",
+      [
+        "@I0301@"
+      ]
+    ]
   },
   {
     "id": "@I0305@",
@@ -4225,7 +6428,17 @@
     "birthDate": "12 DEC 1731",
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "family": [
+      "@I0306@",
+      [
+        "@I0303@"
+      ]
+    ],
+    "parents": [
+      "@I0307@",
+      "@I0308@"
+    ]
   },
   {
     "id": "@I0306@",
@@ -4239,7 +6452,13 @@
     "birthDate": null,
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "family": [
+      "@I0305@",
+      [
+        "@I0303@"
+      ]
+    ]
   },
   {
     "id": "@I0307@",
@@ -4253,7 +6472,17 @@
     "birthDate": "12 JUN 1707",
     "birthPlace": null,
     "deathDate": "2 NOV 1771",
-    "deathPlace": null
+    "deathPlace": null,
+    "family": [
+      "@I0308@",
+      [
+        "@I0305@"
+      ]
+    ],
+    "parents": [
+      "@I0309@",
+      "@I0310@"
+    ]
   },
   {
     "id": "@I0308@",
@@ -4267,7 +6496,13 @@
     "birthDate": "11 NOV 1691",
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "family": [
+      "@I0307@",
+      [
+        "@I0305@"
+      ]
+    ]
   },
   {
     "id": "@I0309@",
@@ -4281,7 +6516,18 @@
     "birthDate": "27 JUN 1679",
     "birthPlace": null,
     "deathDate": "21 SEP 1719",
-    "deathPlace": null
+    "deathPlace": null,
+    "family": [
+      "@I0310@",
+      [
+        "@I0199@",
+        "@I0307@"
+      ]
+    ],
+    "parents": [
+      "@I0311@",
+      "@I0312@"
+    ]
   },
   {
     "id": "@I0310@",
@@ -4295,7 +6541,14 @@
     "birthDate": "26 JUN 1680",
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "family": [
+      "@I0309@",
+      [
+        "@I0199@",
+        "@I0307@"
+      ]
+    ]
   },
   {
     "id": "@I0311@",
@@ -4309,7 +6562,17 @@
     "birthDate": null,
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "family": [
+      "@I0312@",
+      [
+        "@I0309@"
+      ]
+    ],
+    "parents": [
+      "@I0313@",
+      null
+    ]
   },
   {
     "id": "@I0312@",
@@ -4323,7 +6586,13 @@
     "birthDate": "8 DEC 1654",
     "birthPlace": null,
     "deathDate": "6 JUL 1679",
-    "deathPlace": null
+    "deathPlace": null,
+    "family": [
+      "@I0311@",
+      [
+        "@I0309@"
+      ]
+    ]
   },
   {
     "id": "@I0313@",
@@ -4337,7 +6606,17 @@
     "birthDate": null,
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "family": [
+      null,
+      [
+        "@I0311@"
+      ]
+    ],
+    "parents": [
+      "@I0314@",
+      null
+    ]
   },
   {
     "id": "@I0314@",
@@ -4351,7 +6630,17 @@
     "birthDate": null,
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "family": [
+      null,
+      [
+        "@I0313@"
+      ]
+    ],
+    "parents": [
+      "@I0315@",
+      null
+    ]
   },
   {
     "id": "@I0315@",
@@ -4365,6 +6654,12 @@
     "birthDate": null,
     "birthPlace": null,
     "deathDate": null,
-    "deathPlace": null
+    "deathPlace": null,
+    "family": [
+      null,
+      [
+        "@I0314@"
+      ]
+    ]
   }
 ]
