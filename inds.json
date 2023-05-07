@@ -1854,6 +1854,12 @@
       "@I0062@",
       "@I0051@"
     ],
+    "family": [
+      null,
+      [
+        "@I0065@"
+      ]
+    ],
     "familyNames": [
       null,
       [
@@ -2686,6 +2692,13 @@
       "@I0091@",
       "@I0092@"
     ],
+    "family": [
+      null,
+      [
+        "@I0102@",
+        "@I0103@"
+      ]
+    ],
     "familyNames": [
       null,
       [
@@ -3012,6 +3025,12 @@
     "parentsNames": [
       "@I0104@",
       "@I0095@"
+    ],
+    "family": [
+      null,
+      [
+        "@I0108@"
+      ]
     ],
     "familyNames": [
       null,
@@ -3534,6 +3553,12 @@
     "parentsNames": [
       "@I0123@",
       "@I0119@"
+    ],
+    "family": [
+      null,
+      [
+        "@I0126@"
+      ]
     ],
     "familyNames": [
       null,
@@ -5573,6 +5598,12 @@
     "birthPlace": null,
     "deathDate": null,
     "deathPlace": null,
+    "family": [
+      null,
+      [
+        "@I0191@"
+      ]
+    ],
     "familyNames": [
       null,
       [
@@ -8831,6 +8862,12 @@
     "birthPlace": null,
     "deathDate": null,
     "deathPlace": null,
+    "family": [
+      null,
+      [
+        "@I0311@"
+      ]
+    ],
     "familyNames": [
       null,
       [
@@ -8857,6 +8894,12 @@
     "birthPlace": null,
     "deathDate": null,
     "deathPlace": null,
+    "family": [
+      null,
+      [
+        "@I0313@"
+      ]
+    ],
     "familyNames": [
       null,
       [
@@ -8883,6 +8926,12 @@
     "birthPlace": null,
     "deathDate": null,
     "deathPlace": null,
+    "family": [
+      null,
+      [
+        "@I0314@"
+      ]
+    ],
     "familyNames": [
       null,
       [
