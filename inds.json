@@ -1,7 +1,7 @@
 [
   {
     "id": "@I0000@",
-    "GEDName": "Jack /DeSerrano/",
+    "GEDName": "Jack DeSerrano",
     "givenName": "Jack",
     "surname": "DeSerrano",
     "nickname": null,
@@ -17,13 +17,13 @@
       "@I0003@"
     ],
     "parentsNames": [
-      "James /DeSerrano/",
-      "Barbara /DeSerrano/"
+      "James DeSerrano",
+      "Barbara DeSerrano"
     ]
   },
   {
     "id": "@I0002@",
-    "GEDName": "James /DeSerrano/",
+    "GEDName": "James DeSerrano",
     "givenName": "James",
     "surname": "DeSerrano",
     "nickname": "Jim",
@@ -39,23 +39,23 @@
       "@I0000@",
       "@I0004@"
     ],
-    "spouseName": "Barbara /DeSerrano/",
+    "spouseName": "Barbara DeSerrano",
     "childrenNames": [
-      "Jack /DeSerrano/",
-      "Emma /DeSerrano/"
+      "Jack DeSerrano",
+      "Emma DeSerrano"
     ],
     "parents": [
       "@I0005@",
       "@I0006@"
     ],
     "parentsNames": [
-      "Louis Julius Rudolph /DeSerrano/",
-      "Donna /DeSerrano/"
+      "Louis Julius Rudolph DeSerrano",
+      "Donna DeSerrano"
     ]
   },
   {
     "id": "@I0003@",
-    "GEDName": "Barbara /DeSerrano/",
+    "GEDName": "Barbara DeSerrano",
     "givenName": "Barbara",
     "surname": "DeSerrano",
     "nickname": "Barb",
@@ -71,15 +71,15 @@
       "@I0000@",
       "@I0004@"
     ],
-    "spouseName": "James /DeSerrano/",
+    "spouseName": "James DeSerrano",
     "childrenNames": [
-      "Jack /DeSerrano/",
-      "Emma /DeSerrano/"
+      "Jack DeSerrano",
+      "Emma DeSerrano"
     ]
   },
   {
     "id": "@I0004@",
-    "GEDName": "Emma /DeSerrano/",
+    "GEDName": "Emma DeSerrano",
     "givenName": "Emma",
     "surname": "DeSerrano",
     "nickname": null,
@@ -95,13 +95,13 @@
       "@I0003@"
     ],
     "parentsNames": [
-      "James /DeSerrano/",
-      "Barbara /DeSerrano/"
+      "James DeSerrano",
+      "Barbara DeSerrano"
     ]
   },
   {
     "id": "@I0005@",
-    "GEDName": "Louis Julius Rudolph /DeSerrano/",
+    "GEDName": "Louis Julius Rudolph DeSerrano",
     "givenName": "Louis Julius Rudolph",
     "surname": "DeSerrano",
     "nickname": null,
@@ -124,30 +124,30 @@
       "@I0043@",
       "@I0044@"
     ],
-    "spouseName": "Donna /DeSerrano/",
+    "spouseName": "Donna DeSerrano",
     "childrenNames": [
-      "James /DeSerrano/",
-      "Louis /DeSerrano/",
-      "Ruth /DeSerrano/",
-      "Lorraine /DeSerrano/",
-      "Christine /Harrop/",
-      "Joan /Pringle/",
-      "Robert /DeSerrano/",
-      "David /DeSerrano/",
-      "Anthony /DeSerrano/"
+      "James DeSerrano",
+      "Louis DeSerrano",
+      "Ruth DeSerrano",
+      "Lorraine DeSerrano",
+      "Christine Harrop",
+      "Joan Pringle",
+      "Robert DeSerrano",
+      "David DeSerrano",
+      "Anthony DeSerrano"
     ],
     "parents": [
       "@I0160@",
       "@I0161@"
     ],
     "parentsNames": [
-      "Alois /DeSerrano/",
-      "Emma-Amelia /DeSerrano/"
+      "Alois DeSerrano",
+      "Emma-Amelia DeSerrano"
     ]
   },
   {
     "id": "@I0006@",
-    "GEDName": "Donna /DeSerrano/",
+    "GEDName": "Donna DeSerrano",
     "givenName": "Donna",
     "surname": "DeSerrano",
     "nickname": null,
@@ -170,30 +170,30 @@
       "@I0043@",
       "@I0044@"
     ],
-    "spouseName": "Louis Julius Rudolph /DeSerrano/",
+    "spouseName": "Louis Julius Rudolph DeSerrano",
     "childrenNames": [
-      "James /DeSerrano/",
-      "Louis /DeSerrano/",
-      "Ruth /DeSerrano/",
-      "Lorraine /DeSerrano/",
-      "Christine /Harrop/",
-      "Joan /Pringle/",
-      "Robert /DeSerrano/",
-      "David /DeSerrano/",
-      "Anthony /DeSerrano/"
+      "James DeSerrano",
+      "Louis DeSerrano",
+      "Ruth DeSerrano",
+      "Lorraine DeSerrano",
+      "Christine Harrop",
+      "Joan Pringle",
+      "Robert DeSerrano",
+      "David DeSerrano",
+      "Anthony DeSerrano"
     ],
     "parents": [
       "@I0045@",
       "@I0046@"
     ],
     "parentsNames": [
-      "Alexander /Matuščin/",
-      "Hermina /Matuščinová/"
+      "Alexander Matuščin",
+      "Hermina Matuščinová"
     ]
   },
   {
     "id": "@I0007@",
-    "GEDName": "Louis /DeSerrano/",
+    "GEDName": "Louis DeSerrano",
     "givenName": "Louis",
     "surname": "DeSerrano",
     "nickname": "Lou",
@@ -209,23 +209,23 @@
       "@I0006@"
     ],
     "parentsNames": [
-      "Louis Julius Rudolph /DeSerrano/",
-      "Donna /DeSerrano/"
+      "Louis Julius Rudolph DeSerrano",
+      "Donna DeSerrano"
     ],
     "spouse": "@I0008@",
     "children": [
       "@I0009@",
       "@I0010@"
     ],
-    "spouseName": "Sally /DeSerrano/",
+    "spouseName": "Sally DeSerrano",
     "childrenNames": [
-      "Alexandra /DeSerrano/",
-      "Julian /DeSerrano/"
+      "Alexandra DeSerrano",
+      "Julian DeSerrano"
     ]
   },
   {
     "id": "@I0008@",
-    "GEDName": "Sally /DeSerrano/",
+    "GEDName": "Sally DeSerrano",
     "givenName": "Sally",
     "surname": "DeSerrano",
     "nickname": null,
@@ -241,15 +241,15 @@
       "@I0009@",
       "@I0010@"
     ],
-    "spouseName": "Louis /DeSerrano/",
+    "spouseName": "Louis DeSerrano",
     "childrenNames": [
-      "Alexandra /DeSerrano/",
-      "Julian /DeSerrano/"
+      "Alexandra DeSerrano",
+      "Julian DeSerrano"
     ]
   },
   {
     "id": "@I0009@",
-    "GEDName": "Alexandra /DeSerrano/",
+    "GEDName": "Alexandra DeSerrano",
     "givenName": "Alexandra",
     "surname": "DeSerrano",
     "nickname": null,
@@ -265,13 +265,13 @@
       "@I0008@"
     ],
     "parentsNames": [
-      "Louis /DeSerrano/",
-      "Sally /DeSerrano/"
+      "Louis DeSerrano",
+      "Sally DeSerrano"
     ]
   },
   {
     "id": "@I0010@",
-    "GEDName": "Julian /DeSerrano/",
+    "GEDName": "Julian DeSerrano",
     "givenName": "Julian",
     "surname": "DeSerrano",
     "nickname": null,
@@ -287,13 +287,13 @@
       "@I0008@"
     ],
     "parentsNames": [
-      "Louis /DeSerrano/",
-      "Sally /DeSerrano/"
+      "Louis DeSerrano",
+      "Sally DeSerrano"
     ]
   },
   {
     "id": "@I0011@",
-    "GEDName": "Ruth /DeSerrano/",
+    "GEDName": "Ruth DeSerrano",
     "givenName": "Ruth",
     "surname": "DeSerrano",
     "nickname": null,
@@ -309,13 +309,13 @@
       "@I0006@"
     ],
     "parentsNames": [
-      "Louis Julius Rudolph /DeSerrano/",
-      "Donna /DeSerrano/"
+      "Louis Julius Rudolph DeSerrano",
+      "Donna DeSerrano"
     ]
   },
   {
     "id": "@I0012@",
-    "GEDName": "Lorraine /DeSerrano/",
+    "GEDName": "Lorraine DeSerrano",
     "givenName": "Lorraine",
     "surname": "DeSerrano",
     "nickname": null,
@@ -331,8 +331,8 @@
       "@I0006@"
     ],
     "parentsNames": [
-      "Louis Julius Rudolph /DeSerrano/",
-      "Donna /DeSerrano/"
+      "Louis Julius Rudolph DeSerrano",
+      "Donna DeSerrano"
     ],
     "spouse": "@I0261@",
     "children": [
@@ -341,17 +341,17 @@
       "@I0015@",
       "@I0016@"
     ],
-    "spouseName": "Mark /Szigatti/",
+    "spouseName": "Mark Szigatti",
     "childrenNames": [
-      "Stefanie /Szigatti/",
-      "Christopher /Szigatti/",
-      "Laura /Gillies/",
-      "Craig /Szigatti/"
+      "Stefanie Szigatti",
+      "Christopher Szigatti",
+      "Laura Gillies",
+      "Craig Szigatti"
     ]
   },
   {
     "id": "@I0013@",
-    "GEDName": "Stefanie /Szigatti/",
+    "GEDName": "Stefanie Szigatti",
     "givenName": "Stefanie",
     "surname": "Szigatti",
     "nickname": null,
@@ -367,21 +367,21 @@
       "@I0012@"
     ],
     "parentsNames": [
-      "Mark /Szigatti/",
-      "Lorraine /DeSerrano/"
+      "Mark Szigatti",
+      "Lorraine DeSerrano"
     ],
     "spouse": "@I0286@",
     "children": [
       "@I0287@"
     ],
-    "spouseName": "Jennifer /Therkelson/",
+    "spouseName": "Jennifer Therkelson",
     "childrenNames": [
-      "Jacob /Therkelson/"
+      "Jacob Therkelson"
     ]
   },
   {
     "id": "@I0014@",
-    "GEDName": "Christopher /Szigatti/",
+    "GEDName": "Christopher Szigatti",
     "givenName": "Christopher",
     "surname": "Szigatti",
     "nickname": null,
@@ -397,23 +397,23 @@
       "@I0012@"
     ],
     "parentsNames": [
-      "Mark /Szigatti/",
-      "Lorraine /DeSerrano/"
+      "Mark Szigatti",
+      "Lorraine DeSerrano"
     ],
     "spouse": "@I0017@",
     "children": [
       "@I0018@",
       "@I0019@"
     ],
-    "spouseName": "Kim /Szigatti/",
+    "spouseName": "Kim Szigatti",
     "childrenNames": [
-      "Joseph /Szigatti/",
-      "Charlotte /Szigatti/"
+      "Joseph Szigatti",
+      "Charlotte Szigatti"
     ]
   },
   {
     "id": "@I0015@",
-    "GEDName": "Laura /Gillies/",
+    "GEDName": "Laura Gillies",
     "givenName": "Laura",
     "surname": "Gillies",
     "nickname": null,
@@ -429,8 +429,8 @@
       "@I0012@"
     ],
     "parentsNames": [
-      "Mark /Szigatti/",
-      "Lorraine /DeSerrano/"
+      "Mark Szigatti",
+      "Lorraine DeSerrano"
     ],
     "spouse": "@I0020@",
     "children": [
@@ -438,16 +438,16 @@
       "@I0022@",
       "@I0023@"
     ],
-    "spouseName": "Colin /Gillies/",
+    "spouseName": "Colin Gillies",
     "childrenNames": [
-      "June /Gillies/",
-      "Francis /Gillies/",
-      "Iris /Gillies/"
+      "June Gillies",
+      "Francis Gillies",
+      "Iris Gillies"
     ]
   },
   {
     "id": "@I0016@",
-    "GEDName": "Craig /Szigatti/",
+    "GEDName": "Craig Szigatti",
     "givenName": "Craig",
     "surname": "Szigatti",
     "nickname": null,
@@ -463,13 +463,13 @@
       "@I0012@"
     ],
     "parentsNames": [
-      "Mark /Szigatti/",
-      "Lorraine /DeSerrano/"
+      "Mark Szigatti",
+      "Lorraine DeSerrano"
     ]
   },
   {
     "id": "@I0017@",
-    "GEDName": "Kim /Szigatti/",
+    "GEDName": "Kim Szigatti",
     "givenName": "Kim",
     "surname": "Szigatti",
     "nickname": null,
@@ -485,15 +485,15 @@
       "@I0018@",
       "@I0019@"
     ],
-    "spouseName": "Christopher /Szigatti/",
+    "spouseName": "Christopher Szigatti",
     "childrenNames": [
-      "Joseph /Szigatti/",
-      "Charlotte /Szigatti/"
+      "Joseph Szigatti",
+      "Charlotte Szigatti"
     ]
   },
   {
     "id": "@I0018@",
-    "GEDName": "Joseph /Szigatti/",
+    "GEDName": "Joseph Szigatti",
     "givenName": "Joseph",
     "surname": "Szigatti",
     "nickname": null,
@@ -509,13 +509,13 @@
       "@I0017@"
     ],
     "parentsNames": [
-      "Christopher /Szigatti/",
-      "Kim /Szigatti/"
+      "Christopher Szigatti",
+      "Kim Szigatti"
     ]
   },
   {
     "id": "@I0019@",
-    "GEDName": "Charlotte /Szigatti/",
+    "GEDName": "Charlotte Szigatti",
     "givenName": "Charlotte",
     "surname": "Szigatti",
     "nickname": null,
@@ -531,13 +531,13 @@
       "@I0017@"
     ],
     "parentsNames": [
-      "Christopher /Szigatti/",
-      "Kim /Szigatti/"
+      "Christopher Szigatti",
+      "Kim Szigatti"
     ]
   },
   {
     "id": "@I0020@",
-    "GEDName": "Colin /Gillies/",
+    "GEDName": "Colin Gillies",
     "givenName": "Colin",
     "surname": "Gillies",
     "nickname": null,
@@ -554,16 +554,16 @@
       "@I0022@",
       "@I0023@"
     ],
-    "spouseName": "Laura /Gillies/",
+    "spouseName": "Laura Gillies",
     "childrenNames": [
-      "June /Gillies/",
-      "Francis /Gillies/",
-      "Iris /Gillies/"
+      "June Gillies",
+      "Francis Gillies",
+      "Iris Gillies"
     ]
   },
   {
     "id": "@I0021@",
-    "GEDName": "June /Gillies/",
+    "GEDName": "June Gillies",
     "givenName": "June",
     "surname": "Gillies",
     "nickname": null,
@@ -579,13 +579,13 @@
       "@I0015@"
     ],
     "parentsNames": [
-      "Colin /Gillies/",
-      "Laura /Gillies/"
+      "Colin Gillies",
+      "Laura Gillies"
     ]
   },
   {
     "id": "@I0022@",
-    "GEDName": "Francis /Gillies/",
+    "GEDName": "Francis Gillies",
     "givenName": "Francis",
     "surname": "Gillies",
     "nickname": null,
@@ -601,13 +601,13 @@
       "@I0015@"
     ],
     "parentsNames": [
-      "Colin /Gillies/",
-      "Laura /Gillies/"
+      "Colin Gillies",
+      "Laura Gillies"
     ]
   },
   {
     "id": "@I0023@",
-    "GEDName": "Iris /Gillies/",
+    "GEDName": "Iris Gillies",
     "givenName": "Iris",
     "surname": "Gillies",
     "nickname": null,
@@ -623,13 +623,13 @@
       "@I0015@"
     ],
     "parentsNames": [
-      "Colin /Gillies/",
-      "Laura /Gillies/"
+      "Colin Gillies",
+      "Laura Gillies"
     ]
   },
   {
     "id": "@I0024@",
-    "GEDName": "Christine /Harrop/",
+    "GEDName": "Christine Harrop",
     "givenName": "Christine",
     "surname": "Harrop",
     "nickname": "Chris",
@@ -645,23 +645,23 @@
       "@I0006@"
     ],
     "parentsNames": [
-      "Louis Julius Rudolph /DeSerrano/",
-      "Donna /DeSerrano/"
+      "Louis Julius Rudolph DeSerrano",
+      "Donna DeSerrano"
     ],
     "spouse": "@I0025@",
     "children": [
       "@I0026@",
       "@I0027@"
     ],
-    "spouseName": "Eric /Harrop/",
+    "spouseName": "Eric Harrop",
     "childrenNames": [
-      "Amanda /Harrop/",
-      "Matthew /Harrop/"
+      "Amanda Harrop",
+      "Matthew Harrop"
     ]
   },
   {
     "id": "@I0025@",
-    "GEDName": "Eric /Harrop/",
+    "GEDName": "Eric Harrop",
     "givenName": "Eric",
     "surname": "Harrop",
     "nickname": null,
@@ -677,15 +677,15 @@
       "@I0026@",
       "@I0027@"
     ],
-    "spouseName": "Christine /Harrop/",
+    "spouseName": "Christine Harrop",
     "childrenNames": [
-      "Amanda /Harrop/",
-      "Matthew /Harrop/"
+      "Amanda Harrop",
+      "Matthew Harrop"
     ]
   },
   {
     "id": "@I0026@",
-    "GEDName": "Amanda /Harrop/",
+    "GEDName": "Amanda Harrop",
     "givenName": "Amanda",
     "surname": "Harrop",
     "nickname": "Mandy",
@@ -701,13 +701,13 @@
       "@I0024@"
     ],
     "parentsNames": [
-      "Eric /Harrop/",
-      "Christine /Harrop/"
+      "Eric Harrop",
+      "Christine Harrop"
     ]
   },
   {
     "id": "@I0027@",
-    "GEDName": "Matthew /Harrop/",
+    "GEDName": "Matthew Harrop",
     "givenName": "Matthew",
     "surname": "Harrop",
     "nickname": "Matt",
@@ -723,13 +723,13 @@
       "@I0024@"
     ],
     "parentsNames": [
-      "Eric /Harrop/",
-      "Christine /Harrop/"
+      "Eric Harrop",
+      "Christine Harrop"
     ]
   },
   {
     "id": "@I0028@",
-    "GEDName": "Joan /Pringle/",
+    "GEDName": "Joan Pringle",
     "givenName": "Joan",
     "surname": "Pringle",
     "nickname": null,
@@ -745,21 +745,21 @@
       "@I0006@"
     ],
     "parentsNames": [
-      "Louis Julius Rudolph /DeSerrano/",
-      "Donna /DeSerrano/"
+      "Louis Julius Rudolph DeSerrano",
+      "Donna DeSerrano"
     ],
     "spouse": "@I0029@",
     "children": [
       "@I0030@"
     ],
-    "spouseName": "John Fraser /Pringle/",
+    "spouseName": "John Fraser Pringle",
     "childrenNames": [
-      "Bowman /Pringle/"
+      "Bowman Pringle"
     ]
   },
   {
     "id": "@I0029@",
-    "GEDName": "John Fraser /Pringle/",
+    "GEDName": "John Fraser Pringle",
     "givenName": "John Fraser",
     "surname": "Pringle",
     "nickname": "Fraser",
@@ -774,14 +774,14 @@
     "children": [
       "@I0030@"
     ],
-    "spouseName": "Joan /Pringle/",
+    "spouseName": "Joan Pringle",
     "childrenNames": [
-      "Bowman /Pringle/"
+      "Bowman Pringle"
     ]
   },
   {
     "id": "@I0030@",
-    "GEDName": "Bowman /Pringle/",
+    "GEDName": "Bowman Pringle",
     "givenName": "Bowman",
     "surname": "Pringle",
     "nickname": "Bo",
@@ -797,21 +797,21 @@
       "@I0028@"
     ],
     "parentsNames": [
-      "John Fraser /Pringle/",
-      "Joan /Pringle/"
+      "John Fraser Pringle",
+      "Joan Pringle"
     ],
     "spouse": "@I0031@",
     "children": [
       "@I0032@"
     ],
-    "spouseName": "Sinead /Pringle/",
+    "spouseName": "Sinead Pringle",
     "childrenNames": [
-      "Neave /Pringle/"
+      "Neave Pringle"
     ]
   },
   {
     "id": "@I0031@",
-    "GEDName": "Sinead /Pringle/",
+    "GEDName": "Sinead Pringle",
     "givenName": "Sinead",
     "surname": "Pringle",
     "nickname": null,
@@ -826,14 +826,14 @@
     "children": [
       "@I0032@"
     ],
-    "spouseName": "Bowman /Pringle/",
+    "spouseName": "Bowman Pringle",
     "childrenNames": [
-      "Neave /Pringle/"
+      "Neave Pringle"
     ]
   },
   {
     "id": "@I0032@",
-    "GEDName": "Neave /Pringle/",
+    "GEDName": "Neave Pringle",
     "givenName": "Neave",
     "surname": "Pringle",
     "nickname": null,
@@ -849,13 +849,13 @@
       "@I0031@"
     ],
     "parentsNames": [
-      "Bowman /Pringle/",
-      "Sinead /Pringle/"
+      "Bowman Pringle",
+      "Sinead Pringle"
     ]
   },
   {
     "id": "@I0033@",
-    "GEDName": "Robert /DeSerrano/",
+    "GEDName": "Robert DeSerrano",
     "givenName": "Robert",
     "surname": "DeSerrano",
     "nickname": "Rob",
@@ -871,23 +871,23 @@
       "@I0006@"
     ],
     "parentsNames": [
-      "Louis Julius Rudolph /DeSerrano/",
-      "Donna /DeSerrano/"
+      "Louis Julius Rudolph DeSerrano",
+      "Donna DeSerrano"
     ],
     "spouse": "@I0034@",
     "children": [
       "@I0035@",
       "@I0036@"
     ],
-    "spouseName": "Lisa /DeSerrano/",
+    "spouseName": "Lisa DeSerrano",
     "childrenNames": [
-      "Desiree /Worgan/",
-      "Natalie /DeSerrano/"
+      "Desiree Worgan",
+      "Natalie DeSerrano"
     ]
   },
   {
     "id": "@I0034@",
-    "GEDName": "Lisa /DeSerrano/",
+    "GEDName": "Lisa DeSerrano",
     "givenName": "Lisa",
     "surname": "DeSerrano",
     "nickname": null,
@@ -903,15 +903,15 @@
       "@I0035@",
       "@I0036@"
     ],
-    "spouseName": "Robert /DeSerrano/",
+    "spouseName": "Robert DeSerrano",
     "childrenNames": [
-      "Desiree /Worgan/",
-      "Natalie /DeSerrano/"
+      "Desiree Worgan",
+      "Natalie DeSerrano"
     ]
   },
   {
     "id": "@I0035@",
-    "GEDName": "Desiree /Worgan/",
+    "GEDName": "Desiree Worgan",
     "givenName": "Desiree",
     "surname": "Worgan",
     "nickname": null,
@@ -927,23 +927,23 @@
       "@I0034@"
     ],
     "parentsNames": [
-      "Robert /DeSerrano/",
-      "Lisa /DeSerrano/"
+      "Robert DeSerrano",
+      "Lisa DeSerrano"
     ],
     "spouse": "@I0037@",
     "children": [
       "@I0038@",
       "@I0039@"
     ],
-    "spouseName": "Kyle /Worgan/",
+    "spouseName": "Kyle Worgan",
     "childrenNames": [
-      "Lucas /Worgan/",
-      "Liam /Worgan/"
+      "Lucas Worgan",
+      "Liam Worgan"
     ]
   },
   {
     "id": "@I0036@",
-    "GEDName": "Natalie /DeSerrano/",
+    "GEDName": "Natalie DeSerrano",
     "givenName": "Natalie",
     "surname": "DeSerrano",
     "nickname": null,
@@ -959,23 +959,23 @@
       "@I0034@"
     ],
     "parentsNames": [
-      "Robert /DeSerrano/",
-      "Lisa /DeSerrano/"
+      "Robert DeSerrano",
+      "Lisa DeSerrano"
     ],
     "spouse": "@I0040@",
     "children": [
       "@I0041@",
       "@I0042@"
     ],
-    "spouseName": "Hubert /Guerrero/",
+    "spouseName": "Hubert Guerrero",
     "childrenNames": [
-      "Lua /Guerrero/",
-      "Kiola /Guerrero/"
+      "Lua Guerrero",
+      "Kiola Guerrero"
     ]
   },
   {
     "id": "@I0037@",
-    "GEDName": "Kyle /Worgan/",
+    "GEDName": "Kyle Worgan",
     "givenName": "Kyle",
     "surname": "Worgan",
     "nickname": null,
@@ -991,15 +991,15 @@
       "@I0038@",
       "@I0039@"
     ],
-    "spouseName": "Desiree /Worgan/",
+    "spouseName": "Desiree Worgan",
     "childrenNames": [
-      "Lucas /Worgan/",
-      "Liam /Worgan/"
+      "Lucas Worgan",
+      "Liam Worgan"
     ]
   },
   {
     "id": "@I0038@",
-    "GEDName": "Lucas /Worgan/",
+    "GEDName": "Lucas Worgan",
     "givenName": "Lucas",
     "surname": "Worgan",
     "nickname": null,
@@ -1015,13 +1015,13 @@
       "@I0035@"
     ],
     "parentsNames": [
-      "Kyle /Worgan/",
-      "Desiree /Worgan/"
+      "Kyle Worgan",
+      "Desiree Worgan"
     ]
   },
   {
     "id": "@I0039@",
-    "GEDName": "Liam /Worgan/",
+    "GEDName": "Liam Worgan",
     "givenName": "Liam",
     "surname": "Worgan",
     "nickname": null,
@@ -1037,13 +1037,13 @@
       "@I0035@"
     ],
     "parentsNames": [
-      "Kyle /Worgan/",
-      "Desiree /Worgan/"
+      "Kyle Worgan",
+      "Desiree Worgan"
     ]
   },
   {
     "id": "@I0040@",
-    "GEDName": "Hubert /Guerrero/",
+    "GEDName": "Hubert Guerrero",
     "givenName": "Hubert",
     "surname": "Guerrero",
     "nickname": null,
@@ -1059,15 +1059,15 @@
       "@I0041@",
       "@I0042@"
     ],
-    "spouseName": "Natalie /DeSerrano/",
+    "spouseName": "Natalie DeSerrano",
     "childrenNames": [
-      "Lua /Guerrero/",
-      "Kiola /Guerrero/"
+      "Lua Guerrero",
+      "Kiola Guerrero"
     ]
   },
   {
     "id": "@I0041@",
-    "GEDName": "Lua /Guerrero/",
+    "GEDName": "Lua Guerrero",
     "givenName": "Lua",
     "surname": "Guerrero",
     "nickname": null,
@@ -1083,13 +1083,13 @@
       "@I0036@"
     ],
     "parentsNames": [
-      "Hubert /Guerrero/",
-      "Natalie /DeSerrano/"
+      "Hubert Guerrero",
+      "Natalie DeSerrano"
     ]
   },
   {
     "id": "@I0042@",
-    "GEDName": "Kiola /Guerrero/",
+    "GEDName": "Kiola Guerrero",
     "givenName": "Kiola",
     "surname": "Guerrero",
     "nickname": null,
@@ -1105,13 +1105,13 @@
       "@I0036@"
     ],
     "parentsNames": [
-      "Hubert /Guerrero/",
-      "Natalie /DeSerrano/"
+      "Hubert Guerrero",
+      "Natalie DeSerrano"
     ]
   },
   {
     "id": "@I0043@",
-    "GEDName": "David /DeSerrano/",
+    "GEDName": "David DeSerrano",
     "givenName": "David",
     "surname": "DeSerrano",
     "nickname": "Dave",
@@ -1127,13 +1127,13 @@
       "@I0006@"
     ],
     "parentsNames": [
-      "Louis Julius Rudolph /DeSerrano/",
-      "Donna /DeSerrano/"
+      "Louis Julius Rudolph DeSerrano",
+      "Donna DeSerrano"
     ]
   },
   {
     "id": "@I0044@",
-    "GEDName": "Anthony /DeSerrano/",
+    "GEDName": "Anthony DeSerrano",
     "givenName": "Anthony",
     "surname": "DeSerrano",
     "nickname": null,
@@ -1149,13 +1149,13 @@
       "@I0006@"
     ],
     "parentsNames": [
-      "Louis Julius Rudolph /DeSerrano/",
-      "Donna /DeSerrano/"
+      "Louis Julius Rudolph DeSerrano",
+      "Donna DeSerrano"
     ]
   },
   {
     "id": "@I0045@",
-    "GEDName": "Alexander /Matuščin/",
+    "GEDName": "Alexander Matuščin",
     "givenName": "Alexander",
     "surname": "Matuščin",
     "nickname": null,
@@ -1178,22 +1178,22 @@
       "@I0158@",
       "@I0159@"
     ],
-    "spouseName": "Hermina /Matuščinová/",
+    "spouseName": "Hermina Matuščinová",
     "childrenNames": [
-      "Donna /DeSerrano/",
-      "Mary /Matuščinová/",
-      "Anna /Solínová/",
-      "Štefan Frank /Matuščin/",
-      "Ján /Matuščin/",
-      "Helen /Fodor/",
-      "Christina /Doktorčik/",
-      "Otto /Matuščin/",
-      "Karol /Matuščin/"
+      "Donna DeSerrano",
+      "Mary Matuščinová",
+      "Anna Solínová",
+      "Štefan Frank Matuščin",
+      "Ján Matuščin",
+      "Helen Fodor",
+      "Christina Doktorčik",
+      "Otto Matuščin",
+      "Karol Matuščin"
     ]
   },
   {
     "id": "@I0046@",
-    "GEDName": "Hermina /Matuščinová/",
+    "GEDName": "Hermina Matuščinová",
     "givenName": "Hermina",
     "surname": "Matuščinová",
     "nickname": null,
@@ -1216,22 +1216,22 @@
       "@I0158@",
       "@I0159@"
     ],
-    "spouseName": "Alexander /Matuščin/",
+    "spouseName": "Alexander Matuščin",
     "childrenNames": [
-      "Donna /DeSerrano/",
-      "Mary /Matuščinová/",
-      "Anna /Solínová/",
-      "Štefan Frank /Matuščin/",
-      "Ján /Matuščin/",
-      "Helen /Fodor/",
-      "Christina /Doktorčik/",
-      "Otto /Matuščin/",
-      "Karol /Matuščin/"
+      "Donna DeSerrano",
+      "Mary Matuščinová",
+      "Anna Solínová",
+      "Štefan Frank Matuščin",
+      "Ján Matuščin",
+      "Helen Fodor",
+      "Christina Doktorčik",
+      "Otto Matuščin",
+      "Karol Matuščin"
     ]
   },
   {
     "id": "@I0047@",
-    "GEDName": "Mary /Matuščinová/",
+    "GEDName": "Mary Matuščinová",
     "givenName": "Mary",
     "surname": "Matuščinová",
     "nickname": null,
@@ -1247,13 +1247,13 @@
       "@I0046@"
     ],
     "parentsNames": [
-      "Alexander /Matuščin/",
-      "Hermina /Matuščinová/"
+      "Alexander Matuščin",
+      "Hermina Matuščinová"
     ]
   },
   {
     "id": "@I0048@",
-    "GEDName": "Anna /Solínová/",
+    "GEDName": "Anna Solínová",
     "givenName": "Anna",
     "surname": "Solínová",
     "nickname": null,
@@ -1269,8 +1269,8 @@
       "@I0046@"
     ],
     "parentsNames": [
-      "Alexander /Matuščin/",
-      "Hermina /Matuščinová/"
+      "Alexander Matuščin",
+      "Hermina Matuščinová"
     ],
     "spouse": "@I0049@",
     "children": [
@@ -1281,19 +1281,19 @@
       "@I0054@",
       "@I0055@"
     ],
-    "spouseName": "Jozef /Solín/",
+    "spouseName": "Jozef Solín",
     "childrenNames": [
-      "Ján /Solín/",
-      "Mariana /Marčoková/",
-      "Margita /Bystrianská/",
-      "Jozef /Solín/",
-      "Jaroslav /Solín/",
-      "Anton /Solín/"
+      "Ján Solín",
+      "Mariana Marčoková",
+      "Margita Bystrianská",
+      "Jozef Solín",
+      "Jaroslav Solín",
+      "Anton Solín"
     ]
   },
   {
     "id": "@I0049@",
-    "GEDName": "Jozef /Solín/",
+    "GEDName": "Jozef Solín",
     "givenName": "Jozef",
     "surname": "Solín",
     "nickname": null,
@@ -1313,19 +1313,19 @@
       "@I0054@",
       "@I0055@"
     ],
-    "spouseName": "Anna /Solínová/",
+    "spouseName": "Anna Solínová",
     "childrenNames": [
-      "Ján /Solín/",
-      "Mariana /Marčoková/",
-      "Margita /Bystrianská/",
-      "Jozef /Solín/",
-      "Jaroslav /Solín/",
-      "Anton /Solín/"
+      "Ján Solín",
+      "Mariana Marčoková",
+      "Margita Bystrianská",
+      "Jozef Solín",
+      "Jaroslav Solín",
+      "Anton Solín"
     ]
   },
   {
     "id": "@I0050@",
-    "GEDName": "Ján /Solín/",
+    "GEDName": "Ján Solín",
     "givenName": "Ján",
     "surname": "Solín",
     "nickname": null,
@@ -1341,8 +1341,8 @@
       "@I0048@"
     ],
     "parentsNames": [
-      "Jozef /Solín/",
-      "Anna /Solínová/"
+      "Jozef Solín",
+      "Anna Solínová"
     ],
     "spouse": "@I0056@",
     "children": [
@@ -1350,16 +1350,16 @@
       "@I0058@",
       "@I0059@"
     ],
-    "spouseName": "Magdaléna /Solínová/",
+    "spouseName": "Magdaléna Solínová",
     "childrenNames": [
-      "Ján /Solín/",
-      "Slavomír /Solín/",
-      "Jana /Solínová/"
+      "Ján Solín",
+      "Slavomír Solín",
+      "Jana Solínová"
     ]
   },
   {
     "id": "@I0051@",
-    "GEDName": "Mariana /Marčoková/",
+    "GEDName": "Mariana Marčoková",
     "givenName": "Mariana",
     "surname": "Marčoková",
     "nickname": null,
@@ -1375,23 +1375,23 @@
       "@I0048@"
     ],
     "parentsNames": [
-      "Jozef /Solín/",
-      "Anna /Solínová/"
+      "Jozef Solín",
+      "Anna Solínová"
     ],
     "spouse": "@I0062@",
     "children": [
       "@I0063@",
       "@I0064@"
     ],
-    "spouseName": "Štefan /Marčok/",
+    "spouseName": "Štefan Marčok",
     "childrenNames": [
-      "Štefan /Marčok/",
-      "Ľubica /Marčoková/"
+      "Štefan Marčok",
+      "Ľubica Marčoková"
     ]
   },
   {
     "id": "@I0052@",
-    "GEDName": "Margita /Bystrianská/",
+    "GEDName": "Margita Bystrianská",
     "givenName": "Margita",
     "surname": "Bystrianská",
     "nickname": null,
@@ -1407,17 +1407,17 @@
       "@I0048@"
     ],
     "parentsNames": [
-      "Jozef /Solín/",
-      "Anna /Solínová/"
+      "Jozef Solín",
+      "Anna Solínová"
     ],
     "spouse": "@I0071@",
     "children": null,
-    "spouseName": "Ján /Fiam/",
+    "spouseName": "Ján Fiam",
     "childrenNames": null
   },
   {
     "id": "@I0053@",
-    "GEDName": "Jozef /Solín/",
+    "GEDName": "Jozef Solín",
     "givenName": "Jozef",
     "surname": "Solín",
     "nickname": null,
@@ -1433,23 +1433,23 @@
       "@I0048@"
     ],
     "parentsNames": [
-      "Jozef /Solín/",
-      "Anna /Solínová/"
+      "Jozef Solín",
+      "Anna Solínová"
     ],
     "spouse": "@I0072@",
     "children": [
       "@I0073@",
       "@I0074@"
     ],
-    "spouseName": "Emília /Solínová/",
+    "spouseName": "Emília Solínová",
     "childrenNames": [
-      "Alena /Kuráková/",
-      "Luboš /Solín/"
+      "Alena Kuráková",
+      "Luboš Solín"
     ]
   },
   {
     "id": "@I0054@",
-    "GEDName": "Jaroslav /Solín/",
+    "GEDName": "Jaroslav Solín",
     "givenName": "Jaroslav",
     "surname": "Solín",
     "nickname": null,
@@ -1465,8 +1465,8 @@
       "@I0048@"
     ],
     "parentsNames": [
-      "Jozef /Solín/",
-      "Anna /Solínová/"
+      "Jozef Solín",
+      "Anna Solínová"
     ],
     "spouse": "@I0081@",
     "children": [
@@ -1474,16 +1474,16 @@
       "@I0083@",
       "@I0084@"
     ],
-    "spouseName": "Květuše /Solínová/",
+    "spouseName": "Květuše Solínová",
     "childrenNames": [
-      "Jaroslav /Solín/",
-      "David /Solín/",
-      "Miloš /Solín/"
+      "Jaroslav Solín",
+      "David Solín",
+      "Miloš Solín"
     ]
   },
   {
     "id": "@I0055@",
-    "GEDName": "Anton /Solín/",
+    "GEDName": "Anton Solín",
     "givenName": "Anton",
     "surname": "Solín",
     "nickname": null,
@@ -1499,23 +1499,23 @@
       "@I0048@"
     ],
     "parentsNames": [
-      "Jozef /Solín/",
-      "Anna /Solínová/"
+      "Jozef Solín",
+      "Anna Solínová"
     ],
     "spouse": "@I0088@",
     "children": [
       "@I0089@",
       "@I0090@"
     ],
-    "spouseName": "Elena /Vargová/",
+    "spouseName": "Elena Vargová",
     "childrenNames": [
-      "Mário /Solín/",
-      "Kristián /Solín/"
+      "Mário Solín",
+      "Kristián Solín"
     ]
   },
   {
     "id": "@I0056@",
-    "GEDName": "Magdaléna /Solínová/",
+    "GEDName": "Magdaléna Solínová",
     "givenName": "Magdaléna",
     "surname": "Solínová",
     "nickname": null,
@@ -1532,16 +1532,16 @@
       "@I0058@",
       "@I0059@"
     ],
-    "spouseName": "Ján /Solín/",
+    "spouseName": "Ján Solín",
     "childrenNames": [
-      "Ján /Solín/",
-      "Slavomír /Solín/",
-      "Jana /Solínová/"
+      "Ján Solín",
+      "Slavomír Solín",
+      "Jana Solínová"
     ]
   },
   {
     "id": "@I0057@",
-    "GEDName": "Ján /Solín/",
+    "GEDName": "Ján Solín",
     "givenName": "Ján",
     "surname": "Solín",
     "nickname": null,
@@ -1557,13 +1557,13 @@
       "@I0056@"
     ],
     "parentsNames": [
-      "Ján /Solín/",
-      "Magdaléna /Solínová/"
+      "Ján Solín",
+      "Magdaléna Solínová"
     ]
   },
   {
     "id": "@I0058@",
-    "GEDName": "Slavomír /Solín/",
+    "GEDName": "Slavomír Solín",
     "givenName": "Slavomír",
     "surname": "Solín",
     "nickname": null,
@@ -1579,21 +1579,21 @@
       "@I0056@"
     ],
     "parentsNames": [
-      "Ján /Solín/",
-      "Magdaléna /Solínová/"
+      "Ján Solín",
+      "Magdaléna Solínová"
     ],
     "spouse": "@I0060@",
     "children": [
       "@I0061@"
     ],
-    "spouseName": "Andrea /Solínová/",
+    "spouseName": "Andrea Solínová",
     "childrenNames": [
-      "Jakub /Solín/"
+      "Jakub Solín"
     ]
   },
   {
     "id": "@I0059@",
-    "GEDName": "Jana /Solínová/",
+    "GEDName": "Jana Solínová",
     "givenName": "Jana",
     "surname": "Solínová",
     "nickname": null,
@@ -1609,13 +1609,13 @@
       "@I0056@"
     ],
     "parentsNames": [
-      "Ján /Solín/",
-      "Magdaléna /Solínová/"
+      "Ján Solín",
+      "Magdaléna Solínová"
     ]
   },
   {
     "id": "@I0060@",
-    "GEDName": "Andrea /Solínová/",
+    "GEDName": "Andrea Solínová",
     "givenName": "Andrea",
     "surname": "Solínová",
     "nickname": null,
@@ -1630,14 +1630,14 @@
     "children": [
       "@I0061@"
     ],
-    "spouseName": "Slavomír /Solín/",
+    "spouseName": "Slavomír Solín",
     "childrenNames": [
-      "Jakub /Solín/"
+      "Jakub Solín"
     ]
   },
   {
     "id": "@I0061@",
-    "GEDName": "Jakub /Solín/",
+    "GEDName": "Jakub Solín",
     "givenName": "Jakub",
     "surname": "Solín",
     "nickname": null,
@@ -1653,13 +1653,13 @@
       "@I0060@"
     ],
     "parentsNames": [
-      "Slavomír /Solín/",
-      "Andrea /Solínová/"
+      "Slavomír Solín",
+      "Andrea Solínová"
     ]
   },
   {
     "id": "@I0062@",
-    "GEDName": "Štefan /Marčok/",
+    "GEDName": "Štefan Marčok",
     "givenName": "Štefan",
     "surname": "Marčok",
     "nickname": null,
@@ -1675,15 +1675,15 @@
       "@I0063@",
       "@I0064@"
     ],
-    "spouseName": "Mariana /Marčoková/",
+    "spouseName": "Mariana Marčoková",
     "childrenNames": [
-      "Štefan /Marčok/",
-      "Ľubica /Marčoková/"
+      "Štefan Marčok",
+      "Ľubica Marčoková"
     ]
   },
   {
     "id": "@I0063@",
-    "GEDName": "Štefan /Marčok/",
+    "GEDName": "Štefan Marčok",
     "givenName": "Štefan",
     "surname": "Marčok",
     "nickname": null,
@@ -1699,8 +1699,8 @@
       "@I0051@"
     ],
     "parentsNames": [
-      "Štefan /Marčok/",
-      "Mariana /Marčoková/"
+      "Štefan Marčok",
+      "Mariana Marčoková"
     ],
     "spouse": null,
     "spouseName": null,
@@ -1708,12 +1708,12 @@
       "@I0065@"
     ],
     "childrenNames": [
-      "Martin /Marčok/"
+      "Martin Marčok"
     ]
   },
   {
     "id": "@I0064@",
-    "GEDName": "Ľubica /Marčoková/",
+    "GEDName": "Ľubica Marčoková",
     "givenName": "Ľubica",
     "surname": "Marčoková",
     "nickname": null,
@@ -1729,23 +1729,23 @@
       "@I0051@"
     ],
     "parentsNames": [
-      "Štefan /Marčok/",
-      "Mariana /Marčoková/"
+      "Štefan Marčok",
+      "Mariana Marčoková"
     ],
     "spouse": "@I0066@",
     "children": [
       "@I0067@",
       "@I0068@"
     ],
-    "spouseName": "Juraj /Wonder/",
+    "spouseName": "Juraj Wonder",
     "childrenNames": [
-      "Juraj /Wonder/",
-      "Stela /Wonder/"
+      "Juraj Wonder",
+      "Stela Wonder"
     ]
   },
   {
     "id": "@I0065@",
-    "GEDName": "Martin /Marčok/",
+    "GEDName": "Martin Marčok",
     "givenName": "Martin",
     "surname": "Marčok",
     "nickname": null,
@@ -1760,12 +1760,12 @@
       "@I0063@"
     ],
     "parentsNames": [
-      "Štefan /Marčok/"
+      "Štefan Marčok"
     ]
   },
   {
     "id": "@I0066@",
-    "GEDName": "Juraj /Wonder/",
+    "GEDName": "Juraj Wonder",
     "givenName": "Juraj",
     "surname": "Wonder",
     "nickname": null,
@@ -1781,15 +1781,15 @@
       "@I0067@",
       "@I0068@"
     ],
-    "spouseName": "Ľubica /Marčoková/",
+    "spouseName": "Ľubica Marčoková",
     "childrenNames": [
-      "Juraj /Wonder/",
-      "Stela /Wonder/"
+      "Juraj Wonder",
+      "Stela Wonder"
     ]
   },
   {
     "id": "@I0067@",
-    "GEDName": "Juraj /Wonder/",
+    "GEDName": "Juraj Wonder",
     "givenName": "Juraj",
     "surname": "Wonder",
     "nickname": null,
@@ -1805,13 +1805,13 @@
       "@I0064@"
     ],
     "parentsNames": [
-      "Juraj /Wonder/",
-      "Ľubica /Marčoková/"
+      "Juraj Wonder",
+      "Ľubica Marčoková"
     ]
   },
   {
     "id": "@I0068@",
-    "GEDName": "Stela /Wonder/",
+    "GEDName": "Stela Wonder",
     "givenName": "Stela",
     "surname": "Wonder",
     "nickname": null,
@@ -1827,13 +1827,13 @@
       "@I0064@"
     ],
     "parentsNames": [
-      "Juraj /Wonder/",
-      "Ľubica /Marčoková/"
+      "Juraj Wonder",
+      "Ľubica Marčoková"
     ]
   },
   {
     "id": "@I0069@",
-    "GEDName": "Štefan /Bystrianský/",
+    "GEDName": "Štefan Bystrianský",
     "givenName": "Štefan",
     "surname": "Bystrianský",
     "nickname": null,
@@ -1848,14 +1848,14 @@
     "children": [
       "@I0070@"
     ],
-    "spouseName": "Margita /Bystrianská/",
+    "spouseName": "Margita Bystrianská",
     "childrenNames": [
-      "Danica /Bystrianská/"
+      "Danica Bystrianská"
     ]
   },
   {
     "id": "@I0070@",
-    "GEDName": "Danica /Bystrianská/",
+    "GEDName": "Danica Bystrianská",
     "givenName": "Danica",
     "surname": "Bystrianská",
     "nickname": null,
@@ -1871,13 +1871,13 @@
       "@I0052@"
     ],
     "parentsNames": [
-      "Štefan /Bystrianský/",
-      "Margita /Bystrianská/"
+      "Štefan Bystrianský",
+      "Margita Bystrianská"
     ]
   },
   {
     "id": "@I0071@",
-    "GEDName": "Ján /Fiam/",
+    "GEDName": "Ján Fiam",
     "givenName": "Ján",
     "surname": "Fiam",
     "nickname": null,
@@ -1890,12 +1890,12 @@
     "deathPlace": null,
     "spouse": "@I0052@",
     "children": null,
-    "spouseName": "Margita /Bystrianská/",
+    "spouseName": "Margita Bystrianská",
     "childrenNames": null
   },
   {
     "id": "@I0072@",
-    "GEDName": "Emília /Solínová/",
+    "GEDName": "Emília Solínová",
     "givenName": "Emília",
     "surname": "Solínová",
     "nickname": null,
@@ -1911,15 +1911,15 @@
       "@I0073@",
       "@I0074@"
     ],
-    "spouseName": "Jozef /Solín/",
+    "spouseName": "Jozef Solín",
     "childrenNames": [
-      "Alena /Kuráková/",
-      "Luboš /Solín/"
+      "Alena Kuráková",
+      "Luboš Solín"
     ]
   },
   {
     "id": "@I0073@",
-    "GEDName": "Alena /Kuráková/",
+    "GEDName": "Alena Kuráková",
     "givenName": "Alena",
     "surname": "Kuráková",
     "nickname": null,
@@ -1935,23 +1935,23 @@
       "@I0072@"
     ],
     "parentsNames": [
-      "Jozef /Solín/",
-      "Emília /Solínová/"
+      "Jozef Solín",
+      "Emília Solínová"
     ],
     "spouse": "@I0075@",
     "children": [
       "@I0076@",
       "@I0077@"
     ],
-    "spouseName": "Vladimír /Kurák/",
+    "spouseName": "Vladimír Kurák",
     "childrenNames": [
-      "Adam /Kurák/",
-      "Matej /Kurák/"
+      "Adam Kurák",
+      "Matej Kurák"
     ]
   },
   {
     "id": "@I0074@",
-    "GEDName": "Luboš /Solín/",
+    "GEDName": "Luboš Solín",
     "givenName": "Luboš",
     "surname": "Solín",
     "nickname": null,
@@ -1967,23 +1967,23 @@
       "@I0072@"
     ],
     "parentsNames": [
-      "Jozef /Solín/",
-      "Emília /Solínová/"
+      "Jozef Solín",
+      "Emília Solínová"
     ],
     "spouse": "@I0078@",
     "children": [
       "@I0079@",
       "@I0080@"
     ],
-    "spouseName": "Mariana /Solínová/",
+    "spouseName": "Mariana Solínová",
     "childrenNames": [
-      "Jakub /Solín/",
-      "Samuel /Solín/"
+      "Jakub Solín",
+      "Samuel Solín"
     ]
   },
   {
     "id": "@I0075@",
-    "GEDName": "Vladimír /Kurák/",
+    "GEDName": "Vladimír Kurák",
     "givenName": "Vladimír",
     "surname": "Kurák",
     "nickname": null,
@@ -1999,15 +1999,15 @@
       "@I0076@",
       "@I0077@"
     ],
-    "spouseName": "Alena /Kuráková/",
+    "spouseName": "Alena Kuráková",
     "childrenNames": [
-      "Adam /Kurák/",
-      "Matej /Kurák/"
+      "Adam Kurák",
+      "Matej Kurák"
     ]
   },
   {
     "id": "@I0076@",
-    "GEDName": "Adam /Kurák/",
+    "GEDName": "Adam Kurák",
     "givenName": "Adam",
     "surname": "Kurák",
     "nickname": null,
@@ -2023,13 +2023,13 @@
       "@I0073@"
     ],
     "parentsNames": [
-      "Vladimír /Kurák/",
-      "Alena /Kuráková/"
+      "Vladimír Kurák",
+      "Alena Kuráková"
     ]
   },
   {
     "id": "@I0077@",
-    "GEDName": "Matej /Kurák/",
+    "GEDName": "Matej Kurák",
     "givenName": "Matej",
     "surname": "Kurák",
     "nickname": null,
@@ -2045,13 +2045,13 @@
       "@I0073@"
     ],
     "parentsNames": [
-      "Vladimír /Kurák/",
-      "Alena /Kuráková/"
+      "Vladimír Kurák",
+      "Alena Kuráková"
     ]
   },
   {
     "id": "@I0078@",
-    "GEDName": "Mariana /Solínová/",
+    "GEDName": "Mariana Solínová",
     "givenName": "Mariana",
     "surname": "Solínová",
     "nickname": null,
@@ -2067,15 +2067,15 @@
       "@I0079@",
       "@I0080@"
     ],
-    "spouseName": "Luboš /Solín/",
+    "spouseName": "Luboš Solín",
     "childrenNames": [
-      "Jakub /Solín/",
-      "Samuel /Solín/"
+      "Jakub Solín",
+      "Samuel Solín"
     ]
   },
   {
     "id": "@I0079@",
-    "GEDName": "Jakub /Solín/",
+    "GEDName": "Jakub Solín",
     "givenName": "Jakub",
     "surname": "Solín",
     "nickname": null,
@@ -2091,13 +2091,13 @@
       "@I0078@"
     ],
     "parentsNames": [
-      "Luboš /Solín/",
-      "Mariana /Solínová/"
+      "Luboš Solín",
+      "Mariana Solínová"
     ]
   },
   {
     "id": "@I0080@",
-    "GEDName": "Samuel /Solín/",
+    "GEDName": "Samuel Solín",
     "givenName": "Samuel",
     "surname": "Solín",
     "nickname": null,
@@ -2113,13 +2113,13 @@
       "@I0078@"
     ],
     "parentsNames": [
-      "Luboš /Solín/",
-      "Mariana /Solínová/"
+      "Luboš Solín",
+      "Mariana Solínová"
     ]
   },
   {
     "id": "@I0081@",
-    "GEDName": "Květuše /Solínová/",
+    "GEDName": "Květuše Solínová",
     "givenName": "Květuše",
     "surname": "Solínová",
     "nickname": null,
@@ -2136,16 +2136,16 @@
       "@I0083@",
       "@I0084@"
     ],
-    "spouseName": "Jaroslav /Solín/",
+    "spouseName": "Jaroslav Solín",
     "childrenNames": [
-      "Jaroslav /Solín/",
-      "David /Solín/",
-      "Miloš /Solín/"
+      "Jaroslav Solín",
+      "David Solín",
+      "Miloš Solín"
     ]
   },
   {
     "id": "@I0082@",
-    "GEDName": "Jaroslav /Solín/",
+    "GEDName": "Jaroslav Solín",
     "givenName": "Jaroslav",
     "surname": "Solín",
     "nickname": null,
@@ -2161,23 +2161,23 @@
       "@I0081@"
     ],
     "parentsNames": [
-      "Jaroslav /Solín/",
-      "Květuše /Solínová/"
+      "Jaroslav Solín",
+      "Květuše Solínová"
     ],
     "spouse": "@I0085@",
     "children": [
       "@I0086@",
       "@I0087@"
     ],
-    "spouseName": "Pavla /Solínová/",
+    "spouseName": "Pavla Solínová",
     "childrenNames": [
-      "Filip /Solín/",
-      "Tereza /Solínová/"
+      "Filip Solín",
+      "Tereza Solínová"
     ]
   },
   {
     "id": "@I0083@",
-    "GEDName": "David /Solín/",
+    "GEDName": "David Solín",
     "givenName": "David",
     "surname": "Solín",
     "nickname": null,
@@ -2193,13 +2193,13 @@
       "@I0081@"
     ],
     "parentsNames": [
-      "Jaroslav /Solín/",
-      "Květuše /Solínová/"
+      "Jaroslav Solín",
+      "Květuše Solínová"
     ]
   },
   {
     "id": "@I0084@",
-    "GEDName": "Miloš /Solín/",
+    "GEDName": "Miloš Solín",
     "givenName": "Miloš",
     "surname": "Solín",
     "nickname": null,
@@ -2215,13 +2215,13 @@
       "@I0081@"
     ],
     "parentsNames": [
-      "Jaroslav /Solín/",
-      "Květuše /Solínová/"
+      "Jaroslav Solín",
+      "Květuše Solínová"
     ]
   },
   {
     "id": "@I0085@",
-    "GEDName": "Pavla /Solínová/",
+    "GEDName": "Pavla Solínová",
     "givenName": "Pavla",
     "surname": "Solínová",
     "nickname": null,
@@ -2237,15 +2237,15 @@
       "@I0086@",
       "@I0087@"
     ],
-    "spouseName": "Jaroslav /Solín/",
+    "spouseName": "Jaroslav Solín",
     "childrenNames": [
-      "Filip /Solín/",
-      "Tereza /Solínová/"
+      "Filip Solín",
+      "Tereza Solínová"
     ]
   },
   {
     "id": "@I0086@",
-    "GEDName": "Filip /Solín/",
+    "GEDName": "Filip Solín",
     "givenName": "Filip",
     "surname": "Solín",
     "nickname": null,
@@ -2261,13 +2261,13 @@
       "@I0085@"
     ],
     "parentsNames": [
-      "Jaroslav /Solín/",
-      "Pavla /Solínová/"
+      "Jaroslav Solín",
+      "Pavla Solínová"
     ]
   },
   {
     "id": "@I0087@",
-    "GEDName": "Tereza /Solínová/",
+    "GEDName": "Tereza Solínová",
     "givenName": "Tereza",
     "surname": "Solínová",
     "nickname": null,
@@ -2283,13 +2283,13 @@
       "@I0085@"
     ],
     "parentsNames": [
-      "Jaroslav /Solín/",
-      "Pavla /Solínová/"
+      "Jaroslav Solín",
+      "Pavla Solínová"
     ]
   },
   {
     "id": "@I0088@",
-    "GEDName": "Elena /Vargová/",
+    "GEDName": "Elena Vargová",
     "givenName": "Elena",
     "surname": "Vargová",
     "nickname": null,
@@ -2305,15 +2305,15 @@
       "@I0089@",
       "@I0090@"
     ],
-    "spouseName": "Anton /Solín/",
+    "spouseName": "Anton Solín",
     "childrenNames": [
-      "Mário /Solín/",
-      "Kristián /Solín/"
+      "Mário Solín",
+      "Kristián Solín"
     ]
   },
   {
     "id": "@I0089@",
-    "GEDName": "Mário /Solín/",
+    "GEDName": "Mário Solín",
     "givenName": "Mário",
     "surname": "Solín",
     "nickname": null,
@@ -2329,13 +2329,13 @@
       "@I0088@"
     ],
     "parentsNames": [
-      "Anton /Solín/",
-      "Elena /Vargová/"
+      "Anton Solín",
+      "Elena Vargová"
     ]
   },
   {
     "id": "@I0090@",
-    "GEDName": "Kristián /Solín/",
+    "GEDName": "Kristián Solín",
     "givenName": "Kristián",
     "surname": "Solín",
     "nickname": null,
@@ -2351,13 +2351,13 @@
       "@I0088@"
     ],
     "parentsNames": [
-      "Anton /Solín/",
-      "Elena /Vargová/"
+      "Anton Solín",
+      "Elena Vargová"
     ]
   },
   {
     "id": "@I0091@",
-    "GEDName": "Štefan Frank /Matuščin/",
+    "GEDName": "Štefan Frank Matuščin",
     "givenName": "Štefan Frank",
     "surname": "Matuščin",
     "nickname": null,
@@ -2373,8 +2373,8 @@
       "@I0046@"
     ],
     "parentsNames": [
-      "Alexander /Matuščin/",
-      "Hermina /Matuščinová/"
+      "Alexander Matuščin",
+      "Hermina Matuščinová"
     ],
     "spouse": "@I0092@",
     "children": [
@@ -2383,17 +2383,17 @@
       "@I0095@",
       "@I0096@"
     ],
-    "spouseName": "Anna /Matuščin/",
+    "spouseName": "Anna Matuščin",
     "childrenNames": [
-      "Mary /Micallef/",
-      "Jerry Steve /Matuščin/",
-      "Antonia /Morris/",
-      "Frances /Mauer/"
+      "Mary Micallef",
+      "Jerry Steve Matuščin",
+      "Antonia Morris",
+      "Frances Mauer"
     ]
   },
   {
     "id": "@I0092@",
-    "GEDName": "Anna /Matuščin/",
+    "GEDName": "Anna Matuščin",
     "givenName": "Anna",
     "surname": "Matuščin",
     "nickname": null,
@@ -2411,17 +2411,17 @@
       "@I0095@",
       "@I0096@"
     ],
-    "spouseName": "Štefan Frank /Matuščin/",
+    "spouseName": "Štefan Frank Matuščin",
     "childrenNames": [
-      "Mary /Micallef/",
-      "Jerry Steve /Matuščin/",
-      "Antonia /Morris/",
-      "Frances /Mauer/"
+      "Mary Micallef",
+      "Jerry Steve Matuščin",
+      "Antonia Morris",
+      "Frances Mauer"
     ]
   },
   {
     "id": "@I0093@",
-    "GEDName": "Mary /Micallef/",
+    "GEDName": "Mary Micallef",
     "givenName": "Mary",
     "surname": "Micallef",
     "nickname": null,
@@ -2437,23 +2437,23 @@
       "@I0092@"
     ],
     "parentsNames": [
-      "Štefan Frank /Matuščin/",
-      "Anna /Matuščin/"
+      "Štefan Frank Matuščin",
+      "Anna Matuščin"
     ],
     "spouse": "@I0097@",
     "children": [
       "@I0098@",
       "@I0099@"
     ],
-    "spouseName": "Paul /Micallef/",
+    "spouseName": "Paul Micallef",
     "childrenNames": [
-      "Kristen /Sarra/",
-      "Michael Charles /Micallef/"
+      "Kristen Sarra",
+      "Michael Charles Micallef"
     ]
   },
   {
     "id": "@I0094@",
-    "GEDName": "Jerry Steve /Matuščin/",
+    "GEDName": "Jerry Steve Matuščin",
     "givenName": "Jerry Steve",
     "surname": "Matuščin",
     "nickname": null,
@@ -2469,8 +2469,8 @@
       "@I0092@"
     ],
     "parentsNames": [
-      "Štefan Frank /Matuščin/",
-      "Anna /Matuščin/"
+      "Štefan Frank Matuščin",
+      "Anna Matuščin"
     ],
     "spouse": null,
     "spouseName": null,
@@ -2479,13 +2479,13 @@
       "@I0103@"
     ],
     "childrenNames": [
-      "Alexander /Matuščin/",
-      "Amy /Matuščin/"
+      "Alexander Matuščin",
+      "Amy Matuščin"
     ]
   },
   {
     "id": "@I0095@",
-    "GEDName": "Antonia /Morris/",
+    "GEDName": "Antonia Morris",
     "givenName": "Antonia",
     "surname": "Morris",
     "nickname": null,
@@ -2501,8 +2501,8 @@
       "@I0092@"
     ],
     "parentsNames": [
-      "Štefan Frank /Matuščin/",
-      "Anna /Matuščin/"
+      "Štefan Frank Matuščin",
+      "Anna Matuščin"
     ],
     "spouse": "@I0104@",
     "children": [
@@ -2510,16 +2510,16 @@
       "@I0106@",
       "@I0107@"
     ],
-    "spouseName": "John Everett /Morris/",
+    "spouseName": "John Everett Morris",
     "childrenNames": [
-      "Stephanie /Morris/",
-      "Sarah /Morris/",
-      "Stacey /Morris/"
+      "Stephanie Morris",
+      "Sarah Morris",
+      "Stacey Morris"
     ]
   },
   {
     "id": "@I0096@",
-    "GEDName": "Frances /Mauer/",
+    "GEDName": "Frances Mauer",
     "givenName": "Frances",
     "surname": "Mauer",
     "nickname": null,
@@ -2535,23 +2535,23 @@
       "@I0092@"
     ],
     "parentsNames": [
-      "Štefan Frank /Matuščin/",
-      "Anna /Matuščin/"
+      "Štefan Frank Matuščin",
+      "Anna Matuščin"
     ],
     "spouse": "@I0109@",
     "children": [
       "@I0110@",
       "@I0111@"
     ],
-    "spouseName": "Frank /Mauer/",
+    "spouseName": "Frank Mauer",
     "childrenNames": [
-      "Jennifer /Mauer/",
-      "Richard Francis /Mauer/"
+      "Jennifer Mauer",
+      "Richard Francis Mauer"
     ]
   },
   {
     "id": "@I0097@",
-    "GEDName": "Paul /Micallef/",
+    "GEDName": "Paul Micallef",
     "givenName": "Paul",
     "surname": "Micallef",
     "nickname": null,
@@ -2567,15 +2567,15 @@
       "@I0098@",
       "@I0099@"
     ],
-    "spouseName": "Mary /Micallef/",
+    "spouseName": "Mary Micallef",
     "childrenNames": [
-      "Kristen /Sarra/",
-      "Michael Charles /Micallef/"
+      "Kristen Sarra",
+      "Michael Charles Micallef"
     ]
   },
   {
     "id": "@I0098@",
-    "GEDName": "Kristen /Sarra/",
+    "GEDName": "Kristen Sarra",
     "givenName": "Kristen",
     "surname": "Sarra",
     "nickname": null,
@@ -2591,17 +2591,17 @@
       "@I0093@"
     ],
     "parentsNames": [
-      "Paul /Micallef/",
-      "Mary /Micallef/"
+      "Paul Micallef",
+      "Mary Micallef"
     ],
     "spouse": "@I0100@",
     "children": null,
-    "spouseName": "Frank /Sarra/",
+    "spouseName": "Frank Sarra",
     "childrenNames": null
   },
   {
     "id": "@I0099@",
-    "GEDName": "Michael Charles /Micallef/",
+    "GEDName": "Michael Charles Micallef",
     "givenName": "Michael Charles",
     "surname": "Micallef",
     "nickname": null,
@@ -2617,17 +2617,17 @@
       "@I0093@"
     ],
     "parentsNames": [
-      "Paul /Micallef/",
-      "Mary /Micallef/"
+      "Paul Micallef",
+      "Mary Micallef"
     ],
     "spouse": "@I0101@",
     "children": null,
-    "spouseName": "Shereen /Micallef/",
+    "spouseName": "Shereen Micallef",
     "childrenNames": null
   },
   {
     "id": "@I0100@",
-    "GEDName": "Frank /Sarra/",
+    "GEDName": "Frank Sarra",
     "givenName": "Frank",
     "surname": "Sarra",
     "nickname": null,
@@ -2640,12 +2640,12 @@
     "deathPlace": null,
     "spouse": "@I0098@",
     "children": null,
-    "spouseName": "Kristen /Sarra/",
+    "spouseName": "Kristen Sarra",
     "childrenNames": null
   },
   {
     "id": "@I0101@",
-    "GEDName": "Shereen /Micallef/",
+    "GEDName": "Shereen Micallef",
     "givenName": "Shereen",
     "surname": "Micallef",
     "nickname": null,
@@ -2658,12 +2658,12 @@
     "deathPlace": null,
     "spouse": "@I0099@",
     "children": null,
-    "spouseName": "Michael Charles /Micallef/",
+    "spouseName": "Michael Charles Micallef",
     "childrenNames": null
   },
   {
     "id": "@I0102@",
-    "GEDName": "Alexander /Matuščin/",
+    "GEDName": "Alexander Matuščin",
     "givenName": "Alexander",
     "surname": "Matuščin",
     "nickname": null,
@@ -2678,12 +2678,12 @@
       "@I0094@"
     ],
     "parentsNames": [
-      "Jerry Steve /Matuščin/"
+      "Jerry Steve Matuščin"
     ]
   },
   {
     "id": "@I0103@",
-    "GEDName": "Amy /Matuščin/",
+    "GEDName": "Amy Matuščin",
     "givenName": "Amy",
     "surname": "Matuščin",
     "nickname": null,
@@ -2698,12 +2698,12 @@
       "@I0094@"
     ],
     "parentsNames": [
-      "Jerry Steve /Matuščin/"
+      "Jerry Steve Matuščin"
     ]
   },
   {
     "id": "@I0104@",
-    "GEDName": "John Everett /Morris/",
+    "GEDName": "John Everett Morris",
     "givenName": "John Everett",
     "surname": "Morris",
     "nickname": null,
@@ -2720,16 +2720,16 @@
       "@I0106@",
       "@I0107@"
     ],
-    "spouseName": "Antonia /Morris/",
+    "spouseName": "Antonia Morris",
     "childrenNames": [
-      "Stephanie /Morris/",
-      "Sarah /Morris/",
-      "Stacey /Morris/"
+      "Stephanie Morris",
+      "Sarah Morris",
+      "Stacey Morris"
     ]
   },
   {
     "id": "@I0105@",
-    "GEDName": "Stephanie /Morris/",
+    "GEDName": "Stephanie Morris",
     "givenName": "Stephanie",
     "surname": "Morris",
     "nickname": null,
@@ -2745,13 +2745,13 @@
       "@I0095@"
     ],
     "parentsNames": [
-      "John Everett /Morris/",
-      "Antonia /Morris/"
+      "John Everett Morris",
+      "Antonia Morris"
     ]
   },
   {
     "id": "@I0106@",
-    "GEDName": "Sarah /Morris/",
+    "GEDName": "Sarah Morris",
     "givenName": "Sarah",
     "surname": "Morris",
     "nickname": null,
@@ -2767,8 +2767,8 @@
       "@I0095@"
     ],
     "parentsNames": [
-      "John Everett /Morris/",
-      "Antonia /Morris/"
+      "John Everett Morris",
+      "Antonia Morris"
     ],
     "spouse": null,
     "spouseName": null,
@@ -2776,12 +2776,12 @@
       "@I0108@"
     ],
     "childrenNames": [
-      "Hayden /Morris/"
+      "Hayden Morris"
     ]
   },
   {
     "id": "@I0107@",
-    "GEDName": "Stacey /Morris/",
+    "GEDName": "Stacey Morris",
     "givenName": "Stacey",
     "surname": "Morris",
     "nickname": null,
@@ -2797,13 +2797,13 @@
       "@I0095@"
     ],
     "parentsNames": [
-      "John Everett /Morris/",
-      "Antonia /Morris/"
+      "John Everett Morris",
+      "Antonia Morris"
     ]
   },
   {
     "id": "@I0108@",
-    "GEDName": "Hayden /Morris/",
+    "GEDName": "Hayden Morris",
     "givenName": "Hayden",
     "surname": "Morris",
     "nickname": null,
@@ -2818,12 +2818,12 @@
       "@I0106@"
     ],
     "parentsNames": [
-      "Sarah /Morris/"
+      "Sarah Morris"
     ]
   },
   {
     "id": "@I0109@",
-    "GEDName": "Frank /Mauer/",
+    "GEDName": "Frank Mauer",
     "givenName": "Frank",
     "surname": "Mauer",
     "nickname": null,
@@ -2839,15 +2839,15 @@
       "@I0110@",
       "@I0111@"
     ],
-    "spouseName": "Frances /Mauer/",
+    "spouseName": "Frances Mauer",
     "childrenNames": [
-      "Jennifer /Mauer/",
-      "Richard Francis /Mauer/"
+      "Jennifer Mauer",
+      "Richard Francis Mauer"
     ]
   },
   {
     "id": "@I0110@",
-    "GEDName": "Jennifer /Mauer/",
+    "GEDName": "Jennifer Mauer",
     "givenName": "Jennifer",
     "surname": "Mauer",
     "nickname": null,
@@ -2863,13 +2863,13 @@
       "@I0096@"
     ],
     "parentsNames": [
-      "Frank /Mauer/",
-      "Frances /Mauer/"
+      "Frank Mauer",
+      "Frances Mauer"
     ]
   },
   {
     "id": "@I0111@",
-    "GEDName": "Richard Francis /Mauer/",
+    "GEDName": "Richard Francis Mauer",
     "givenName": "Richard Francis",
     "surname": "Mauer",
     "nickname": null,
@@ -2885,13 +2885,13 @@
       "@I0096@"
     ],
     "parentsNames": [
-      "Frank /Mauer/",
-      "Frances /Mauer/"
+      "Frank Mauer",
+      "Frances Mauer"
     ]
   },
   {
     "id": "@I0112@",
-    "GEDName": "Ján /Matuščin/",
+    "GEDName": "Ján Matuščin",
     "givenName": "Ján",
     "surname": "Matuščin",
     "nickname": "John",
@@ -2907,23 +2907,23 @@
       "@I0046@"
     ],
     "parentsNames": [
-      "Alexander /Matuščin/",
-      "Hermina /Matuščinová/"
+      "Alexander Matuščin",
+      "Hermina Matuščinová"
     ],
     "spouse": "@I0113@",
     "children": [
       "@I0114@",
       "@I0115@"
     ],
-    "spouseName": "Annastazia /Matuščin/",
+    "spouseName": "Annastazia Matuščin",
     "childrenNames": [
-      "Ilaine /Matuščin/",
-      "Janet /Fowler/"
+      "Ilaine Matuščin",
+      "Janet Fowler"
     ]
   },
   {
     "id": "@I0113@",
-    "GEDName": "Annastazia /Matuščin/",
+    "GEDName": "Annastazia Matuščin",
     "givenName": "Annastazia",
     "surname": "Matuščin",
     "nickname": "Anne",
@@ -2939,15 +2939,15 @@
       "@I0114@",
       "@I0115@"
     ],
-    "spouseName": "Ján /Matuščin/",
+    "spouseName": "Ján Matuščin",
     "childrenNames": [
-      "Ilaine /Matuščin/",
-      "Janet /Fowler/"
+      "Ilaine Matuščin",
+      "Janet Fowler"
     ]
   },
   {
     "id": "@I0114@",
-    "GEDName": "Ilaine /Matuščin/",
+    "GEDName": "Ilaine Matuščin",
     "givenName": "Ilaine",
     "surname": "Matuščin",
     "nickname": null,
@@ -2963,13 +2963,13 @@
       "@I0113@"
     ],
     "parentsNames": [
-      "Ján /Matuščin/",
-      "Annastazia /Matuščin/"
+      "Ján Matuščin",
+      "Annastazia Matuščin"
     ]
   },
   {
     "id": "@I0115@",
-    "GEDName": "Janet /Fowler/",
+    "GEDName": "Janet Fowler",
     "givenName": "Janet",
     "surname": "Fowler",
     "nickname": null,
@@ -2985,17 +2985,17 @@
       "@I0113@"
     ],
     "parentsNames": [
-      "Ján /Matuščin/",
-      "Annastazia /Matuščin/"
+      "Ján Matuščin",
+      "Annastazia Matuščin"
     ],
     "spouse": "@I0116@",
     "children": null,
-    "spouseName": "Ralph /Fowler/",
+    "spouseName": "Ralph Fowler",
     "childrenNames": null
   },
   {
     "id": "@I0116@",
-    "GEDName": "Ralph /Fowler/",
+    "GEDName": "Ralph Fowler",
     "givenName": "Ralph",
     "surname": "Fowler",
     "nickname": null,
@@ -3008,12 +3008,12 @@
     "deathPlace": null,
     "spouse": "@I0115@",
     "children": null,
-    "spouseName": "Janet /Fowler/",
+    "spouseName": "Janet Fowler",
     "childrenNames": null
   },
   {
     "id": "@I0117@",
-    "GEDName": "Helen /Fodor/",
+    "GEDName": "Helen Fodor",
     "givenName": "Helen",
     "surname": "Fodor",
     "nickname": null,
@@ -3029,8 +3029,8 @@
       "@I0046@"
     ],
     "parentsNames": [
-      "Alexander /Matuščin/",
-      "Hermina /Matuščinová/"
+      "Alexander Matuščin",
+      "Hermina Matuščinová"
     ],
     "spouse": "@I0118@",
     "children": [
@@ -3039,17 +3039,17 @@
       "@I0121@",
       "@I0122@"
     ],
-    "spouseName": "Steve /Fodor/",
+    "spouseName": "Steve Fodor",
     "childrenNames": [
-      "Isabel /Klaris/",
-      "Larry Steve /Fodor/",
-      "Gary John /Fodor/",
-      "Brenda /Steffes/"
+      "Isabel Klaris",
+      "Larry Steve Fodor",
+      "Gary John Fodor",
+      "Brenda Steffes"
     ]
   },
   {
     "id": "@I0118@",
-    "GEDName": "Steve /Fodor/",
+    "GEDName": "Steve Fodor",
     "givenName": "Steve",
     "surname": "Fodor",
     "nickname": null,
@@ -3067,17 +3067,17 @@
       "@I0121@",
       "@I0122@"
     ],
-    "spouseName": "Helen /Fodor/",
+    "spouseName": "Helen Fodor",
     "childrenNames": [
-      "Isabel /Klaris/",
-      "Larry Steve /Fodor/",
-      "Gary John /Fodor/",
-      "Brenda /Steffes/"
+      "Isabel Klaris",
+      "Larry Steve Fodor",
+      "Gary John Fodor",
+      "Brenda Steffes"
     ]
   },
   {
     "id": "@I0119@",
-    "GEDName": "Isabel /Klaris/",
+    "GEDName": "Isabel Klaris",
     "givenName": "Isabel",
     "surname": "Klaris",
     "nickname": null,
@@ -3093,23 +3093,23 @@
       "@I0117@"
     ],
     "parentsNames": [
-      "Steve /Fodor/",
-      "Helen /Fodor/"
+      "Steve Fodor",
+      "Helen Fodor"
     ],
     "spouse": "@I0123@",
     "children": [
       "@I0124@",
       "@I0125@"
     ],
-    "spouseName": "Hans /Klaris/",
+    "spouseName": "Hans Klaris",
     "childrenNames": [
-      "Denise /Leve/",
-      "Terry /Klaris/"
+      "Denise Leve",
+      "Terry Klaris"
     ]
   },
   {
     "id": "@I0120@",
-    "GEDName": "Larry Steve /Fodor/",
+    "GEDName": "Larry Steve Fodor",
     "givenName": "Larry Steve",
     "surname": "Fodor",
     "nickname": null,
@@ -3125,21 +3125,21 @@
       "@I0117@"
     ],
     "parentsNames": [
-      "Steve /Fodor/",
-      "Helen /Fodor/"
+      "Steve Fodor",
+      "Helen Fodor"
     ],
     "spouse": "@I0127@",
     "children": [
       "@I0128@"
     ],
-    "spouseName": "Christina /Fodor/",
+    "spouseName": "Christina Fodor",
     "childrenNames": [
-      "Marina /Fodor/"
+      "Marina Fodor"
     ]
   },
   {
     "id": "@I0121@",
-    "GEDName": "Gary John /Fodor/",
+    "GEDName": "Gary John Fodor",
     "givenName": "Gary John",
     "surname": "Fodor",
     "nickname": null,
@@ -3155,23 +3155,23 @@
       "@I0117@"
     ],
     "parentsNames": [
-      "Steve /Fodor/",
-      "Helen /Fodor/"
+      "Steve Fodor",
+      "Helen Fodor"
     ],
     "spouse": "@I0129@",
     "children": [
       "@I0130@",
       "@I0131@"
     ],
-    "spouseName": "Christine /Fodor/",
+    "spouseName": "Christine Fodor",
     "childrenNames": [
-      "Andrew /Fodor/",
-      "Gerratt /Fodor/"
+      "Andrew Fodor",
+      "Gerratt Fodor"
     ]
   },
   {
     "id": "@I0122@",
-    "GEDName": "Brenda /Steffes/",
+    "GEDName": "Brenda Steffes",
     "givenName": "Brenda",
     "surname": "Steffes",
     "nickname": null,
@@ -3187,23 +3187,23 @@
       "@I0117@"
     ],
     "parentsNames": [
-      "Steve /Fodor/",
-      "Helen /Fodor/"
+      "Steve Fodor",
+      "Helen Fodor"
     ],
     "spouse": "@I0132@",
     "children": [
       "@I0133@",
       "@I0134@"
     ],
-    "spouseName": "Peter /Steffes/",
+    "spouseName": "Peter Steffes",
     "childrenNames": [
-      "Gregory /Steffes/",
-      "Lisa /Steffes/"
+      "Gregory Steffes",
+      "Lisa Steffes"
     ]
   },
   {
     "id": "@I0123@",
-    "GEDName": "Hans /Klaris/",
+    "GEDName": "Hans Klaris",
     "givenName": "Hans",
     "surname": "Klaris",
     "nickname": null,
@@ -3219,15 +3219,15 @@
       "@I0124@",
       "@I0125@"
     ],
-    "spouseName": "Isabel /Klaris/",
+    "spouseName": "Isabel Klaris",
     "childrenNames": [
-      "Denise /Leve/",
-      "Terry /Klaris/"
+      "Denise Leve",
+      "Terry Klaris"
     ]
   },
   {
     "id": "@I0124@",
-    "GEDName": "Denise /Leve/",
+    "GEDName": "Denise Leve",
     "givenName": "Denise",
     "surname": "Leve",
     "nickname": null,
@@ -3243,8 +3243,8 @@
       "@I0119@"
     ],
     "parentsNames": [
-      "Hans /Klaris/",
-      "Isabel /Klaris/"
+      "Hans Klaris",
+      "Isabel Klaris"
     ],
     "spouse": null,
     "spouseName": null,
@@ -3252,12 +3252,12 @@
       "@I0126@"
     ],
     "childrenNames": [
-      "Antonia /Leve/"
+      "Antonia Leve"
     ]
   },
   {
     "id": "@I0125@",
-    "GEDName": "Terry /Klaris/",
+    "GEDName": "Terry Klaris",
     "givenName": "Terry",
     "surname": "Klaris",
     "nickname": null,
@@ -3273,13 +3273,13 @@
       "@I0119@"
     ],
     "parentsNames": [
-      "Hans /Klaris/",
-      "Isabel /Klaris/"
+      "Hans Klaris",
+      "Isabel Klaris"
     ]
   },
   {
     "id": "@I0126@",
-    "GEDName": "Antonia /Leve/",
+    "GEDName": "Antonia Leve",
     "givenName": "Antonia",
     "surname": "Leve",
     "nickname": null,
@@ -3294,12 +3294,12 @@
       "@I0124@"
     ],
     "parentsNames": [
-      "Denise /Leve/"
+      "Denise Leve"
     ]
   },
   {
     "id": "@I0127@",
-    "GEDName": "Christina /Fodor/",
+    "GEDName": "Christina Fodor",
     "givenName": "Christina",
     "surname": "Fodor",
     "nickname": null,
@@ -3314,14 +3314,14 @@
     "children": [
       "@I0128@"
     ],
-    "spouseName": "Larry Steve /Fodor/",
+    "spouseName": "Larry Steve Fodor",
     "childrenNames": [
-      "Marina /Fodor/"
+      "Marina Fodor"
     ]
   },
   {
     "id": "@I0128@",
-    "GEDName": "Marina /Fodor/",
+    "GEDName": "Marina Fodor",
     "givenName": "Marina",
     "surname": "Fodor",
     "nickname": null,
@@ -3337,13 +3337,13 @@
       "@I0127@"
     ],
     "parentsNames": [
-      "Larry Steve /Fodor/",
-      "Christina /Fodor/"
+      "Larry Steve Fodor",
+      "Christina Fodor"
     ]
   },
   {
     "id": "@I0129@",
-    "GEDName": "Christine /Fodor/",
+    "GEDName": "Christine Fodor",
     "givenName": "Christine",
     "surname": "Fodor",
     "nickname": null,
@@ -3359,15 +3359,15 @@
       "@I0130@",
       "@I0131@"
     ],
-    "spouseName": "Gary John /Fodor/",
+    "spouseName": "Gary John Fodor",
     "childrenNames": [
-      "Andrew /Fodor/",
-      "Gerratt /Fodor/"
+      "Andrew Fodor",
+      "Gerratt Fodor"
     ]
   },
   {
     "id": "@I0130@",
-    "GEDName": "Andrew /Fodor/",
+    "GEDName": "Andrew Fodor",
     "givenName": "Andrew",
     "surname": "Fodor",
     "nickname": null,
@@ -3383,13 +3383,13 @@
       "@I0129@"
     ],
     "parentsNames": [
-      "Gary John /Fodor/",
-      "Christine /Fodor/"
+      "Gary John Fodor",
+      "Christine Fodor"
     ]
   },
   {
     "id": "@I0131@",
-    "GEDName": "Gerratt /Fodor/",
+    "GEDName": "Gerratt Fodor",
     "givenName": "Gerratt",
     "surname": "Fodor",
     "nickname": null,
@@ -3405,13 +3405,13 @@
       "@I0129@"
     ],
     "parentsNames": [
-      "Gary John /Fodor/",
-      "Christine /Fodor/"
+      "Gary John Fodor",
+      "Christine Fodor"
     ]
   },
   {
     "id": "@I0132@",
-    "GEDName": "Peter /Steffes/",
+    "GEDName": "Peter Steffes",
     "givenName": "Peter",
     "surname": "Steffes",
     "nickname": null,
@@ -3427,15 +3427,15 @@
       "@I0133@",
       "@I0134@"
     ],
-    "spouseName": "Brenda /Steffes/",
+    "spouseName": "Brenda Steffes",
     "childrenNames": [
-      "Gregory /Steffes/",
-      "Lisa /Steffes/"
+      "Gregory Steffes",
+      "Lisa Steffes"
     ]
   },
   {
     "id": "@I0133@",
-    "GEDName": "Gregory /Steffes/",
+    "GEDName": "Gregory Steffes",
     "givenName": "Gregory",
     "surname": "Steffes",
     "nickname": null,
@@ -3451,13 +3451,13 @@
       "@I0122@"
     ],
     "parentsNames": [
-      "Peter /Steffes/",
-      "Brenda /Steffes/"
+      "Peter Steffes",
+      "Brenda Steffes"
     ]
   },
   {
     "id": "@I0134@",
-    "GEDName": "Lisa /Steffes/",
+    "GEDName": "Lisa Steffes",
     "givenName": "Lisa",
     "surname": "Steffes",
     "nickname": null,
@@ -3473,13 +3473,13 @@
       "@I0122@"
     ],
     "parentsNames": [
-      "Peter /Steffes/",
-      "Brenda /Steffes/"
+      "Peter Steffes",
+      "Brenda Steffes"
     ]
   },
   {
     "id": "@I0135@",
-    "GEDName": "Christina /Doktorčik/",
+    "GEDName": "Christina Doktorčik",
     "givenName": "Christina",
     "surname": "Doktorčik",
     "nickname": null,
@@ -3495,8 +3495,8 @@
       "@I0046@"
     ],
     "parentsNames": [
-      "Alexander /Matuščin/",
-      "Hermina /Matuščinová/"
+      "Alexander Matuščin",
+      "Hermina Matuščinová"
     ],
     "spouse": "@I0137@",
     "children": [
@@ -3505,17 +3505,17 @@
       "@I0140@",
       "@I0141@"
     ],
-    "spouseName": "John Joseph /Doktorčik/",
+    "spouseName": "John Joseph Doktorčik",
     "childrenNames": [
-      "Mary Margaret /Towers/",
-      "Theresa Ann /Cadotte/",
-      "Thomas Edward /Doktorčik/",
-      "Patricia Elizabeth /Glasgow/"
+      "Mary Margaret Towers",
+      "Theresa Ann Cadotte",
+      "Thomas Edward Doktorčik",
+      "Patricia Elizabeth Glasgow"
     ]
   },
   {
     "id": "@I0137@",
-    "GEDName": "John Joseph /Doktorčik/",
+    "GEDName": "John Joseph Doktorčik",
     "givenName": "John Joseph",
     "surname": "Doktorčik",
     "nickname": null,
@@ -3533,17 +3533,17 @@
       "@I0140@",
       "@I0141@"
     ],
-    "spouseName": "Christina /Doktorčik/",
+    "spouseName": "Christina Doktorčik",
     "childrenNames": [
-      "Mary Margaret /Towers/",
-      "Theresa Ann /Cadotte/",
-      "Thomas Edward /Doktorčik/",
-      "Patricia Elizabeth /Glasgow/"
+      "Mary Margaret Towers",
+      "Theresa Ann Cadotte",
+      "Thomas Edward Doktorčik",
+      "Patricia Elizabeth Glasgow"
     ]
   },
   {
     "id": "@I0138@",
-    "GEDName": "Mary Margaret /Towers/",
+    "GEDName": "Mary Margaret Towers",
     "givenName": "Mary Margaret",
     "surname": "Towers",
     "nickname": null,
@@ -3559,23 +3559,23 @@
       "@I0135@"
     ],
     "parentsNames": [
-      "John Joseph /Doktorčik/",
-      "Christina /Doktorčik/"
+      "John Joseph Doktorčik",
+      "Christina Doktorčik"
     ],
     "spouse": "@I0142@",
     "children": [
       "@I0143@",
       "@I0144@"
     ],
-    "spouseName": "Ken /Towers/",
+    "spouseName": "Ken Towers",
     "childrenNames": [
-      "Kristie Lynn /Friest/",
-      "Amy Marie /Sebestyen/"
+      "Kristie Lynn Friest",
+      "Amy Marie Sebestyen"
     ]
   },
   {
     "id": "@I0139@",
-    "GEDName": "Theresa Ann /Cadotte/",
+    "GEDName": "Theresa Ann Cadotte",
     "givenName": "Theresa Ann",
     "surname": "Cadotte",
     "nickname": null,
@@ -3591,8 +3591,8 @@
       "@I0135@"
     ],
     "parentsNames": [
-      "John Joseph /Doktorčik/",
-      "Christina /Doktorčik/"
+      "John Joseph Doktorčik",
+      "Christina Doktorčik"
     ],
     "spouse": "@I0147@",
     "children": [
@@ -3600,16 +3600,16 @@
       "@I0149@",
       "@I0150@"
     ],
-    "spouseName": "Wayne /Cadotte/",
+    "spouseName": "Wayne Cadotte",
     "childrenNames": [
-      "David /Cadotte/",
-      "Michael Richard /Cadotte/",
-      "Adam Jeremy /Cadotte/"
+      "David Cadotte",
+      "Michael Richard Cadotte",
+      "Adam Jeremy Cadotte"
     ]
   },
   {
     "id": "@I0140@",
-    "GEDName": "Thomas Edward /Doktorčik/",
+    "GEDName": "Thomas Edward Doktorčik",
     "givenName": "Thomas Edward",
     "surname": "Doktorčik",
     "nickname": null,
@@ -3625,23 +3625,23 @@
       "@I0135@"
     ],
     "parentsNames": [
-      "John Joseph /Doktorčik/",
-      "Christina /Doktorčik/"
+      "John Joseph Doktorčik",
+      "Christina Doktorčik"
     ],
     "spouse": "@I0152@",
     "children": [
       "@I0153@",
       "@I0154@"
     ],
-    "spouseName": "Rosemary /Doktorčik/",
+    "spouseName": "Rosemary Doktorčik",
     "childrenNames": [
-      "Christopher James /Doktorčik/",
-      "Jennifer /Doktorčik/"
+      "Christopher James Doktorčik",
+      "Jennifer Doktorčik"
     ]
   },
   {
     "id": "@I0141@",
-    "GEDName": "Patricia Elizabeth /Glasgow/",
+    "GEDName": "Patricia Elizabeth Glasgow",
     "givenName": "Patricia Elizabeth",
     "surname": "Glasgow",
     "nickname": null,
@@ -3657,23 +3657,23 @@
       "@I0135@"
     ],
     "parentsNames": [
-      "John Joseph /Doktorčik/",
-      "Christina /Doktorčik/"
+      "John Joseph Doktorčik",
+      "Christina Doktorčik"
     ],
     "spouse": "@I0155@",
     "children": [
       "@I0156@",
       "@I0157@"
     ],
-    "spouseName": "Graham /Glasgow/",
+    "spouseName": "Graham Glasgow",
     "childrenNames": [
-      "Emily /Glasgow/",
-      "Scott /Glasgow/"
+      "Emily Glasgow",
+      "Scott Glasgow"
     ]
   },
   {
     "id": "@I0142@",
-    "GEDName": "Ken /Towers/",
+    "GEDName": "Ken Towers",
     "givenName": "Ken",
     "surname": "Towers",
     "nickname": null,
@@ -3689,15 +3689,15 @@
       "@I0143@",
       "@I0144@"
     ],
-    "spouseName": "Mary Margaret /Towers/",
+    "spouseName": "Mary Margaret Towers",
     "childrenNames": [
-      "Kristie Lynn /Friest/",
-      "Amy Marie /Sebestyen/"
+      "Kristie Lynn Friest",
+      "Amy Marie Sebestyen"
     ]
   },
   {
     "id": "@I0143@",
-    "GEDName": "Kristie Lynn /Friest/",
+    "GEDName": "Kristie Lynn Friest",
     "givenName": "Kristie Lynn",
     "surname": "Friest",
     "nickname": null,
@@ -3713,17 +3713,17 @@
       "@I0138@"
     ],
     "parentsNames": [
-      "Ken /Towers/",
-      "Mary Margaret /Towers/"
+      "Ken Towers",
+      "Mary Margaret Towers"
     ],
     "spouse": "@I0145@",
     "children": null,
-    "spouseName": "Owen /Friest/",
+    "spouseName": "Owen Friest",
     "childrenNames": null
   },
   {
     "id": "@I0144@",
-    "GEDName": "Amy Marie /Sebestyen/",
+    "GEDName": "Amy Marie Sebestyen",
     "givenName": "Amy Marie",
     "surname": "Sebestyen",
     "nickname": null,
@@ -3739,17 +3739,17 @@
       "@I0138@"
     ],
     "parentsNames": [
-      "Ken /Towers/",
-      "Mary Margaret /Towers/"
+      "Ken Towers",
+      "Mary Margaret Towers"
     ],
     "spouse": "@I0146@",
     "children": null,
-    "spouseName": "Shane /Sebestyen/",
+    "spouseName": "Shane Sebestyen",
     "childrenNames": null
   },
   {
     "id": "@I0145@",
-    "GEDName": "Owen /Friest/",
+    "GEDName": "Owen Friest",
     "givenName": "Owen",
     "surname": "Friest",
     "nickname": null,
@@ -3762,12 +3762,12 @@
     "deathPlace": null,
     "spouse": "@I0143@",
     "children": null,
-    "spouseName": "Kristie Lynn /Friest/",
+    "spouseName": "Kristie Lynn Friest",
     "childrenNames": null
   },
   {
     "id": "@I0146@",
-    "GEDName": "Shane /Sebestyen/",
+    "GEDName": "Shane Sebestyen",
     "givenName": "Shane",
     "surname": "Sebestyen",
     "nickname": null,
@@ -3780,12 +3780,12 @@
     "deathPlace": null,
     "spouse": "@I0144@",
     "children": null,
-    "spouseName": "Amy Marie /Sebestyen/",
+    "spouseName": "Amy Marie Sebestyen",
     "childrenNames": null
   },
   {
     "id": "@I0147@",
-    "GEDName": "Wayne /Cadotte/",
+    "GEDName": "Wayne Cadotte",
     "givenName": "Wayne",
     "surname": "Cadotte",
     "nickname": null,
@@ -3802,16 +3802,16 @@
       "@I0149@",
       "@I0150@"
     ],
-    "spouseName": "Theresa Ann /Cadotte/",
+    "spouseName": "Theresa Ann Cadotte",
     "childrenNames": [
-      "David /Cadotte/",
-      "Michael Richard /Cadotte/",
-      "Adam Jeremy /Cadotte/"
+      "David Cadotte",
+      "Michael Richard Cadotte",
+      "Adam Jeremy Cadotte"
     ]
   },
   {
     "id": "@I0148@",
-    "GEDName": "David /Cadotte/",
+    "GEDName": "David Cadotte",
     "givenName": "David",
     "surname": "Cadotte",
     "nickname": null,
@@ -3827,13 +3827,13 @@
       "@I0139@"
     ],
     "parentsNames": [
-      "Wayne /Cadotte/",
-      "Theresa Ann /Cadotte/"
+      "Wayne Cadotte",
+      "Theresa Ann Cadotte"
     ]
   },
   {
     "id": "@I0149@",
-    "GEDName": "Michael Richard /Cadotte/",
+    "GEDName": "Michael Richard Cadotte",
     "givenName": "Michael Richard",
     "surname": "Cadotte",
     "nickname": null,
@@ -3849,17 +3849,17 @@
       "@I0139@"
     ],
     "parentsNames": [
-      "Wayne /Cadotte/",
-      "Theresa Ann /Cadotte/"
+      "Wayne Cadotte",
+      "Theresa Ann Cadotte"
     ],
     "spouse": "@I0151@",
     "children": null,
-    "spouseName": "Heather /Cadotte/",
+    "spouseName": "Heather Cadotte",
     "childrenNames": null
   },
   {
     "id": "@I0150@",
-    "GEDName": "Adam Jeremy /Cadotte/",
+    "GEDName": "Adam Jeremy Cadotte",
     "givenName": "Adam Jeremy",
     "surname": "Cadotte",
     "nickname": null,
@@ -3875,13 +3875,13 @@
       "@I0139@"
     ],
     "parentsNames": [
-      "Wayne /Cadotte/",
-      "Theresa Ann /Cadotte/"
+      "Wayne Cadotte",
+      "Theresa Ann Cadotte"
     ]
   },
   {
     "id": "@I0151@",
-    "GEDName": "Heather /Cadotte/",
+    "GEDName": "Heather Cadotte",
     "givenName": "Heather",
     "surname": "Cadotte",
     "nickname": null,
@@ -3894,12 +3894,12 @@
     "deathPlace": null,
     "spouse": "@I0149@",
     "children": null,
-    "spouseName": "Michael Richard /Cadotte/",
+    "spouseName": "Michael Richard Cadotte",
     "childrenNames": null
   },
   {
     "id": "@I0152@",
-    "GEDName": "Rosemary /Doktorčik/",
+    "GEDName": "Rosemary Doktorčik",
     "givenName": "Rosemary",
     "surname": "Doktorčik",
     "nickname": null,
@@ -3915,15 +3915,15 @@
       "@I0153@",
       "@I0154@"
     ],
-    "spouseName": "Thomas Edward /Doktorčik/",
+    "spouseName": "Thomas Edward Doktorčik",
     "childrenNames": [
-      "Christopher James /Doktorčik/",
-      "Jennifer /Doktorčik/"
+      "Christopher James Doktorčik",
+      "Jennifer Doktorčik"
     ]
   },
   {
     "id": "@I0153@",
-    "GEDName": "Christopher James /Doktorčik/",
+    "GEDName": "Christopher James Doktorčik",
     "givenName": "Christopher James",
     "surname": "Doktorčik",
     "nickname": null,
@@ -3939,13 +3939,13 @@
       "@I0152@"
     ],
     "parentsNames": [
-      "Thomas Edward /Doktorčik/",
-      "Rosemary /Doktorčik/"
+      "Thomas Edward Doktorčik",
+      "Rosemary Doktorčik"
     ]
   },
   {
     "id": "@I0154@",
-    "GEDName": "Jennifer /Doktorčik/",
+    "GEDName": "Jennifer Doktorčik",
     "givenName": "Jennifer",
     "surname": "Doktorčik",
     "nickname": null,
@@ -3961,13 +3961,13 @@
       "@I0152@"
     ],
     "parentsNames": [
-      "Thomas Edward /Doktorčik/",
-      "Rosemary /Doktorčik/"
+      "Thomas Edward Doktorčik",
+      "Rosemary Doktorčik"
     ]
   },
   {
     "id": "@I0155@",
-    "GEDName": "Graham /Glasgow/",
+    "GEDName": "Graham Glasgow",
     "givenName": "Graham",
     "surname": "Glasgow",
     "nickname": null,
@@ -3983,15 +3983,15 @@
       "@I0156@",
       "@I0157@"
     ],
-    "spouseName": "Patricia Elizabeth /Glasgow/",
+    "spouseName": "Patricia Elizabeth Glasgow",
     "childrenNames": [
-      "Emily /Glasgow/",
-      "Scott /Glasgow/"
+      "Emily Glasgow",
+      "Scott Glasgow"
     ]
   },
   {
     "id": "@I0156@",
-    "GEDName": "Emily /Glasgow/",
+    "GEDName": "Emily Glasgow",
     "givenName": "Emily",
     "surname": "Glasgow",
     "nickname": null,
@@ -4007,13 +4007,13 @@
       "@I0141@"
     ],
     "parentsNames": [
-      "Graham /Glasgow/",
-      "Patricia Elizabeth /Glasgow/"
+      "Graham Glasgow",
+      "Patricia Elizabeth Glasgow"
     ]
   },
   {
     "id": "@I0157@",
-    "GEDName": "Scott /Glasgow/",
+    "GEDName": "Scott Glasgow",
     "givenName": "Scott",
     "surname": "Glasgow",
     "nickname": null,
@@ -4029,13 +4029,13 @@
       "@I0141@"
     ],
     "parentsNames": [
-      "Graham /Glasgow/",
-      "Patricia Elizabeth /Glasgow/"
+      "Graham Glasgow",
+      "Patricia Elizabeth Glasgow"
     ]
   },
   {
     "id": "@I0158@",
-    "GEDName": "Otto /Matuščin/",
+    "GEDName": "Otto Matuščin",
     "givenName": "Otto",
     "surname": "Matuščin",
     "nickname": null,
@@ -4051,13 +4051,13 @@
       "@I0046@"
     ],
     "parentsNames": [
-      "Alexander /Matuščin/",
-      "Hermina /Matuščinová/"
+      "Alexander Matuščin",
+      "Hermina Matuščinová"
     ]
   },
   {
     "id": "@I0159@",
-    "GEDName": "Karol /Matuščin/",
+    "GEDName": "Karol Matuščin",
     "givenName": "Karol",
     "surname": "Matuščin",
     "nickname": null,
@@ -4073,13 +4073,13 @@
       "@I0046@"
     ],
     "parentsNames": [
-      "Alexander /Matuščin/",
-      "Hermina /Matuščinová/"
+      "Alexander Matuščin",
+      "Hermina Matuščinová"
     ]
   },
   {
     "id": "@I0160@",
-    "GEDName": "Alois /DeSerrano/",
+    "GEDName": "Alois DeSerrano",
     "givenName": "Alois",
     "surname": "DeSerrano",
     "nickname": null,
@@ -4103,31 +4103,31 @@
       "@I0169@",
       "@I0170@"
     ],
-    "spouseName": "Emma-Amelia /DeSerrano/",
+    "spouseName": "Emma-Amelia DeSerrano",
     "childrenNames": [
-      "Louis Julius Rudolph /DeSerrano/",
-      "Renaat Oscar /De Serranno/",
-      "Violet Madeline /Lea/",
-      "Lillian /McCloskey/",
-      "Alvin /DeSerrano/",
-      "Allan /DeSerrano/",
-      "Ellen /McCarthy/",
-      "Jean Hyacinth /Smit/",
-      "Gabriel /DeSerrano/",
-      "Angelo Michael /DeSerrano/"
+      "Louis Julius Rudolph DeSerrano",
+      "Renaat Oscar De Serranno",
+      "Violet Madeline Lea",
+      "Lillian McCloskey",
+      "Alvin DeSerrano",
+      "Allan DeSerrano",
+      "Ellen McCarthy",
+      "Jean Hyacinth Smit",
+      "Gabriel DeSerrano",
+      "Angelo Michael DeSerrano"
     ],
     "parents": [
       "@I0299@",
       "@I0300@"
     ],
     "parentsNames": [
-      "Leonard /DeSerrano/",
-      "Julienne /DeSerrano/"
+      "Leonard DeSerrano",
+      "Julienne DeSerrano"
     ]
   },
   {
     "id": "@I0161@",
-    "GEDName": "Emma-Amelia /DeSerrano/",
+    "GEDName": "Emma-Amelia DeSerrano",
     "givenName": "Emma-Amelia",
     "surname": "DeSerrano",
     "nickname": null,
@@ -4151,31 +4151,31 @@
       "@I0169@",
       "@I0170@"
     ],
-    "spouseName": "Alois /DeSerrano/",
+    "spouseName": "Alois DeSerrano",
     "childrenNames": [
-      "Louis Julius Rudolph /DeSerrano/",
-      "Renaat Oscar /De Serranno/",
-      "Violet Madeline /Lea/",
-      "Lillian /McCloskey/",
-      "Alvin /DeSerrano/",
-      "Allan /DeSerrano/",
-      "Ellen /McCarthy/",
-      "Jean Hyacinth /Smit/",
-      "Gabriel /DeSerrano/",
-      "Angelo Michael /DeSerrano/"
+      "Louis Julius Rudolph DeSerrano",
+      "Renaat Oscar De Serranno",
+      "Violet Madeline Lea",
+      "Lillian McCloskey",
+      "Alvin DeSerrano",
+      "Allan DeSerrano",
+      "Ellen McCarthy",
+      "Jean Hyacinth Smit",
+      "Gabriel DeSerrano",
+      "Angelo Michael DeSerrano"
     ],
     "parents": [
       "@I0171@",
       "@I0172@"
     ],
     "parentsNames": [
-      "Jordaen August /Devos/",
-      "Pharailde Marie /Maddens/"
+      "Jordaen August Devos",
+      "Pharailde Marie Maddens"
     ]
   },
   {
     "id": "@I0162@",
-    "GEDName": "Renaat Oscar /De Serranno/",
+    "GEDName": "Renaat Oscar De Serranno",
     "givenName": "Renaat Oscar",
     "surname": "De Serranno",
     "nickname": "René",
@@ -4191,8 +4191,8 @@
       "@I0161@"
     ],
     "parentsNames": [
-      "Alois /DeSerrano/",
-      "Emma-Amelia /DeSerrano/"
+      "Alois DeSerrano",
+      "Emma-Amelia DeSerrano"
     ],
     "spouse": "@I0232@",
     "children": [
@@ -4202,18 +4202,18 @@
       "@I0236@",
       "@I0237@"
     ],
-    "spouseName": "Mary /Sinnesael/",
+    "spouseName": "Mary Sinnesael",
     "childrenNames": [
-      "Ronald /DeSerrano/",
-      "Jacques /DeSerrano/",
-      "Eric /DeSerrano/",
-      "Nicolas /DeSerrano/",
-      "Catharina /DeSerrano/"
+      "Ronald DeSerrano",
+      "Jacques DeSerrano",
+      "Eric DeSerrano",
+      "Nicolas DeSerrano",
+      "Catharina DeSerrano"
     ]
   },
   {
     "id": "@I0163@",
-    "GEDName": "Violet Madeline /Lea/",
+    "GEDName": "Violet Madeline Lea",
     "givenName": "Violet Madeline",
     "surname": "Lea",
     "nickname": "Vi",
@@ -4229,8 +4229,8 @@
       "@I0161@"
     ],
     "parentsNames": [
-      "Alois /DeSerrano/",
-      "Emma-Amelia /DeSerrano/"
+      "Alois DeSerrano",
+      "Emma-Amelia DeSerrano"
     ],
     "spouse": "@I0238@",
     "children": [
@@ -4239,17 +4239,17 @@
       "@I0245@",
       "@I0249@"
     ],
-    "spouseName": "Garth /Lea/",
+    "spouseName": "Garth Lea",
     "childrenNames": [
-      "Gary /Lea/",
-      "Gail /Misner/",
-      "Daniel /Lea/",
-      "Ronald /Lea/"
+      "Gary Lea",
+      "Gail Misner",
+      "Daniel Lea",
+      "Ronald Lea"
     ]
   },
   {
     "id": "@I0164@",
-    "GEDName": "Lillian /McCloskey/",
+    "GEDName": "Lillian McCloskey",
     "givenName": "Lillian",
     "surname": "McCloskey",
     "nickname": "Lil",
@@ -4265,8 +4265,8 @@
       "@I0161@"
     ],
     "parentsNames": [
-      "Alois /DeSerrano/",
-      "Emma-Amelia /DeSerrano/"
+      "Alois DeSerrano",
+      "Emma-Amelia DeSerrano"
     ],
     "spouse": "@I0253@",
     "children": [
@@ -4274,16 +4274,16 @@
       "@I0255@",
       "@I0258@"
     ],
-    "spouseName": "Peter /McCloskey/",
+    "spouseName": "Peter McCloskey",
     "childrenNames": [
-      "James /McCloskey/",
-      "Nancy /Collver/",
-      "Leo /McCloskey/"
+      "James McCloskey",
+      "Nancy Collver",
+      "Leo McCloskey"
     ]
   },
   {
     "id": "@I0165@",
-    "GEDName": "Alvin /DeSerrano/",
+    "GEDName": "Alvin DeSerrano",
     "givenName": "Alvin",
     "surname": "DeSerrano",
     "nickname": null,
@@ -4299,13 +4299,13 @@
       "@I0161@"
     ],
     "parentsNames": [
-      "Alois /DeSerrano/",
-      "Emma-Amelia /DeSerrano/"
+      "Alois DeSerrano",
+      "Emma-Amelia DeSerrano"
     ]
   },
   {
     "id": "@I0166@",
-    "GEDName": "Allan /DeSerrano/",
+    "GEDName": "Allan DeSerrano",
     "givenName": "Allan",
     "surname": "DeSerrano",
     "nickname": null,
@@ -4321,8 +4321,8 @@
       "@I0161@"
     ],
     "parentsNames": [
-      "Alois /DeSerrano/",
-      "Emma-Amelia /DeSerrano/"
+      "Alois DeSerrano",
+      "Emma-Amelia DeSerrano"
     ],
     "spouse": "@I0263@",
     "children": [
@@ -4332,18 +4332,18 @@
       "@I0278@",
       "@I0280@"
     ],
-    "spouseName": "Mary /DeSerrano/",
+    "spouseName": "Mary DeSerrano",
     "childrenNames": [
-      "Debbie /Friesen/",
-      "Zane /DeSerrano/",
-      "Maureen /Berdan/",
-      "Laurie /Danchak/",
-      "Allan /DeSerrano/"
+      "Debbie Friesen",
+      "Zane DeSerrano",
+      "Maureen Berdan",
+      "Laurie Danchak",
+      "Allan DeSerrano"
     ]
   },
   {
     "id": "@I0167@",
-    "GEDName": "Ellen /McCarthy/",
+    "GEDName": "Ellen McCarthy",
     "givenName": "Ellen",
     "surname": "McCarthy",
     "nickname": null,
@@ -4359,23 +4359,23 @@
       "@I0161@"
     ],
     "parentsNames": [
-      "Alois /DeSerrano/",
-      "Emma-Amelia /DeSerrano/"
+      "Alois DeSerrano",
+      "Emma-Amelia DeSerrano"
     ],
     "spouse": "@I0271@",
     "children": [
       "@I0272@",
       "@I0273@"
     ],
-    "spouseName": "Eugene /McCarthy/",
+    "spouseName": "Eugene McCarthy",
     "childrenNames": [
-      "Timothy /McCarthy/",
-      "Thomas /McCarthy/"
+      "Timothy McCarthy",
+      "Thomas McCarthy"
     ]
   },
   {
     "id": "@I0168@",
-    "GEDName": "Jean Hyacinth /Smit/",
+    "GEDName": "Jean Hyacinth Smit",
     "givenName": "Jean Hyacinth",
     "surname": "Smit",
     "nickname": null,
@@ -4391,8 +4391,8 @@
       "@I0161@"
     ],
     "parentsNames": [
-      "Alois /DeSerrano/",
-      "Emma-Amelia /DeSerrano/"
+      "Alois DeSerrano",
+      "Emma-Amelia DeSerrano"
     ],
     "spouse": "@I0264@",
     "children": [
@@ -4400,16 +4400,16 @@
       "@I0267@",
       "@I0269@"
     ],
-    "spouseName": "Harry Henricus /Smit/",
+    "spouseName": "Harry Henricus Smit",
     "childrenNames": [
-      "Valerie /Smit/",
-      "Michele /Druiett/",
-      "Jennifer /Wintemute/"
+      "Valerie Smit",
+      "Michele Druiett",
+      "Jennifer Wintemute"
     ]
   },
   {
     "id": "@I0169@",
-    "GEDName": "Gabriel /DeSerrano/",
+    "GEDName": "Gabriel DeSerrano",
     "givenName": "Gabriel",
     "surname": "DeSerrano",
     "nickname": null,
@@ -4425,13 +4425,13 @@
       "@I0161@"
     ],
     "parentsNames": [
-      "Alois /DeSerrano/",
-      "Emma-Amelia /DeSerrano/"
+      "Alois DeSerrano",
+      "Emma-Amelia DeSerrano"
     ]
   },
   {
     "id": "@I0170@",
-    "GEDName": "Angelo Michael /DeSerrano/",
+    "GEDName": "Angelo Michael DeSerrano",
     "givenName": "Angelo Michael",
     "surname": "DeSerrano",
     "nickname": null,
@@ -4447,8 +4447,8 @@
       "@I0161@"
     ],
     "parentsNames": [
-      "Alois /DeSerrano/",
-      "Emma-Amelia /DeSerrano/"
+      "Alois DeSerrano",
+      "Emma-Amelia DeSerrano"
     ],
     "spouse": "@I0270@",
     "children": [
@@ -4456,16 +4456,16 @@
       "@I0282@",
       "@I0284@"
     ],
-    "spouseName": "Mary Ann /DeSerrano/",
+    "spouseName": "Mary Ann DeSerrano",
     "childrenNames": [
-      "Theresa /DeSerrano/",
-      "Lynda /Amorim/",
-      "Carla /VanKessel/"
+      "Theresa DeSerrano",
+      "Lynda Amorim",
+      "Carla VanKessel"
     ]
   },
   {
     "id": "@I0171@",
-    "GEDName": "Jordaen August /Devos/",
+    "GEDName": "Jordaen August Devos",
     "givenName": "Jordaen August",
     "surname": "Devos",
     "nickname": null,
@@ -4484,26 +4484,26 @@
       "@I0291@",
       "@I0292@"
     ],
-    "spouseName": "Pharailde Marie /Maddens/",
+    "spouseName": "Pharailde Marie Maddens",
     "childrenNames": [
-      "Emma-Amelia /DeSerrano/",
-      "Paula /Kaes/",
-      "George /Devos/",
-      "Paul /Devos/",
-      "Rene /Devos/"
+      "Emma-Amelia DeSerrano",
+      "Paula Kaes",
+      "George Devos",
+      "Paul Devos",
+      "Rene Devos"
     ],
     "parents": [
       "@I0173@",
       "@I0174@"
     ],
     "parentsNames": [
-      "Josephus /Devos/",
-      "Virginie /Malfait/"
+      "Josephus Devos",
+      "Virginie Malfait"
     ]
   },
   {
     "id": "@I0172@",
-    "GEDName": "Pharailde Marie /Maddens/",
+    "GEDName": "Pharailde Marie Maddens",
     "givenName": "Pharailde Marie",
     "surname": "Maddens",
     "nickname": null,
@@ -4522,26 +4522,26 @@
       "@I0291@",
       "@I0292@"
     ],
-    "spouseName": "Jordaen August /Devos/",
+    "spouseName": "Jordaen August Devos",
     "childrenNames": [
-      "Emma-Amelia /DeSerrano/",
-      "Paula /Kaes/",
-      "George /Devos/",
-      "Paul /Devos/",
-      "Rene /Devos/"
+      "Emma-Amelia DeSerrano",
+      "Paula Kaes",
+      "George Devos",
+      "Paul Devos",
+      "Rene Devos"
     ],
     "parents": [
       "@I0202@",
       "@I0203@"
     ],
     "parentsNames": [
-      "Joannes /Maddens/",
-      "Barbara /Dekeersgieter/"
+      "Joannes Maddens",
+      "Barbara Dekeersgieter"
     ]
   },
   {
     "id": "@I0173@",
-    "GEDName": "Josephus /Devos/",
+    "GEDName": "Josephus Devos",
     "givenName": "Josephus",
     "surname": "Devos",
     "nickname": null,
@@ -4556,22 +4556,22 @@
     "children": [
       "@I0171@"
     ],
-    "spouseName": "Virginie /Malfait/",
+    "spouseName": "Virginie Malfait",
     "childrenNames": [
-      "Jordaen August /Devos/"
+      "Jordaen August Devos"
     ],
     "parents": [
       "@I0175@",
       "@I0176@"
     ],
     "parentsNames": [
-      "Benedictus /Devos/",
-      "Maria Franc. /Keersbilck/"
+      "Benedictus Devos",
+      "Maria Franc. Keersbilck"
     ]
   },
   {
     "id": "@I0174@",
-    "GEDName": "Virginie /Malfait/",
+    "GEDName": "Virginie Malfait",
     "givenName": "Virginie",
     "surname": "Malfait",
     "nickname": null,
@@ -4586,22 +4586,22 @@
     "children": [
       "@I0171@"
     ],
-    "spouseName": "Josephus /Devos/",
+    "spouseName": "Josephus Devos",
     "childrenNames": [
-      "Jordaen August /Devos/"
+      "Jordaen August Devos"
     ],
     "parents": [
       "@I0189@",
       "@I0190@"
     ],
     "parentsNames": [
-      "Petrus Jacobus /Malfait/",
-      "Francisca /Oosterlinck/"
+      "Petrus Jacobus Malfait",
+      "Francisca Oosterlinck"
     ]
   },
   {
     "id": "@I0175@",
-    "GEDName": "Benedictus /Devos/",
+    "GEDName": "Benedictus Devos",
     "givenName": "Benedictus",
     "surname": "Devos",
     "nickname": null,
@@ -4616,22 +4616,22 @@
     "children": [
       "@I0173@"
     ],
-    "spouseName": "Maria Franc. /Keersbilck/",
+    "spouseName": "Maria Franc. Keersbilck",
     "childrenNames": [
-      "Josephus /Devos/"
+      "Josephus Devos"
     ],
     "parents": [
       "@I0177@",
       "@I0178@"
     ],
     "parentsNames": [
-      "Dominicus /Devos/",
-      "Isabella /Vangheluwe/"
+      "Dominicus Devos",
+      "Isabella Vangheluwe"
     ]
   },
   {
     "id": "@I0176@",
-    "GEDName": "Maria Franc. /Keersbilck/",
+    "GEDName": "Maria Franc. Keersbilck",
     "givenName": "Maria Franc.",
     "surname": "Keersbilck",
     "nickname": null,
@@ -4646,22 +4646,22 @@
     "children": [
       "@I0173@"
     ],
-    "spouseName": "Benedictus /Devos/",
+    "spouseName": "Benedictus Devos",
     "childrenNames": [
-      "Josephus /Devos/"
+      "Josephus Devos"
     ],
     "parents": [
       "@I0183@",
       "@I0184@"
     ],
     "parentsNames": [
-      "Bernardus /Vankeesbelck/",
-      "Maria Joanna /Desmet/"
+      "Bernardus Vankeesbelck",
+      "Maria Joanna Desmet"
     ]
   },
   {
     "id": "@I0177@",
-    "GEDName": "Dominicus /Devos/",
+    "GEDName": "Dominicus Devos",
     "givenName": "Dominicus",
     "surname": "Devos",
     "nickname": null,
@@ -4676,22 +4676,22 @@
     "children": [
       "@I0175@"
     ],
-    "spouseName": "Isabella /Vangheluwe/",
+    "spouseName": "Isabella Vangheluwe",
     "childrenNames": [
-      "Benedictus /Devos/"
+      "Benedictus Devos"
     ],
     "parents": [
       "@I0179@",
       "@I0180@"
     ],
     "parentsNames": [
-      "Marinus /Devos/",
-      "Isabella Cl. /Vangheluwe/"
+      "Marinus Devos",
+      "Isabella Cl. Vangheluwe"
     ]
   },
   {
     "id": "@I0178@",
-    "GEDName": "Isabella /Vangheluwe/",
+    "GEDName": "Isabella Vangheluwe",
     "givenName": "Isabella",
     "surname": "Vangheluwe",
     "nickname": null,
@@ -4706,22 +4706,22 @@
     "children": [
       "@I0175@"
     ],
-    "spouseName": "Dominicus /Devos/",
+    "spouseName": "Dominicus Devos",
     "childrenNames": [
-      "Benedictus /Devos/"
+      "Benedictus Devos"
     ],
     "parents": [
       "@I0181@",
       "@I0182@"
     ],
     "parentsNames": [
-      "Augustinus /Vangheluwe/",
-      "Maria Catharina /Anne/"
+      "Augustinus Vangheluwe",
+      "Maria Catharina Anne"
     ]
   },
   {
     "id": "@I0179@",
-    "GEDName": "Marinus /Devos/",
+    "GEDName": "Marinus Devos",
     "givenName": "Marinus",
     "surname": "Devos",
     "nickname": null,
@@ -4736,14 +4736,14 @@
     "children": [
       "@I0177@"
     ],
-    "spouseName": "Isabella Cl. /Vangheluwe/",
+    "spouseName": "Isabella Cl. Vangheluwe",
     "childrenNames": [
-      "Dominicus /Devos/"
+      "Dominicus Devos"
     ]
   },
   {
     "id": "@I0180@",
-    "GEDName": "Isabella Cl. /Vangheluwe/",
+    "GEDName": "Isabella Cl. Vangheluwe",
     "givenName": "Isabella Cl.",
     "surname": "Vangheluwe",
     "nickname": null,
@@ -4758,14 +4758,14 @@
     "children": [
       "@I0177@"
     ],
-    "spouseName": "Marinus /Devos/",
+    "spouseName": "Marinus Devos",
     "childrenNames": [
-      "Dominicus /Devos/"
+      "Dominicus Devos"
     ]
   },
   {
     "id": "@I0181@",
-    "GEDName": "Augustinus /Vangheluwe/",
+    "GEDName": "Augustinus Vangheluwe",
     "givenName": "Augustinus",
     "surname": "Vangheluwe",
     "nickname": null,
@@ -4780,14 +4780,14 @@
     "children": [
       "@I0178@"
     ],
-    "spouseName": "Maria Catharina /Anne/",
+    "spouseName": "Maria Catharina Anne",
     "childrenNames": [
-      "Isabella /Vangheluwe/"
+      "Isabella Vangheluwe"
     ]
   },
   {
     "id": "@I0182@",
-    "GEDName": "Maria Catharina /Anne/",
+    "GEDName": "Maria Catharina Anne",
     "givenName": "Maria Catharina",
     "surname": "Anne",
     "nickname": null,
@@ -4802,14 +4802,14 @@
     "children": [
       "@I0178@"
     ],
-    "spouseName": "Augustinus /Vangheluwe/",
+    "spouseName": "Augustinus Vangheluwe",
     "childrenNames": [
-      "Isabella /Vangheluwe/"
+      "Isabella Vangheluwe"
     ]
   },
   {
     "id": "@I0183@",
-    "GEDName": "Bernardus /Vankeesbelck/",
+    "GEDName": "Bernardus Vankeesbelck",
     "givenName": "Bernardus",
     "surname": "Vankeesbelck",
     "nickname": null,
@@ -4824,22 +4824,22 @@
     "children": [
       "@I0176@"
     ],
-    "spouseName": "Maria Joanna /Desmet/",
+    "spouseName": "Maria Joanna Desmet",
     "childrenNames": [
-      "Maria Franc. /Keersbilck/"
+      "Maria Franc. Keersbilck"
     ],
     "parents": [
       "@I0185@",
       "@I0186@"
     ],
     "parentsNames": [
-      "Ludovicus /Vankeesbelck/",
-      "Maria /Pauwels/"
+      "Ludovicus Vankeesbelck",
+      "Maria Pauwels"
     ]
   },
   {
     "id": "@I0184@",
-    "GEDName": "Maria Joanna /Desmet/",
+    "GEDName": "Maria Joanna Desmet",
     "givenName": "Maria Joanna",
     "surname": "Desmet",
     "nickname": null,
@@ -4854,22 +4854,22 @@
     "children": [
       "@I0176@"
     ],
-    "spouseName": "Bernardus /Vankeesbelck/",
+    "spouseName": "Bernardus Vankeesbelck",
     "childrenNames": [
-      "Maria Franc. /Keersbilck/"
+      "Maria Franc. Keersbilck"
     ],
     "parents": [
       "@I0187@",
       "@I0188@"
     ],
     "parentsNames": [
-      "Emanuel /Desmet/",
-      "Adriana /Messelis/"
+      "Emanuel Desmet",
+      "Adriana Messelis"
     ]
   },
   {
     "id": "@I0185@",
-    "GEDName": "Ludovicus /Vankeesbelck/",
+    "GEDName": "Ludovicus Vankeesbelck",
     "givenName": "Ludovicus",
     "surname": "Vankeesbelck",
     "nickname": null,
@@ -4884,14 +4884,14 @@
     "children": [
       "@I0183@"
     ],
-    "spouseName": "Maria /Pauwels/",
+    "spouseName": "Maria Pauwels",
     "childrenNames": [
-      "Bernardus /Vankeesbelck/"
+      "Bernardus Vankeesbelck"
     ]
   },
   {
     "id": "@I0186@",
-    "GEDName": "Maria /Pauwels/",
+    "GEDName": "Maria Pauwels",
     "givenName": "Maria",
     "surname": "Pauwels",
     "nickname": null,
@@ -4906,14 +4906,14 @@
     "children": [
       "@I0183@"
     ],
-    "spouseName": "Ludovicus /Vankeesbelck/",
+    "spouseName": "Ludovicus Vankeesbelck",
     "childrenNames": [
-      "Bernardus /Vankeesbelck/"
+      "Bernardus Vankeesbelck"
     ]
   },
   {
     "id": "@I0187@",
-    "GEDName": "Emanuel /Desmet/",
+    "GEDName": "Emanuel Desmet",
     "givenName": "Emanuel",
     "surname": "Desmet",
     "nickname": null,
@@ -4928,14 +4928,14 @@
     "children": [
       "@I0184@"
     ],
-    "spouseName": "Adriana /Messelis/",
+    "spouseName": "Adriana Messelis",
     "childrenNames": [
-      "Maria Joanna /Desmet/"
+      "Maria Joanna Desmet"
     ]
   },
   {
     "id": "@I0188@",
-    "GEDName": "Adriana /Messelis/",
+    "GEDName": "Adriana Messelis",
     "givenName": "Adriana",
     "surname": "Messelis",
     "nickname": null,
@@ -4950,14 +4950,14 @@
     "children": [
       "@I0184@"
     ],
-    "spouseName": "Emanuel /Desmet/",
+    "spouseName": "Emanuel Desmet",
     "childrenNames": [
-      "Maria Joanna /Desmet/"
+      "Maria Joanna Desmet"
     ]
   },
   {
     "id": "@I0189@",
-    "GEDName": "Petrus Jacobus /Malfait/",
+    "GEDName": "Petrus Jacobus Malfait",
     "givenName": "Petrus Jacobus",
     "surname": "Malfait",
     "nickname": null,
@@ -4972,22 +4972,22 @@
     "children": [
       "@I0174@"
     ],
-    "spouseName": "Francisca /Oosterlinck/",
+    "spouseName": "Francisca Oosterlinck",
     "childrenNames": [
-      "Virginie /Malfait/"
+      "Virginie Malfait"
     ],
     "parents": [
       "@I0191@",
       "@I0192@"
     ],
     "parentsNames": [
-      "Petrus Jacobus /Malfait/",
-      "Maria Franc. /Vermeulen/"
+      "Petrus Jacobus Malfait",
+      "Maria Franc. Vermeulen"
     ]
   },
   {
     "id": "@I0190@",
-    "GEDName": "Francisca /Oosterlinck/",
+    "GEDName": "Francisca Oosterlinck",
     "givenName": "Francisca",
     "surname": "Oosterlinck",
     "nickname": null,
@@ -5002,22 +5002,22 @@
     "children": [
       "@I0174@"
     ],
-    "spouseName": "Petrus Jacobus /Malfait/",
+    "spouseName": "Petrus Jacobus Malfait",
     "childrenNames": [
-      "Virginie /Malfait/"
+      "Virginie Malfait"
     ],
     "parents": [
       "@I0196@",
       "@I0197@"
     ],
     "parentsNames": [
-      "Joannes /Oosterlinck/",
-      "Maria Johanna /De Clercq/"
+      "Joannes Oosterlinck",
+      "Maria Johanna De Clercq"
     ]
   },
   {
     "id": "@I0191@",
-    "GEDName": "Petrus Jacobus /Malfait/",
+    "GEDName": "Petrus Jacobus Malfait",
     "givenName": "Petrus Jacobus",
     "surname": "Malfait",
     "nickname": null,
@@ -5032,20 +5032,20 @@
     "children": [
       "@I0189@"
     ],
-    "spouseName": "Maria Franc. /Vermeulen/",
+    "spouseName": "Maria Franc. Vermeulen",
     "childrenNames": [
-      "Petrus Jacobus /Malfait/"
+      "Petrus Jacobus Malfait"
     ],
     "parents": [
       "@I0193@"
     ],
     "parentsNames": [
-      "Ambrosius /Malfait/"
+      "Ambrosius Malfait"
     ]
   },
   {
     "id": "@I0192@",
-    "GEDName": "Maria Franc. /Vermeulen/",
+    "GEDName": "Maria Franc. Vermeulen",
     "givenName": "Maria Franc.",
     "surname": "Vermeulen",
     "nickname": null,
@@ -5060,22 +5060,22 @@
     "children": [
       "@I0189@"
     ],
-    "spouseName": "Petrus Jacobus /Malfait/",
+    "spouseName": "Petrus Jacobus Malfait",
     "childrenNames": [
-      "Petrus Jacobus /Malfait/"
+      "Petrus Jacobus Malfait"
     ],
     "parents": [
       "@I0194@",
       "@I0195@"
     ],
     "parentsNames": [
-      "Jacobus /Vermeulen/",
-      "Anna Maria /Feders/"
+      "Jacobus Vermeulen",
+      "Anna Maria Feders"
     ]
   },
   {
     "id": "@I0193@",
-    "GEDName": "Ambrosius /Malfait/",
+    "GEDName": "Ambrosius Malfait",
     "givenName": "Ambrosius",
     "surname": "Malfait",
     "nickname": null,
@@ -5092,12 +5092,12 @@
       "@I0191@"
     ],
     "childrenNames": [
-      "Petrus Jacobus /Malfait/"
+      "Petrus Jacobus Malfait"
     ]
   },
   {
     "id": "@I0194@",
-    "GEDName": "Jacobus /Vermeulen/",
+    "GEDName": "Jacobus Vermeulen",
     "givenName": "Jacobus",
     "surname": "Vermeulen",
     "nickname": null,
@@ -5112,14 +5112,14 @@
     "children": [
       "@I0192@"
     ],
-    "spouseName": "Anna Maria /Feders/",
+    "spouseName": "Anna Maria Feders",
     "childrenNames": [
-      "Maria Franc. /Vermeulen/"
+      "Maria Franc. Vermeulen"
     ]
   },
   {
     "id": "@I0195@",
-    "GEDName": "Anna Maria /Feders/",
+    "GEDName": "Anna Maria Feders",
     "givenName": "Anna Maria",
     "surname": "Feders",
     "nickname": null,
@@ -5134,14 +5134,14 @@
     "children": [
       "@I0192@"
     ],
-    "spouseName": "Jacobus /Vermeulen/",
+    "spouseName": "Jacobus Vermeulen",
     "childrenNames": [
-      "Maria Franc. /Vermeulen/"
+      "Maria Franc. Vermeulen"
     ]
   },
   {
     "id": "@I0196@",
-    "GEDName": "Joannes /Oosterlinck/",
+    "GEDName": "Joannes Oosterlinck",
     "givenName": "Joannes",
     "surname": "Oosterlinck",
     "nickname": null,
@@ -5156,22 +5156,22 @@
     "children": [
       "@I0190@"
     ],
-    "spouseName": "Maria Johanna /De Clercq/",
+    "spouseName": "Maria Johanna De Clercq",
     "childrenNames": [
-      "Francisca /Oosterlinck/"
+      "Francisca Oosterlinck"
     ],
     "parents": [
       "@I0198@",
       "@I0199@"
     ],
     "parentsNames": [
-      "Franciscus /Oosterlinck/",
-      "Petronilla /DeSerrano/"
+      "Franciscus Oosterlinck",
+      "Petronilla DeSerrano"
     ]
   },
   {
     "id": "@I0197@",
-    "GEDName": "Maria Johanna /De Clercq/",
+    "GEDName": "Maria Johanna De Clercq",
     "givenName": "Maria Johanna",
     "surname": "De Clercq",
     "nickname": null,
@@ -5186,22 +5186,22 @@
     "children": [
       "@I0190@"
     ],
-    "spouseName": "Joannes /Oosterlinck/",
+    "spouseName": "Joannes Oosterlinck",
     "childrenNames": [
-      "Francisca /Oosterlinck/"
+      "Francisca Oosterlinck"
     ],
     "parents": [
       "@I0200@",
       "@I0201@"
     ],
     "parentsNames": [
-      "Petrus Joannes /De Clercq/",
-      "Joanna /Desloovere/"
+      "Petrus Joannes De Clercq",
+      "Joanna Desloovere"
     ]
   },
   {
     "id": "@I0198@",
-    "GEDName": "Franciscus /Oosterlinck/",
+    "GEDName": "Franciscus Oosterlinck",
     "givenName": "Franciscus",
     "surname": "Oosterlinck",
     "nickname": null,
@@ -5216,14 +5216,14 @@
     "children": [
       "@I0196@"
     ],
-    "spouseName": "Petronilla /DeSerrano/",
+    "spouseName": "Petronilla DeSerrano",
     "childrenNames": [
-      "Joannes /Oosterlinck/"
+      "Joannes Oosterlinck"
     ]
   },
   {
     "id": "@I0199@",
-    "GEDName": "Petronilla /DeSerrano/",
+    "GEDName": "Petronilla DeSerrano",
     "givenName": "Petronilla",
     "surname": "DeSerrano",
     "nickname": null,
@@ -5238,22 +5238,22 @@
     "children": [
       "@I0196@"
     ],
-    "spouseName": "Franciscus /Oosterlinck/",
+    "spouseName": "Franciscus Oosterlinck",
     "childrenNames": [
-      "Joannes /Oosterlinck/"
+      "Joannes Oosterlinck"
     ],
     "parents": [
       "@I0309@",
       "@I0310@"
     ],
     "parentsNames": [
-      "Franciscus /DeSerrano/",
-      "Judoca /Dhont/"
+      "Franciscus DeSerrano",
+      "Judoca Dhont"
     ]
   },
   {
     "id": "@I0200@",
-    "GEDName": "Petrus Joannes /De Clercq/",
+    "GEDName": "Petrus Joannes De Clercq",
     "givenName": "Petrus Joannes",
     "surname": "De Clercq",
     "nickname": null,
@@ -5268,14 +5268,14 @@
     "children": [
       "@I0197@"
     ],
-    "spouseName": "Joanna /Desloovere/",
+    "spouseName": "Joanna Desloovere",
     "childrenNames": [
-      "Maria Johanna /De Clercq/"
+      "Maria Johanna De Clercq"
     ]
   },
   {
     "id": "@I0201@",
-    "GEDName": "Joanna /Desloovere/",
+    "GEDName": "Joanna Desloovere",
     "givenName": "Joanna",
     "surname": "Desloovere",
     "nickname": null,
@@ -5290,14 +5290,14 @@
     "children": [
       "@I0197@"
     ],
-    "spouseName": "Petrus Joannes /De Clercq/",
+    "spouseName": "Petrus Joannes De Clercq",
     "childrenNames": [
-      "Maria Johanna /De Clercq/"
+      "Maria Johanna De Clercq"
     ]
   },
   {
     "id": "@I0202@",
-    "GEDName": "Joannes /Maddens/",
+    "GEDName": "Joannes Maddens",
     "givenName": "Joannes",
     "surname": "Maddens",
     "nickname": null,
@@ -5312,22 +5312,22 @@
     "children": [
       "@I0172@"
     ],
-    "spouseName": "Barbara /Dekeersgieter/",
+    "spouseName": "Barbara Dekeersgieter",
     "childrenNames": [
-      "Pharailde Marie /Maddens/"
+      "Pharailde Marie Maddens"
     ],
     "parents": [
       "@I0204@",
       "@I0205@"
     ],
     "parentsNames": [
-      "Petrus /Maddens/",
-      "Godeliva /Vandewalle/"
+      "Petrus Maddens",
+      "Godeliva Vandewalle"
     ]
   },
   {
     "id": "@I0203@",
-    "GEDName": "Barbara /Dekeersgieter/",
+    "GEDName": "Barbara Dekeersgieter",
     "givenName": "Barbara",
     "surname": "Dekeersgieter",
     "nickname": null,
@@ -5342,22 +5342,22 @@
     "children": [
       "@I0172@"
     ],
-    "spouseName": "Joannes /Maddens/",
+    "spouseName": "Joannes Maddens",
     "childrenNames": [
-      "Pharailde Marie /Maddens/"
+      "Pharailde Marie Maddens"
     ],
     "parents": [
       "@I0218@",
       "@I0219@"
     ],
     "parentsNames": [
-      "Amandus /Dekeersgieter/",
-      "Constantia /Cloet/"
+      "Amandus Dekeersgieter",
+      "Constantia Cloet"
     ]
   },
   {
     "id": "@I0204@",
-    "GEDName": "Petrus /Maddens/",
+    "GEDName": "Petrus Maddens",
     "givenName": "Petrus",
     "surname": "Maddens",
     "nickname": null,
@@ -5372,22 +5372,22 @@
     "children": [
       "@I0202@"
     ],
-    "spouseName": "Godeliva /Vandewalle/",
+    "spouseName": "Godeliva Vandewalle",
     "childrenNames": [
-      "Joannes /Maddens/"
+      "Joannes Maddens"
     ],
     "parents": [
       "@I0206@",
       "@I0207@"
     ],
     "parentsNames": [
-      "Petrus Josephus /Maddens/",
-      "Rosalia /Boutens/"
+      "Petrus Josephus Maddens",
+      "Rosalia Boutens"
     ]
   },
   {
     "id": "@I0205@",
-    "GEDName": "Godeliva /Vandewalle/",
+    "GEDName": "Godeliva Vandewalle",
     "givenName": "Godeliva",
     "surname": "Vandewalle",
     "nickname": null,
@@ -5402,22 +5402,22 @@
     "children": [
       "@I0202@"
     ],
-    "spouseName": "Petrus /Maddens/",
+    "spouseName": "Petrus Maddens",
     "childrenNames": [
-      "Joannes /Maddens/"
+      "Joannes Maddens"
     ],
     "parents": [
       "@I0212@",
       "@I0213@"
     ],
     "parentsNames": [
-      "Joannes Bapt. /Vandewalle/",
-      "Maria /Vandenbussche/"
+      "Joannes Bapt. Vandewalle",
+      "Maria Vandenbussche"
     ]
   },
   {
     "id": "@I0206@",
-    "GEDName": "Petrus Josephus /Maddens/",
+    "GEDName": "Petrus Josephus Maddens",
     "givenName": "Petrus Josephus",
     "surname": "Maddens",
     "nickname": null,
@@ -5432,22 +5432,22 @@
     "children": [
       "@I0204@"
     ],
-    "spouseName": "Rosalia /Boutens/",
+    "spouseName": "Rosalia Boutens",
     "childrenNames": [
-      "Petrus /Maddens/"
+      "Petrus Maddens"
     ],
     "parents": [
       "@I0208@",
       "@I0209@"
     ],
     "parentsNames": [
-      "Guillielmus /Maddens/",
-      "Maria Jacoba /Gellinck/"
+      "Guillielmus Maddens",
+      "Maria Jacoba Gellinck"
     ]
   },
   {
     "id": "@I0207@",
-    "GEDName": "Rosalia /Boutens/",
+    "GEDName": "Rosalia Boutens",
     "givenName": "Rosalia",
     "surname": "Boutens",
     "nickname": null,
@@ -5462,22 +5462,22 @@
     "children": [
       "@I0204@"
     ],
-    "spouseName": "Petrus Josephus /Maddens/",
+    "spouseName": "Petrus Josephus Maddens",
     "childrenNames": [
-      "Petrus /Maddens/"
+      "Petrus Maddens"
     ],
     "parents": [
       "@I0210@",
       "@I0211@"
     ],
     "parentsNames": [
-      "Mattheus /Boutens/",
-      "Anna Theresia /Vermeersch/"
+      "Mattheus Boutens",
+      "Anna Theresia Vermeersch"
     ]
   },
   {
     "id": "@I0208@",
-    "GEDName": "Guillielmus /Maddens/",
+    "GEDName": "Guillielmus Maddens",
     "givenName": "Guillielmus",
     "surname": "Maddens",
     "nickname": null,
@@ -5492,14 +5492,14 @@
     "children": [
       "@I0206@"
     ],
-    "spouseName": "Maria Jacoba /Gellinck/",
+    "spouseName": "Maria Jacoba Gellinck",
     "childrenNames": [
-      "Petrus Josephus /Maddens/"
+      "Petrus Josephus Maddens"
     ]
   },
   {
     "id": "@I0209@",
-    "GEDName": "Maria Jacoba /Gellinck/",
+    "GEDName": "Maria Jacoba Gellinck",
     "givenName": "Maria Jacoba",
     "surname": "Gellinck",
     "nickname": null,
@@ -5514,14 +5514,14 @@
     "children": [
       "@I0206@"
     ],
-    "spouseName": "Guillielmus /Maddens/",
+    "spouseName": "Guillielmus Maddens",
     "childrenNames": [
-      "Petrus Josephus /Maddens/"
+      "Petrus Josephus Maddens"
     ]
   },
   {
     "id": "@I0210@",
-    "GEDName": "Mattheus /Boutens/",
+    "GEDName": "Mattheus Boutens",
     "givenName": "Mattheus",
     "surname": "Boutens",
     "nickname": null,
@@ -5536,14 +5536,14 @@
     "children": [
       "@I0207@"
     ],
-    "spouseName": "Anna Theresia /Vermeersch/",
+    "spouseName": "Anna Theresia Vermeersch",
     "childrenNames": [
-      "Rosalia /Boutens/"
+      "Rosalia Boutens"
     ]
   },
   {
     "id": "@I0211@",
-    "GEDName": "Anna Theresia /Vermeersch/",
+    "GEDName": "Anna Theresia Vermeersch",
     "givenName": "Anna Theresia",
     "surname": "Vermeersch",
     "nickname": null,
@@ -5558,14 +5558,14 @@
     "children": [
       "@I0207@"
     ],
-    "spouseName": "Mattheus /Boutens/",
+    "spouseName": "Mattheus Boutens",
     "childrenNames": [
-      "Rosalia /Boutens/"
+      "Rosalia Boutens"
     ]
   },
   {
     "id": "@I0212@",
-    "GEDName": "Joannes Bapt. /Vandewalle/",
+    "GEDName": "Joannes Bapt. Vandewalle",
     "givenName": "Joannes Bapt.",
     "surname": "Vandewalle",
     "nickname": null,
@@ -5580,22 +5580,22 @@
     "children": [
       "@I0205@"
     ],
-    "spouseName": "Maria /Vandenbussche/",
+    "spouseName": "Maria Vandenbussche",
     "childrenNames": [
-      "Godeliva /Vandewalle/"
+      "Godeliva Vandewalle"
     ],
     "parents": [
       "@I0214@",
       "@I0215@"
     ],
     "parentsNames": [
-      "Petrus /Vandewalle/",
-      "Petronilla /Roelens/"
+      "Petrus Vandewalle",
+      "Petronilla Roelens"
     ]
   },
   {
     "id": "@I0213@",
-    "GEDName": "Maria /Vandenbussche/",
+    "GEDName": "Maria Vandenbussche",
     "givenName": "Maria",
     "surname": "Vandenbussche",
     "nickname": null,
@@ -5610,22 +5610,22 @@
     "children": [
       "@I0205@"
     ],
-    "spouseName": "Joannes Bapt. /Vandewalle/",
+    "spouseName": "Joannes Bapt. Vandewalle",
     "childrenNames": [
-      "Godeliva /Vandewalle/"
+      "Godeliva Vandewalle"
     ],
     "parents": [
       "@I0216@",
       "@I0217@"
     ],
     "parentsNames": [
-      "Michael /Vandenbussche/",
-      "Maria Theresia /Bernaert/"
+      "Michael Vandenbussche",
+      "Maria Theresia Bernaert"
     ]
   },
   {
     "id": "@I0214@",
-    "GEDName": "Petrus /Vandewalle/",
+    "GEDName": "Petrus Vandewalle",
     "givenName": "Petrus",
     "surname": "Vandewalle",
     "nickname": null,
@@ -5640,14 +5640,14 @@
     "children": [
       "@I0212@"
     ],
-    "spouseName": "Petronilla /Roelens/",
+    "spouseName": "Petronilla Roelens",
     "childrenNames": [
-      "Joannes Bapt. /Vandewalle/"
+      "Joannes Bapt. Vandewalle"
     ]
   },
   {
     "id": "@I0215@",
-    "GEDName": "Petronilla /Roelens/",
+    "GEDName": "Petronilla Roelens",
     "givenName": "Petronilla",
     "surname": "Roelens",
     "nickname": null,
@@ -5662,14 +5662,14 @@
     "children": [
       "@I0212@"
     ],
-    "spouseName": "Petrus /Vandewalle/",
+    "spouseName": "Petrus Vandewalle",
     "childrenNames": [
-      "Joannes Bapt. /Vandewalle/"
+      "Joannes Bapt. Vandewalle"
     ]
   },
   {
     "id": "@I0216@",
-    "GEDName": "Michael /Vandenbussche/",
+    "GEDName": "Michael Vandenbussche",
     "givenName": "Michael",
     "surname": "Vandenbussche",
     "nickname": null,
@@ -5684,14 +5684,14 @@
     "children": [
       "@I0213@"
     ],
-    "spouseName": "Maria Theresia /Bernaert/",
+    "spouseName": "Maria Theresia Bernaert",
     "childrenNames": [
-      "Maria /Vandenbussche/"
+      "Maria Vandenbussche"
     ]
   },
   {
     "id": "@I0217@",
-    "GEDName": "Maria Theresia /Bernaert/",
+    "GEDName": "Maria Theresia Bernaert",
     "givenName": "Maria Theresia",
     "surname": "Bernaert",
     "nickname": null,
@@ -5706,14 +5706,14 @@
     "children": [
       "@I0213@"
     ],
-    "spouseName": "Michael /Vandenbussche/",
+    "spouseName": "Michael Vandenbussche",
     "childrenNames": [
-      "Maria /Vandenbussche/"
+      "Maria Vandenbussche"
     ]
   },
   {
     "id": "@I0218@",
-    "GEDName": "Amandus /Dekeersgieter/",
+    "GEDName": "Amandus Dekeersgieter",
     "givenName": "Amandus",
     "surname": "Dekeersgieter",
     "nickname": null,
@@ -5728,22 +5728,22 @@
     "children": [
       "@I0203@"
     ],
-    "spouseName": "Constantia /Cloet/",
+    "spouseName": "Constantia Cloet",
     "childrenNames": [
-      "Barbara /Dekeersgieter/"
+      "Barbara Dekeersgieter"
     ],
     "parents": [
       "@I0220@",
       "@I0221@"
     ],
     "parentsNames": [
-      "Philippus /Dekeersgieter/",
-      "Isabella /Messeyne/"
+      "Philippus Dekeersgieter",
+      "Isabella Messeyne"
     ]
   },
   {
     "id": "@I0219@",
-    "GEDName": "Constantia /Cloet/",
+    "GEDName": "Constantia Cloet",
     "givenName": "Constantia",
     "surname": "Cloet",
     "nickname": null,
@@ -5758,22 +5758,22 @@
     "children": [
       "@I0203@"
     ],
-    "spouseName": "Amandus /Dekeersgieter/",
+    "spouseName": "Amandus Dekeersgieter",
     "childrenNames": [
-      "Barbara /Dekeersgieter/"
+      "Barbara Dekeersgieter"
     ],
     "parents": [
       "@I0226@",
       "@I0227@"
     ],
     "parentsNames": [
-      "Joannes Baptista /Cloet/",
-      "Cecilia /Swaenepoel/"
+      "Joannes Baptista Cloet",
+      "Cecilia Swaenepoel"
     ]
   },
   {
     "id": "@I0220@",
-    "GEDName": "Philippus /Dekeersgieter/",
+    "GEDName": "Philippus Dekeersgieter",
     "givenName": "Philippus",
     "surname": "Dekeersgieter",
     "nickname": null,
@@ -5788,22 +5788,22 @@
     "children": [
       "@I0218@"
     ],
-    "spouseName": "Isabella /Messeyne/",
+    "spouseName": "Isabella Messeyne",
     "childrenNames": [
-      "Amandus /Dekeersgieter/"
+      "Amandus Dekeersgieter"
     ],
     "parents": [
       "@I0222@",
       "@I0223@"
     ],
     "parentsNames": [
-      "Jacobus /Dekeersgieter/",
-      "Brigitte /Rooseboom/"
+      "Jacobus Dekeersgieter",
+      "Brigitte Rooseboom"
     ]
   },
   {
     "id": "@I0221@",
-    "GEDName": "Isabella /Messeyne/",
+    "GEDName": "Isabella Messeyne",
     "givenName": "Isabella",
     "surname": "Messeyne",
     "nickname": null,
@@ -5818,22 +5818,22 @@
     "children": [
       "@I0218@"
     ],
-    "spouseName": "Philippus /Dekeersgieter/",
+    "spouseName": "Philippus Dekeersgieter",
     "childrenNames": [
-      "Amandus /Dekeersgieter/"
+      "Amandus Dekeersgieter"
     ],
     "parents": [
       "@I0224@",
       "@I0225@"
     ],
     "parentsNames": [
-      "Jacobus /Messeyne/",
-      "Isabella /Callewaert/"
+      "Jacobus Messeyne",
+      "Isabella Callewaert"
     ]
   },
   {
     "id": "@I0222@",
-    "GEDName": "Jacobus /Dekeersgieter/",
+    "GEDName": "Jacobus Dekeersgieter",
     "givenName": "Jacobus",
     "surname": "Dekeersgieter",
     "nickname": null,
@@ -5848,14 +5848,14 @@
     "children": [
       "@I0220@"
     ],
-    "spouseName": "Brigitte /Rooseboom/",
+    "spouseName": "Brigitte Rooseboom",
     "childrenNames": [
-      "Philippus /Dekeersgieter/"
+      "Philippus Dekeersgieter"
     ]
   },
   {
     "id": "@I0223@",
-    "GEDName": "Brigitte /Rooseboom/",
+    "GEDName": "Brigitte Rooseboom",
     "givenName": "Brigitte",
     "surname": "Rooseboom",
     "nickname": null,
@@ -5870,14 +5870,14 @@
     "children": [
       "@I0220@"
     ],
-    "spouseName": "Jacobus /Dekeersgieter/",
+    "spouseName": "Jacobus Dekeersgieter",
     "childrenNames": [
-      "Philippus /Dekeersgieter/"
+      "Philippus Dekeersgieter"
     ]
   },
   {
     "id": "@I0224@",
-    "GEDName": "Jacobus /Messeyne/",
+    "GEDName": "Jacobus Messeyne",
     "givenName": "Jacobus",
     "surname": "Messeyne",
     "nickname": null,
@@ -5892,14 +5892,14 @@
     "children": [
       "@I0221@"
     ],
-    "spouseName": "Isabella /Callewaert/",
+    "spouseName": "Isabella Callewaert",
     "childrenNames": [
-      "Isabella /Messeyne/"
+      "Isabella Messeyne"
     ]
   },
   {
     "id": "@I0225@",
-    "GEDName": "Isabella /Callewaert/",
+    "GEDName": "Isabella Callewaert",
     "givenName": "Isabella",
     "surname": "Callewaert",
     "nickname": null,
@@ -5914,14 +5914,14 @@
     "children": [
       "@I0221@"
     ],
-    "spouseName": "Jacobus /Messeyne/",
+    "spouseName": "Jacobus Messeyne",
     "childrenNames": [
-      "Isabella /Messeyne/"
+      "Isabella Messeyne"
     ]
   },
   {
     "id": "@I0226@",
-    "GEDName": "Joannes Baptista /Cloet/",
+    "GEDName": "Joannes Baptista Cloet",
     "givenName": "Joannes Baptista",
     "surname": "Cloet",
     "nickname": null,
@@ -5936,22 +5936,22 @@
     "children": [
       "@I0219@"
     ],
-    "spouseName": "Cecilia /Swaenepoel/",
+    "spouseName": "Cecilia Swaenepoel",
     "childrenNames": [
-      "Constantia /Cloet/"
+      "Constantia Cloet"
     ],
     "parents": [
       "@I0228@",
       "@I0229@"
     ],
     "parentsNames": [
-      "Petrus Francis /Cloet/",
-      "Maria Genoveva /Carlier/"
+      "Petrus Francis Cloet",
+      "Maria Genoveva Carlier"
     ]
   },
   {
     "id": "@I0227@",
-    "GEDName": "Cecilia /Swaenepoel/",
+    "GEDName": "Cecilia Swaenepoel",
     "givenName": "Cecilia",
     "surname": "Swaenepoel",
     "nickname": null,
@@ -5966,22 +5966,22 @@
     "children": [
       "@I0219@"
     ],
-    "spouseName": "Joannes Baptista /Cloet/",
+    "spouseName": "Joannes Baptista Cloet",
     "childrenNames": [
-      "Constantia /Cloet/"
+      "Constantia Cloet"
     ],
     "parents": [
       "@I0230@",
       "@I0231@"
     ],
     "parentsNames": [
-      "Joannes /Swaenepoel/",
-      "Maria Cathar. /De Saffere/"
+      "Joannes Swaenepoel",
+      "Maria Cathar. De Saffere"
     ]
   },
   {
     "id": "@I0228@",
-    "GEDName": "Petrus Francis /Cloet/",
+    "GEDName": "Petrus Francis Cloet",
     "givenName": "Petrus Francis",
     "surname": "Cloet",
     "nickname": null,
@@ -5996,14 +5996,14 @@
     "children": [
       "@I0226@"
     ],
-    "spouseName": "Maria Genoveva /Carlier/",
+    "spouseName": "Maria Genoveva Carlier",
     "childrenNames": [
-      "Joannes Baptista /Cloet/"
+      "Joannes Baptista Cloet"
     ]
   },
   {
     "id": "@I0229@",
-    "GEDName": "Maria Genoveva /Carlier/",
+    "GEDName": "Maria Genoveva Carlier",
     "givenName": "Maria Genoveva",
     "surname": "Carlier",
     "nickname": null,
@@ -6018,14 +6018,14 @@
     "children": [
       "@I0226@"
     ],
-    "spouseName": "Petrus Francis /Cloet/",
+    "spouseName": "Petrus Francis Cloet",
     "childrenNames": [
-      "Joannes Baptista /Cloet/"
+      "Joannes Baptista Cloet"
     ]
   },
   {
     "id": "@I0230@",
-    "GEDName": "Joannes /Swaenepoel/",
+    "GEDName": "Joannes Swaenepoel",
     "givenName": "Joannes",
     "surname": "Swaenepoel",
     "nickname": null,
@@ -6040,14 +6040,14 @@
     "children": [
       "@I0227@"
     ],
-    "spouseName": "Maria Cathar. /De Saffere/",
+    "spouseName": "Maria Cathar. De Saffere",
     "childrenNames": [
-      "Cecilia /Swaenepoel/"
+      "Cecilia Swaenepoel"
     ]
   },
   {
     "id": "@I0231@",
-    "GEDName": "Maria Cathar. /De Saffere/",
+    "GEDName": "Maria Cathar. De Saffere",
     "givenName": "Maria Cathar.",
     "surname": "De Saffere",
     "nickname": null,
@@ -6062,14 +6062,14 @@
     "children": [
       "@I0227@"
     ],
-    "spouseName": "Joannes /Swaenepoel/",
+    "spouseName": "Joannes Swaenepoel",
     "childrenNames": [
-      "Cecilia /Swaenepoel/"
+      "Cecilia Swaenepoel"
     ]
   },
   {
     "id": "@I0232@",
-    "GEDName": "Mary /Sinnesael/",
+    "GEDName": "Mary Sinnesael",
     "givenName": "Mary",
     "surname": "Sinnesael",
     "nickname": null,
@@ -6088,18 +6088,18 @@
       "@I0236@",
       "@I0237@"
     ],
-    "spouseName": "Renaat Oscar /De Serranno/",
+    "spouseName": "Renaat Oscar De Serranno",
     "childrenNames": [
-      "Ronald /DeSerrano/",
-      "Jacques /DeSerrano/",
-      "Eric /DeSerrano/",
-      "Nicolas /DeSerrano/",
-      "Catharina /DeSerrano/"
+      "Ronald DeSerrano",
+      "Jacques DeSerrano",
+      "Eric DeSerrano",
+      "Nicolas DeSerrano",
+      "Catharina DeSerrano"
     ]
   },
   {
     "id": "@I0233@",
-    "GEDName": "Ronald /DeSerrano/",
+    "GEDName": "Ronald DeSerrano",
     "givenName": "Ronald",
     "surname": "DeSerrano",
     "nickname": "Ron",
@@ -6115,13 +6115,13 @@
       "@I0232@"
     ],
     "parentsNames": [
-      "Renaat Oscar /De Serranno/",
-      "Mary /Sinnesael/"
+      "Renaat Oscar De Serranno",
+      "Mary Sinnesael"
     ]
   },
   {
     "id": "@I0234@",
-    "GEDName": "Jacques /DeSerrano/",
+    "GEDName": "Jacques DeSerrano",
     "givenName": "Jacques",
     "surname": "DeSerrano",
     "nickname": null,
@@ -6137,13 +6137,13 @@
       "@I0232@"
     ],
     "parentsNames": [
-      "Renaat Oscar /De Serranno/",
-      "Mary /Sinnesael/"
+      "Renaat Oscar De Serranno",
+      "Mary Sinnesael"
     ]
   },
   {
     "id": "@I0235@",
-    "GEDName": "Eric /DeSerrano/",
+    "GEDName": "Eric DeSerrano",
     "givenName": "Eric",
     "surname": "DeSerrano",
     "nickname": "Rick",
@@ -6159,13 +6159,13 @@
       "@I0232@"
     ],
     "parentsNames": [
-      "Renaat Oscar /De Serranno/",
-      "Mary /Sinnesael/"
+      "Renaat Oscar De Serranno",
+      "Mary Sinnesael"
     ]
   },
   {
     "id": "@I0236@",
-    "GEDName": "Nicolas /DeSerrano/",
+    "GEDName": "Nicolas DeSerrano",
     "givenName": "Nicolas",
     "surname": "DeSerrano",
     "nickname": "Nick",
@@ -6181,13 +6181,13 @@
       "@I0232@"
     ],
     "parentsNames": [
-      "Renaat Oscar /De Serranno/",
-      "Mary /Sinnesael/"
+      "Renaat Oscar De Serranno",
+      "Mary Sinnesael"
     ]
   },
   {
     "id": "@I0237@",
-    "GEDName": "Catharina /DeSerrano/",
+    "GEDName": "Catharina DeSerrano",
     "givenName": "Catharina",
     "surname": "DeSerrano",
     "nickname": "Cathy",
@@ -6203,13 +6203,13 @@
       "@I0232@"
     ],
     "parentsNames": [
-      "Renaat Oscar /De Serranno/",
-      "Mary /Sinnesael/"
+      "Renaat Oscar De Serranno",
+      "Mary Sinnesael"
     ]
   },
   {
     "id": "@I0238@",
-    "GEDName": "Garth /Lea/",
+    "GEDName": "Garth Lea",
     "givenName": "Garth",
     "surname": "Lea",
     "nickname": null,
@@ -6227,17 +6227,17 @@
       "@I0245@",
       "@I0249@"
     ],
-    "spouseName": "Violet Madeline /Lea/",
+    "spouseName": "Violet Madeline Lea",
     "childrenNames": [
-      "Gary /Lea/",
-      "Gail /Misner/",
-      "Daniel /Lea/",
-      "Ronald /Lea/"
+      "Gary Lea",
+      "Gail Misner",
+      "Daniel Lea",
+      "Ronald Lea"
     ]
   },
   {
     "id": "@I0239@",
-    "GEDName": "Gary /Lea/",
+    "GEDName": "Gary Lea",
     "givenName": "Gary",
     "surname": "Lea",
     "nickname": null,
@@ -6253,23 +6253,23 @@
       "@I0163@"
     ],
     "parentsNames": [
-      "Garth /Lea/",
-      "Violet Madeline /Lea/"
+      "Garth Lea",
+      "Violet Madeline Lea"
     ],
     "spouse": "@I0240@",
     "children": [
       "@I0241@",
       "@I0242@"
     ],
-    "spouseName": "Joanna /Lea/",
+    "spouseName": "Joanna Lea",
     "childrenNames": [
-      "Lisa /Lea/",
-      "Derek /Lea/"
+      "Lisa Lea",
+      "Derek Lea"
     ]
   },
   {
     "id": "@I0240@",
-    "GEDName": "Joanna /Lea/",
+    "GEDName": "Joanna Lea",
     "givenName": "Joanna",
     "surname": "Lea",
     "nickname": null,
@@ -6285,15 +6285,15 @@
       "@I0241@",
       "@I0242@"
     ],
-    "spouseName": "Gary /Lea/",
+    "spouseName": "Gary Lea",
     "childrenNames": [
-      "Lisa /Lea/",
-      "Derek /Lea/"
+      "Lisa Lea",
+      "Derek Lea"
     ]
   },
   {
     "id": "@I0241@",
-    "GEDName": "Lisa /Lea/",
+    "GEDName": "Lisa Lea",
     "givenName": "Lisa",
     "surname": "Lea",
     "nickname": null,
@@ -6309,13 +6309,13 @@
       "@I0240@"
     ],
     "parentsNames": [
-      "Gary /Lea/",
-      "Joanna /Lea/"
+      "Gary Lea",
+      "Joanna Lea"
     ]
   },
   {
     "id": "@I0242@",
-    "GEDName": "Derek /Lea/",
+    "GEDName": "Derek Lea",
     "givenName": "Derek",
     "surname": "Lea",
     "nickname": null,
@@ -6331,17 +6331,17 @@
       "@I0240@"
     ],
     "parentsNames": [
-      "Gary /Lea/",
-      "Joanna /Lea/"
+      "Gary Lea",
+      "Joanna Lea"
     ],
     "spouse": "@I0298@",
     "children": null,
-    "spouseName": "Janet /Lea/",
+    "spouseName": "Janet Lea",
     "childrenNames": null
   },
   {
     "id": "@I0243@",
-    "GEDName": "Gail /Misner/",
+    "GEDName": "Gail Misner",
     "givenName": "Gail",
     "surname": "Misner",
     "nickname": null,
@@ -6357,17 +6357,17 @@
       "@I0163@"
     ],
     "parentsNames": [
-      "Garth /Lea/",
-      "Violet Madeline /Lea/"
+      "Garth Lea",
+      "Violet Madeline Lea"
     ],
     "spouse": "@I0262@",
     "children": null,
-    "spouseName": "Kenneth /Misner/",
+    "spouseName": "Kenneth Misner",
     "childrenNames": null
   },
   {
     "id": "@I0245@",
-    "GEDName": "Daniel /Lea/",
+    "GEDName": "Daniel Lea",
     "givenName": "Daniel",
     "surname": "Lea",
     "nickname": null,
@@ -6383,23 +6383,23 @@
       "@I0163@"
     ],
     "parentsNames": [
-      "Garth /Lea/",
-      "Violet Madeline /Lea/"
+      "Garth Lea",
+      "Violet Madeline Lea"
     ],
     "spouse": "@I0246@",
     "children": [
       "@I0247@",
       "@I0248@"
     ],
-    "spouseName": "Jane /Lea/",
+    "spouseName": "Jane Lea",
     "childrenNames": [
-      "Alisson /Lea/",
-      "Kevin /Lea/"
+      "Alisson Lea",
+      "Kevin Lea"
     ]
   },
   {
     "id": "@I0246@",
-    "GEDName": "Jane /Lea/",
+    "GEDName": "Jane Lea",
     "givenName": "Jane",
     "surname": "Lea",
     "nickname": null,
@@ -6415,15 +6415,15 @@
       "@I0247@",
       "@I0248@"
     ],
-    "spouseName": "Daniel /Lea/",
+    "spouseName": "Daniel Lea",
     "childrenNames": [
-      "Alisson /Lea/",
-      "Kevin /Lea/"
+      "Alisson Lea",
+      "Kevin Lea"
     ]
   },
   {
     "id": "@I0247@",
-    "GEDName": "Alisson /Lea/",
+    "GEDName": "Alisson Lea",
     "givenName": "Alisson",
     "surname": "Lea",
     "nickname": null,
@@ -6439,13 +6439,13 @@
       "@I0246@"
     ],
     "parentsNames": [
-      "Daniel /Lea/",
-      "Jane /Lea/"
+      "Daniel Lea",
+      "Jane Lea"
     ]
   },
   {
     "id": "@I0248@",
-    "GEDName": "Kevin /Lea/",
+    "GEDName": "Kevin Lea",
     "givenName": "Kevin",
     "surname": "Lea",
     "nickname": null,
@@ -6461,13 +6461,13 @@
       "@I0246@"
     ],
     "parentsNames": [
-      "Daniel /Lea/",
-      "Jane /Lea/"
+      "Daniel Lea",
+      "Jane Lea"
     ]
   },
   {
     "id": "@I0249@",
-    "GEDName": "Ronald /Lea/",
+    "GEDName": "Ronald Lea",
     "givenName": "Ronald",
     "surname": "Lea",
     "nickname": null,
@@ -6483,23 +6483,23 @@
       "@I0163@"
     ],
     "parentsNames": [
-      "Garth /Lea/",
-      "Violet Madeline /Lea/"
+      "Garth Lea",
+      "Violet Madeline Lea"
     ],
     "spouse": "@I0250@",
     "children": [
       "@I0251@",
       "@I0252@"
     ],
-    "spouseName": "Laura /Lea/",
+    "spouseName": "Laura Lea",
     "childrenNames": [
-      "Christopher /Lea/",
-      "Renée /Lea/"
+      "Christopher Lea",
+      "Renée Lea"
     ]
   },
   {
     "id": "@I0250@",
-    "GEDName": "Laura /Lea/",
+    "GEDName": "Laura Lea",
     "givenName": "Laura",
     "surname": "Lea",
     "nickname": null,
@@ -6515,15 +6515,15 @@
       "@I0251@",
       "@I0252@"
     ],
-    "spouseName": "Ronald /Lea/",
+    "spouseName": "Ronald Lea",
     "childrenNames": [
-      "Christopher /Lea/",
-      "Renée /Lea/"
+      "Christopher Lea",
+      "Renée Lea"
     ]
   },
   {
     "id": "@I0251@",
-    "GEDName": "Christopher /Lea/",
+    "GEDName": "Christopher Lea",
     "givenName": "Christopher",
     "surname": "Lea",
     "nickname": null,
@@ -6539,13 +6539,13 @@
       "@I0250@"
     ],
     "parentsNames": [
-      "Ronald /Lea/",
-      "Laura /Lea/"
+      "Ronald Lea",
+      "Laura Lea"
     ]
   },
   {
     "id": "@I0252@",
-    "GEDName": "Renée /Lea/",
+    "GEDName": "Renée Lea",
     "givenName": "Renée",
     "surname": "Lea",
     "nickname": null,
@@ -6561,13 +6561,13 @@
       "@I0250@"
     ],
     "parentsNames": [
-      "Ronald /Lea/",
-      "Laura /Lea/"
+      "Ronald Lea",
+      "Laura Lea"
     ]
   },
   {
     "id": "@I0253@",
-    "GEDName": "Peter /McCloskey/",
+    "GEDName": "Peter McCloskey",
     "givenName": "Peter",
     "surname": "McCloskey",
     "nickname": null,
@@ -6584,16 +6584,16 @@
       "@I0255@",
       "@I0258@"
     ],
-    "spouseName": "Lillian /McCloskey/",
+    "spouseName": "Lillian McCloskey",
     "childrenNames": [
-      "James /McCloskey/",
-      "Nancy /Collver/",
-      "Leo /McCloskey/"
+      "James McCloskey",
+      "Nancy Collver",
+      "Leo McCloskey"
     ]
   },
   {
     "id": "@I0254@",
-    "GEDName": "James /McCloskey/",
+    "GEDName": "James McCloskey",
     "givenName": "James",
     "surname": "McCloskey",
     "nickname": "Jim",
@@ -6609,17 +6609,17 @@
       "@I0164@"
     ],
     "parentsNames": [
-      "Peter /McCloskey/",
-      "Lillian /McCloskey/"
+      "Peter McCloskey",
+      "Lillian McCloskey"
     ],
     "spouse": "@I0260@",
     "children": null,
-    "spouseName": "Meredith /McCloskey/",
+    "spouseName": "Meredith McCloskey",
     "childrenNames": null
   },
   {
     "id": "@I0255@",
-    "GEDName": "Nancy /Collver/",
+    "GEDName": "Nancy Collver",
     "givenName": "Nancy",
     "surname": "Collver",
     "nickname": null,
@@ -6635,17 +6635,17 @@
       "@I0164@"
     ],
     "parentsNames": [
-      "Peter /McCloskey/",
-      "Lillian /McCloskey/"
+      "Peter McCloskey",
+      "Lillian McCloskey"
     ],
     "spouse": "@I0257@",
     "children": null,
-    "spouseName": "Roy /Collver/",
+    "spouseName": "Roy Collver",
     "childrenNames": null
   },
   {
     "id": "@I0256@",
-    "GEDName": "Beverly /McCloskey/",
+    "GEDName": "Beverly McCloskey",
     "givenName": "Beverly",
     "surname": "McCloskey",
     "nickname": null,
@@ -6658,12 +6658,12 @@
     "deathPlace": null,
     "spouse": "@I0254@",
     "children": null,
-    "spouseName": "James /McCloskey/",
+    "spouseName": "James McCloskey",
     "childrenNames": null
   },
   {
     "id": "@I0257@",
-    "GEDName": "Roy /Collver/",
+    "GEDName": "Roy Collver",
     "givenName": "Roy",
     "surname": "Collver",
     "nickname": null,
@@ -6676,12 +6676,12 @@
     "deathPlace": null,
     "spouse": "@I0255@",
     "children": null,
-    "spouseName": "Nancy /Collver/",
+    "spouseName": "Nancy Collver",
     "childrenNames": null
   },
   {
     "id": "@I0258@",
-    "GEDName": "Leo /McCloskey/",
+    "GEDName": "Leo McCloskey",
     "givenName": "Leo",
     "surname": "McCloskey",
     "nickname": null,
@@ -6697,17 +6697,17 @@
       "@I0164@"
     ],
     "parentsNames": [
-      "Peter /McCloskey/",
-      "Lillian /McCloskey/"
+      "Peter McCloskey",
+      "Lillian McCloskey"
     ],
     "spouse": "@I0259@",
     "children": null,
-    "spouseName": "Paula /McCloskey/",
+    "spouseName": "Paula McCloskey",
     "childrenNames": null
   },
   {
     "id": "@I0259@",
-    "GEDName": "Paula /McCloskey/",
+    "GEDName": "Paula McCloskey",
     "givenName": "Paula",
     "surname": "McCloskey",
     "nickname": null,
@@ -6720,12 +6720,12 @@
     "deathPlace": null,
     "spouse": "@I0258@",
     "children": null,
-    "spouseName": "Leo /McCloskey/",
+    "spouseName": "Leo McCloskey",
     "childrenNames": null
   },
   {
     "id": "@I0260@",
-    "GEDName": "Meredith /McCloskey/",
+    "GEDName": "Meredith McCloskey",
     "givenName": "Meredith",
     "surname": "McCloskey",
     "nickname": null,
@@ -6738,12 +6738,12 @@
     "deathPlace": null,
     "spouse": "@I0254@",
     "children": null,
-    "spouseName": "James /McCloskey/",
+    "spouseName": "James McCloskey",
     "childrenNames": null
   },
   {
     "id": "@I0261@",
-    "GEDName": "Mark /Szigatti/",
+    "GEDName": "Mark Szigatti",
     "givenName": "Mark",
     "surname": "Szigatti",
     "nickname": null,
@@ -6761,17 +6761,17 @@
       "@I0015@",
       "@I0016@"
     ],
-    "spouseName": "Lorraine /DeSerrano/",
+    "spouseName": "Lorraine DeSerrano",
     "childrenNames": [
-      "Stefanie /Szigatti/",
-      "Christopher /Szigatti/",
-      "Laura /Gillies/",
-      "Craig /Szigatti/"
+      "Stefanie Szigatti",
+      "Christopher Szigatti",
+      "Laura Gillies",
+      "Craig Szigatti"
     ]
   },
   {
     "id": "@I0262@",
-    "GEDName": "Kenneth /Misner/",
+    "GEDName": "Kenneth Misner",
     "givenName": "Kenneth",
     "surname": "Misner",
     "nickname": null,
@@ -6784,12 +6784,12 @@
     "deathPlace": null,
     "spouse": "@I0243@",
     "children": null,
-    "spouseName": "Gail /Misner/",
+    "spouseName": "Gail Misner",
     "childrenNames": null
   },
   {
     "id": "@I0263@",
-    "GEDName": "Mary /DeSerrano/",
+    "GEDName": "Mary DeSerrano",
     "givenName": "Mary",
     "surname": "DeSerrano",
     "nickname": null,
@@ -6808,18 +6808,18 @@
       "@I0278@",
       "@I0280@"
     ],
-    "spouseName": "Allan /DeSerrano/",
+    "spouseName": "Allan DeSerrano",
     "childrenNames": [
-      "Debbie /Friesen/",
-      "Zane /DeSerrano/",
-      "Maureen /Berdan/",
-      "Laurie /Danchak/",
-      "Allan /DeSerrano/"
+      "Debbie Friesen",
+      "Zane DeSerrano",
+      "Maureen Berdan",
+      "Laurie Danchak",
+      "Allan DeSerrano"
     ]
   },
   {
     "id": "@I0264@",
-    "GEDName": "Harry Henricus /Smit/",
+    "GEDName": "Harry Henricus Smit",
     "givenName": "Harry Henricus",
     "surname": "Smit",
     "nickname": null,
@@ -6836,16 +6836,16 @@
       "@I0267@",
       "@I0269@"
     ],
-    "spouseName": "Jean Hyacinth /Smit/",
+    "spouseName": "Jean Hyacinth Smit",
     "childrenNames": [
-      "Valerie /Smit/",
-      "Michele /Druiett/",
-      "Jennifer /Wintemute/"
+      "Valerie Smit",
+      "Michele Druiett",
+      "Jennifer Wintemute"
     ]
   },
   {
     "id": "@I0265@",
-    "GEDName": "Valerie /Smit/",
+    "GEDName": "Valerie Smit",
     "givenName": "Valerie",
     "surname": "Smit",
     "nickname": null,
@@ -6861,13 +6861,13 @@
       "@I0168@"
     ],
     "parentsNames": [
-      "Harry Henricus /Smit/",
-      "Jean Hyacinth /Smit/"
+      "Harry Henricus Smit",
+      "Jean Hyacinth Smit"
     ]
   },
   {
     "id": "@I0267@",
-    "GEDName": "Michele /Druiett/",
+    "GEDName": "Michele Druiett",
     "givenName": "Michele",
     "surname": "Druiett",
     "nickname": null,
@@ -6883,17 +6883,17 @@
       "@I0168@"
     ],
     "parentsNames": [
-      "Harry Henricus /Smit/",
-      "Jean Hyacinth /Smit/"
+      "Harry Henricus Smit",
+      "Jean Hyacinth Smit"
     ],
     "spouse": "@I0268@",
     "children": null,
-    "spouseName": "Greg /Druiett/",
+    "spouseName": "Greg Druiett",
     "childrenNames": null
   },
   {
     "id": "@I0268@",
-    "GEDName": "Greg /Druiett/",
+    "GEDName": "Greg Druiett",
     "givenName": "Greg",
     "surname": "Druiett",
     "nickname": null,
@@ -6906,12 +6906,12 @@
     "deathPlace": null,
     "spouse": "@I0267@",
     "children": null,
-    "spouseName": "Michele /Druiett/",
+    "spouseName": "Michele Druiett",
     "childrenNames": null
   },
   {
     "id": "@I0269@",
-    "GEDName": "Jennifer /Wintemute/",
+    "GEDName": "Jennifer Wintemute",
     "givenName": "Jennifer",
     "surname": "Wintemute",
     "nickname": null,
@@ -6927,13 +6927,13 @@
       "@I0168@"
     ],
     "parentsNames": [
-      "Harry Henricus /Smit/",
-      "Jean Hyacinth /Smit/"
+      "Harry Henricus Smit",
+      "Jean Hyacinth Smit"
     ]
   },
   {
     "id": "@I0270@",
-    "GEDName": "Mary Ann /DeSerrano/",
+    "GEDName": "Mary Ann DeSerrano",
     "givenName": "Mary Ann",
     "surname": "DeSerrano",
     "nickname": null,
@@ -6950,16 +6950,16 @@
       "@I0282@",
       "@I0284@"
     ],
-    "spouseName": "Angelo Michael /DeSerrano/",
+    "spouseName": "Angelo Michael DeSerrano",
     "childrenNames": [
-      "Theresa /DeSerrano/",
-      "Lynda /Amorim/",
-      "Carla /VanKessel/"
+      "Theresa DeSerrano",
+      "Lynda Amorim",
+      "Carla VanKessel"
     ]
   },
   {
     "id": "@I0271@",
-    "GEDName": "Eugene /McCarthy/",
+    "GEDName": "Eugene McCarthy",
     "givenName": "Eugene",
     "surname": "McCarthy",
     "nickname": null,
@@ -6975,15 +6975,15 @@
       "@I0272@",
       "@I0273@"
     ],
-    "spouseName": "Ellen /McCarthy/",
+    "spouseName": "Ellen McCarthy",
     "childrenNames": [
-      "Timothy /McCarthy/",
-      "Thomas /McCarthy/"
+      "Timothy McCarthy",
+      "Thomas McCarthy"
     ]
   },
   {
     "id": "@I0272@",
-    "GEDName": "Timothy /McCarthy/",
+    "GEDName": "Timothy McCarthy",
     "givenName": "Timothy",
     "surname": "McCarthy",
     "nickname": "Tim",
@@ -6999,13 +6999,13 @@
       "@I0167@"
     ],
     "parentsNames": [
-      "Eugene /McCarthy/",
-      "Ellen /McCarthy/"
+      "Eugene McCarthy",
+      "Ellen McCarthy"
     ]
   },
   {
     "id": "@I0273@",
-    "GEDName": "Thomas /McCarthy/",
+    "GEDName": "Thomas McCarthy",
     "givenName": "Thomas",
     "surname": "McCarthy",
     "nickname": null,
@@ -7021,13 +7021,13 @@
       "@I0167@"
     ],
     "parentsNames": [
-      "Eugene /McCarthy/",
-      "Ellen /McCarthy/"
+      "Eugene McCarthy",
+      "Ellen McCarthy"
     ]
   },
   {
     "id": "@I0274@",
-    "GEDName": "Debbie /Friesen/",
+    "GEDName": "Debbie Friesen",
     "givenName": "Debbie",
     "surname": "Friesen",
     "nickname": null,
@@ -7043,23 +7043,23 @@
       "@I0263@"
     ],
     "parentsNames": [
-      "Allan /DeSerrano/",
-      "Mary /DeSerrano/"
+      "Allan DeSerrano",
+      "Mary DeSerrano"
     ],
     "spouse": "@I0275@",
     "children": [
       "@I0295@",
       "@I0296@"
     ],
-    "spouseName": "Dennis /Friesen/",
+    "spouseName": "Dennis Friesen",
     "childrenNames": [
-      "Nicole /Friesen/",
-      "Jason /Friesen/"
+      "Nicole Friesen",
+      "Jason Friesen"
     ]
   },
   {
     "id": "@I0275@",
-    "GEDName": "Dennis /Friesen/",
+    "GEDName": "Dennis Friesen",
     "givenName": "Dennis",
     "surname": "Friesen",
     "nickname": null,
@@ -7075,15 +7075,15 @@
       "@I0295@",
       "@I0296@"
     ],
-    "spouseName": "Debbie /Friesen/",
+    "spouseName": "Debbie Friesen",
     "childrenNames": [
-      "Nicole /Friesen/",
-      "Jason /Friesen/"
+      "Nicole Friesen",
+      "Jason Friesen"
     ]
   },
   {
     "id": "@I0276@",
-    "GEDName": "Zane /DeSerrano/",
+    "GEDName": "Zane DeSerrano",
     "givenName": "Zane",
     "surname": "DeSerrano",
     "nickname": null,
@@ -7099,13 +7099,13 @@
       "@I0263@"
     ],
     "parentsNames": [
-      "Allan /DeSerrano/",
-      "Mary /DeSerrano/"
+      "Allan DeSerrano",
+      "Mary DeSerrano"
     ]
   },
   {
     "id": "@I0277@",
-    "GEDName": "Maureen /Berdan/",
+    "GEDName": "Maureen Berdan",
     "givenName": "Maureen",
     "surname": "Berdan",
     "nickname": null,
@@ -7121,21 +7121,21 @@
       "@I0263@"
     ],
     "parentsNames": [
-      "Allan /DeSerrano/",
-      "Mary /DeSerrano/"
+      "Allan DeSerrano",
+      "Mary DeSerrano"
     ],
     "spouse": "@I0294@",
     "children": [
       "@I0297@"
     ],
-    "spouseName": "Lanny /Berdan/",
+    "spouseName": "Lanny Berdan",
     "childrenNames": [
-      "Melissa /Berdan/"
+      "Melissa Berdan"
     ]
   },
   {
     "id": "@I0278@",
-    "GEDName": "Laurie /Danchak/",
+    "GEDName": "Laurie Danchak",
     "givenName": "Laurie",
     "surname": "Danchak",
     "nickname": null,
@@ -7151,17 +7151,17 @@
       "@I0263@"
     ],
     "parentsNames": [
-      "Allan /DeSerrano/",
-      "Mary /DeSerrano/"
+      "Allan DeSerrano",
+      "Mary DeSerrano"
     ],
     "spouse": "@I0279@",
     "children": null,
-    "spouseName": "David /Danchak/",
+    "spouseName": "David Danchak",
     "childrenNames": null
   },
   {
     "id": "@I0279@",
-    "GEDName": "David /Danchak/",
+    "GEDName": "David Danchak",
     "givenName": "David",
     "surname": "Danchak",
     "nickname": "Dave",
@@ -7174,12 +7174,12 @@
     "deathPlace": null,
     "spouse": "@I0278@",
     "children": null,
-    "spouseName": "Laurie /Danchak/",
+    "spouseName": "Laurie Danchak",
     "childrenNames": null
   },
   {
     "id": "@I0280@",
-    "GEDName": "Allan /DeSerrano/",
+    "GEDName": "Allan DeSerrano",
     "givenName": "Allan",
     "surname": "DeSerrano",
     "nickname": null,
@@ -7195,13 +7195,13 @@
       "@I0263@"
     ],
     "parentsNames": [
-      "Allan /DeSerrano/",
-      "Mary /DeSerrano/"
+      "Allan DeSerrano",
+      "Mary DeSerrano"
     ]
   },
   {
     "id": "@I0281@",
-    "GEDName": "Theresa /DeSerrano/",
+    "GEDName": "Theresa DeSerrano",
     "givenName": "Theresa",
     "surname": "DeSerrano",
     "nickname": null,
@@ -7217,13 +7217,13 @@
       "@I0270@"
     ],
     "parentsNames": [
-      "Angelo Michael /DeSerrano/",
-      "Mary Ann /DeSerrano/"
+      "Angelo Michael DeSerrano",
+      "Mary Ann DeSerrano"
     ]
   },
   {
     "id": "@I0282@",
-    "GEDName": "Lynda /Amorim/",
+    "GEDName": "Lynda Amorim",
     "givenName": "Lynda",
     "surname": "Amorim",
     "nickname": null,
@@ -7239,17 +7239,17 @@
       "@I0270@"
     ],
     "parentsNames": [
-      "Angelo Michael /DeSerrano/",
-      "Mary Ann /DeSerrano/"
+      "Angelo Michael DeSerrano",
+      "Mary Ann DeSerrano"
     ],
     "spouse": "@I0283@",
     "children": null,
-    "spouseName": "John /Amorim/",
+    "spouseName": "John Amorim",
     "childrenNames": null
   },
   {
     "id": "@I0283@",
-    "GEDName": "John /Amorim/",
+    "GEDName": "John Amorim",
     "givenName": "John",
     "surname": "Amorim",
     "nickname": null,
@@ -7262,12 +7262,12 @@
     "deathPlace": null,
     "spouse": "@I0282@",
     "children": null,
-    "spouseName": "Lynda /Amorim/",
+    "spouseName": "Lynda Amorim",
     "childrenNames": null
   },
   {
     "id": "@I0284@",
-    "GEDName": "Carla /VanKessel/",
+    "GEDName": "Carla VanKessel",
     "givenName": "Carla",
     "surname": "VanKessel",
     "nickname": null,
@@ -7283,17 +7283,17 @@
       "@I0270@"
     ],
     "parentsNames": [
-      "Angelo Michael /DeSerrano/",
-      "Mary Ann /DeSerrano/"
+      "Angelo Michael DeSerrano",
+      "Mary Ann DeSerrano"
     ],
     "spouse": "@I0285@",
     "children": null,
-    "spouseName": "Mark /VanKessel/",
+    "spouseName": "Mark VanKessel",
     "childrenNames": null
   },
   {
     "id": "@I0285@",
-    "GEDName": "Mark /VanKessel/",
+    "GEDName": "Mark VanKessel",
     "givenName": "Mark",
     "surname": "VanKessel",
     "nickname": null,
@@ -7306,12 +7306,12 @@
     "deathPlace": null,
     "spouse": "@I0284@",
     "children": null,
-    "spouseName": "Carla /VanKessel/",
+    "spouseName": "Carla VanKessel",
     "childrenNames": null
   },
   {
     "id": "@I0286@",
-    "GEDName": "Jennifer /Therkelson/",
+    "GEDName": "Jennifer Therkelson",
     "givenName": "Jennifer",
     "surname": "Therkelson",
     "nickname": null,
@@ -7326,14 +7326,14 @@
     "children": [
       "@I0287@"
     ],
-    "spouseName": "Stefanie /Szigatti/",
+    "spouseName": "Stefanie Szigatti",
     "childrenNames": [
-      "Jacob /Therkelson/"
+      "Jacob Therkelson"
     ]
   },
   {
     "id": "@I0287@",
-    "GEDName": "Jacob /Therkelson/",
+    "GEDName": "Jacob Therkelson",
     "givenName": "Jacob",
     "surname": "Therkelson",
     "nickname": null,
@@ -7349,13 +7349,13 @@
       "@I0013@"
     ],
     "parentsNames": [
-      "Jennifer /Therkelson/",
-      "Stefanie /Szigatti/"
+      "Jennifer Therkelson",
+      "Stefanie Szigatti"
     ]
   },
   {
     "id": "@I0288@",
-    "GEDName": "Paula /Kaes/",
+    "GEDName": "Paula Kaes",
     "givenName": "Paula",
     "surname": "Kaes",
     "nickname": null,
@@ -7371,17 +7371,17 @@
       "@I0172@"
     ],
     "parentsNames": [
-      "Jordaen August /Devos/",
-      "Pharailde Marie /Maddens/"
+      "Jordaen August Devos",
+      "Pharailde Marie Maddens"
     ],
     "spouse": "@I0289@",
     "children": null,
-    "spouseName": "Eugene /Kaes/",
+    "spouseName": "Eugene Kaes",
     "childrenNames": null
   },
   {
     "id": "@I0289@",
-    "GEDName": "Eugene /Kaes/",
+    "GEDName": "Eugene Kaes",
     "givenName": "Eugene",
     "surname": "Kaes",
     "nickname": null,
@@ -7394,12 +7394,12 @@
     "deathPlace": null,
     "spouse": "@I0288@",
     "children": null,
-    "spouseName": "Paula /Kaes/",
+    "spouseName": "Paula Kaes",
     "childrenNames": null
   },
   {
     "id": "@I0290@",
-    "GEDName": "George /Devos/",
+    "GEDName": "George Devos",
     "givenName": "George",
     "surname": "Devos",
     "nickname": null,
@@ -7415,13 +7415,13 @@
       "@I0172@"
     ],
     "parentsNames": [
-      "Jordaen August /Devos/",
-      "Pharailde Marie /Maddens/"
+      "Jordaen August Devos",
+      "Pharailde Marie Maddens"
     ]
   },
   {
     "id": "@I0291@",
-    "GEDName": "Paul /Devos/",
+    "GEDName": "Paul Devos",
     "givenName": "Paul",
     "surname": "Devos",
     "nickname": null,
@@ -7437,13 +7437,13 @@
       "@I0172@"
     ],
     "parentsNames": [
-      "Jordaen August /Devos/",
-      "Pharailde Marie /Maddens/"
+      "Jordaen August Devos",
+      "Pharailde Marie Maddens"
     ]
   },
   {
     "id": "@I0292@",
-    "GEDName": "Rene /Devos/",
+    "GEDName": "Rene Devos",
     "givenName": "Rene",
     "surname": "Devos",
     "nickname": null,
@@ -7459,17 +7459,17 @@
       "@I0172@"
     ],
     "parentsNames": [
-      "Jordaen August /Devos/",
-      "Pharailde Marie /Maddens/"
+      "Jordaen August Devos",
+      "Pharailde Marie Maddens"
     ],
     "spouse": "@I0293@",
     "children": null,
-    "spouseName": "Thelma Edith /Grant/",
+    "spouseName": "Thelma Edith Grant",
     "childrenNames": null
   },
   {
     "id": "@I0293@",
-    "GEDName": "Thelma Edith /Grant/",
+    "GEDName": "Thelma Edith Grant",
     "givenName": "Thelma Edith",
     "surname": "Grant",
     "nickname": null,
@@ -7482,12 +7482,12 @@
     "deathPlace": null,
     "spouse": "@I0292@",
     "children": null,
-    "spouseName": "Rene /Devos/",
+    "spouseName": "Rene Devos",
     "childrenNames": null
   },
   {
     "id": "@I0294@",
-    "GEDName": "Lanny /Berdan/",
+    "GEDName": "Lanny Berdan",
     "givenName": "Lanny",
     "surname": "Berdan",
     "nickname": null,
@@ -7502,14 +7502,14 @@
     "children": [
       "@I0297@"
     ],
-    "spouseName": "Maureen /Berdan/",
+    "spouseName": "Maureen Berdan",
     "childrenNames": [
-      "Melissa /Berdan/"
+      "Melissa Berdan"
     ]
   },
   {
     "id": "@I0295@",
-    "GEDName": "Nicole /Friesen/",
+    "GEDName": "Nicole Friesen",
     "givenName": "Nicole",
     "surname": "Friesen",
     "nickname": null,
@@ -7525,13 +7525,13 @@
       "@I0274@"
     ],
     "parentsNames": [
-      "Dennis /Friesen/",
-      "Debbie /Friesen/"
+      "Dennis Friesen",
+      "Debbie Friesen"
     ]
   },
   {
     "id": "@I0296@",
-    "GEDName": "Jason /Friesen/",
+    "GEDName": "Jason Friesen",
     "givenName": "Jason",
     "surname": "Friesen",
     "nickname": null,
@@ -7547,13 +7547,13 @@
       "@I0274@"
     ],
     "parentsNames": [
-      "Dennis /Friesen/",
-      "Debbie /Friesen/"
+      "Dennis Friesen",
+      "Debbie Friesen"
     ]
   },
   {
     "id": "@I0297@",
-    "GEDName": "Melissa /Berdan/",
+    "GEDName": "Melissa Berdan",
     "givenName": "Melissa",
     "surname": "Berdan",
     "nickname": null,
@@ -7569,13 +7569,13 @@
       "@I0277@"
     ],
     "parentsNames": [
-      "Lanny /Berdan/",
-      "Maureen /Berdan/"
+      "Lanny Berdan",
+      "Maureen Berdan"
     ]
   },
   {
     "id": "@I0298@",
-    "GEDName": "Janet /Lea/",
+    "GEDName": "Janet Lea",
     "givenName": "Janet",
     "surname": "Lea",
     "nickname": null,
@@ -7588,12 +7588,12 @@
     "deathPlace": null,
     "spouse": "@I0242@",
     "children": null,
-    "spouseName": "Derek /Lea/",
+    "spouseName": "Derek Lea",
     "childrenNames": null
   },
   {
     "id": "@I0299@",
-    "GEDName": "Leonard /DeSerrano/",
+    "GEDName": "Leonard DeSerrano",
     "givenName": "Leonard",
     "surname": "DeSerrano",
     "nickname": null,
@@ -7608,22 +7608,22 @@
     "children": [
       "@I0160@"
     ],
-    "spouseName": "Julienne /DeSerrano/",
+    "spouseName": "Julienne DeSerrano",
     "childrenNames": [
-      "Alois /DeSerrano/"
+      "Alois DeSerrano"
     ],
     "parents": [
       "@I0301@",
       "@I0302@"
     ],
     "parentsNames": [
-      "Ferdinand /DeSerrano/",
-      "Caroline /DeSerrano/"
+      "Ferdinand DeSerrano",
+      "Caroline DeSerrano"
     ]
   },
   {
     "id": "@I0300@",
-    "GEDName": "Julienne /DeSerrano/",
+    "GEDName": "Julienne DeSerrano",
     "givenName": "Julienne",
     "surname": "DeSerrano",
     "nickname": null,
@@ -7638,14 +7638,14 @@
     "children": [
       "@I0160@"
     ],
-    "spouseName": "Leonard /DeSerrano/",
+    "spouseName": "Leonard DeSerrano",
     "childrenNames": [
-      "Alois /DeSerrano/"
+      "Alois DeSerrano"
     ]
   },
   {
     "id": "@I0301@",
-    "GEDName": "Ferdinand /DeSerrano/",
+    "GEDName": "Ferdinand DeSerrano",
     "givenName": "Ferdinand",
     "surname": "DeSerrano",
     "nickname": null,
@@ -7660,22 +7660,22 @@
     "children": [
       "@I0299@"
     ],
-    "spouseName": "Caroline /DeSerrano/",
+    "spouseName": "Caroline DeSerrano",
     "childrenNames": [
-      "Leonard /DeSerrano/"
+      "Leonard DeSerrano"
     ],
     "parents": [
       "@I0303@",
       "@I0304@"
     ],
     "parentsNames": [
-      "Petrus Ignace /DeSerrano/",
-      "Rosa /Eeckhout/"
+      "Petrus Ignace DeSerrano",
+      "Rosa Eeckhout"
     ]
   },
   {
     "id": "@I0302@",
-    "GEDName": "Caroline /DeSerrano/",
+    "GEDName": "Caroline DeSerrano",
     "givenName": "Caroline",
     "surname": "DeSerrano",
     "nickname": null,
@@ -7690,14 +7690,14 @@
     "children": [
       "@I0299@"
     ],
-    "spouseName": "Ferdinand /DeSerrano/",
+    "spouseName": "Ferdinand DeSerrano",
     "childrenNames": [
-      "Leonard /DeSerrano/"
+      "Leonard DeSerrano"
     ]
   },
   {
     "id": "@I0303@",
-    "GEDName": "Petrus Ignace /DeSerrano/",
+    "GEDName": "Petrus Ignace DeSerrano",
     "givenName": "Petrus Ignace",
     "surname": "DeSerrano",
     "nickname": null,
@@ -7712,22 +7712,22 @@
     "children": [
       "@I0301@"
     ],
-    "spouseName": "Rosa /Eeckhout/",
+    "spouseName": "Rosa Eeckhout",
     "childrenNames": [
-      "Ferdinand /DeSerrano/"
+      "Ferdinand DeSerrano"
     ],
     "parents": [
       "@I0305@",
       "@I0306@"
     ],
     "parentsNames": [
-      "Francis /DeSerrano/",
-      "Rosalia /Duyck/"
+      "Francis DeSerrano",
+      "Rosalia Duyck"
     ]
   },
   {
     "id": "@I0304@",
-    "GEDName": "Rosa /Eeckhout/",
+    "GEDName": "Rosa Eeckhout",
     "givenName": "Rosa",
     "surname": "Eeckhout",
     "nickname": null,
@@ -7742,14 +7742,14 @@
     "children": [
       "@I0301@"
     ],
-    "spouseName": "Petrus Ignace /DeSerrano/",
+    "spouseName": "Petrus Ignace DeSerrano",
     "childrenNames": [
-      "Ferdinand /DeSerrano/"
+      "Ferdinand DeSerrano"
     ]
   },
   {
     "id": "@I0305@",
-    "GEDName": "Francis /DeSerrano/",
+    "GEDName": "Francis DeSerrano",
     "givenName": "Francis",
     "surname": "DeSerrano",
     "nickname": null,
@@ -7764,22 +7764,22 @@
     "children": [
       "@I0303@"
     ],
-    "spouseName": "Rosalia /Duyck/",
+    "spouseName": "Rosalia Duyck",
     "childrenNames": [
-      "Petrus Ignace /DeSerrano/"
+      "Petrus Ignace DeSerrano"
     ],
     "parents": [
       "@I0307@",
       "@I0308@"
     ],
     "parentsNames": [
-      "Jan /DeSerrano/",
-      "Maria Catharina /Caluwaert/"
+      "Jan DeSerrano",
+      "Maria Catharina Caluwaert"
     ]
   },
   {
     "id": "@I0306@",
-    "GEDName": "Rosalia /Duyck/",
+    "GEDName": "Rosalia Duyck",
     "givenName": "Rosalia",
     "surname": "Duyck",
     "nickname": null,
@@ -7794,14 +7794,14 @@
     "children": [
       "@I0303@"
     ],
-    "spouseName": "Francis /DeSerrano/",
+    "spouseName": "Francis DeSerrano",
     "childrenNames": [
-      "Petrus Ignace /DeSerrano/"
+      "Petrus Ignace DeSerrano"
     ]
   },
   {
     "id": "@I0307@",
-    "GEDName": "Jan /DeSerrano/",
+    "GEDName": "Jan DeSerrano",
     "givenName": "Jan",
     "surname": "DeSerrano",
     "nickname": null,
@@ -7816,22 +7816,22 @@
     "children": [
       "@I0305@"
     ],
-    "spouseName": "Maria Catharina /Caluwaert/",
+    "spouseName": "Maria Catharina Caluwaert",
     "childrenNames": [
-      "Francis /DeSerrano/"
+      "Francis DeSerrano"
     ],
     "parents": [
       "@I0309@",
       "@I0310@"
     ],
     "parentsNames": [
-      "Franciscus /DeSerrano/",
-      "Judoca /Dhont/"
+      "Franciscus DeSerrano",
+      "Judoca Dhont"
     ]
   },
   {
     "id": "@I0308@",
-    "GEDName": "Maria Catharina /Caluwaert/",
+    "GEDName": "Maria Catharina Caluwaert",
     "givenName": "Maria Catharina",
     "surname": "Caluwaert",
     "nickname": null,
@@ -7846,14 +7846,14 @@
     "children": [
       "@I0305@"
     ],
-    "spouseName": "Jan /DeSerrano/",
+    "spouseName": "Jan DeSerrano",
     "childrenNames": [
-      "Francis /DeSerrano/"
+      "Francis DeSerrano"
     ]
   },
   {
     "id": "@I0309@",
-    "GEDName": "Franciscus /DeSerrano/",
+    "GEDName": "Franciscus DeSerrano",
     "givenName": "Franciscus",
     "surname": "DeSerrano",
     "nickname": null,
@@ -7869,23 +7869,23 @@
       "@I0199@",
       "@I0307@"
     ],
-    "spouseName": "Judoca /Dhont/",
+    "spouseName": "Judoca Dhont",
     "childrenNames": [
-      "Petronilla /DeSerrano/",
-      "Jan /DeSerrano/"
+      "Petronilla DeSerrano",
+      "Jan DeSerrano"
     ],
     "parents": [
       "@I0311@",
       "@I0312@"
     ],
     "parentsNames": [
-      "Franciscus /Serrano/",
-      "Anna Maria /Vanquathem/"
+      "Franciscus Serrano",
+      "Anna Maria Vanquathem"
     ]
   },
   {
     "id": "@I0310@",
-    "GEDName": "Judoca /Dhont/",
+    "GEDName": "Judoca Dhont",
     "givenName": "Judoca",
     "surname": "Dhont",
     "nickname": null,
@@ -7901,15 +7901,15 @@
       "@I0199@",
       "@I0307@"
     ],
-    "spouseName": "Franciscus /DeSerrano/",
+    "spouseName": "Franciscus DeSerrano",
     "childrenNames": [
-      "Petronilla /DeSerrano/",
-      "Jan /DeSerrano/"
+      "Petronilla DeSerrano",
+      "Jan DeSerrano"
     ]
   },
   {
     "id": "@I0311@",
-    "GEDName": "Franciscus /Serrano/",
+    "GEDName": "Franciscus Serrano",
     "givenName": "Franciscus",
     "surname": "Serrano",
     "nickname": null,
@@ -7924,20 +7924,20 @@
     "children": [
       "@I0309@"
     ],
-    "spouseName": "Anna Maria /Vanquathem/",
+    "spouseName": "Anna Maria Vanquathem",
     "childrenNames": [
-      "Franciscus /DeSerrano/"
+      "Franciscus DeSerrano"
     ],
     "parents": [
       "@I0313@"
     ],
     "parentsNames": [
-      "Fernán González /Serrano/"
+      "Fernán González Serrano"
     ]
   },
   {
     "id": "@I0312@",
-    "GEDName": "Anna Maria /Vanquathem/",
+    "GEDName": "Anna Maria Vanquathem",
     "givenName": "Anna Maria",
     "surname": "Vanquathem",
     "nickname": null,
@@ -7952,14 +7952,14 @@
     "children": [
       "@I0309@"
     ],
-    "spouseName": "Franciscus /Serrano/",
+    "spouseName": "Franciscus Serrano",
     "childrenNames": [
-      "Franciscus /DeSerrano/"
+      "Franciscus DeSerrano"
     ]
   },
   {
     "id": "@I0313@",
-    "GEDName": "Fernán González /Serrano/",
+    "GEDName": "Fernán González Serrano",
     "givenName": "Fernán González",
     "surname": "Serrano",
     "nickname": null,
@@ -7976,18 +7976,18 @@
       "@I0311@"
     ],
     "childrenNames": [
-      "Franciscus /Serrano/"
+      "Franciscus Serrano"
     ],
     "parents": [
       "@I0314@"
     ],
     "parentsNames": [
-      "Martín González /Serrano/"
+      "Martín González Serrano"
     ]
   },
   {
     "id": "@I0314@",
-    "GEDName": "Martín González /Serrano/",
+    "GEDName": "Martín González Serrano",
     "givenName": "Martín González",
     "surname": "Serrano",
     "nickname": null,
@@ -8004,18 +8004,18 @@
       "@I0313@"
     ],
     "childrenNames": [
-      "Fernán González /Serrano/"
+      "Fernán González Serrano"
     ],
     "parents": [
       "@I0315@"
     ],
     "parentsNames": [
-      "Aulo Atilio /Serrano/"
+      "Aulo Atilio Serrano"
     ]
   },
   {
     "id": "@I0315@",
-    "GEDName": "Aulo Atilio /Serrano/",
+    "GEDName": "Aulo Atilio Serrano",
     "givenName": "Aulo Atilio",
     "surname": "Serrano",
     "nickname": null,
@@ -8032,7 +8032,7 @@
       "@I0314@"
     ],
     "childrenNames": [
-      "Martín González /Serrano/"
+      "Martín González Serrano"
     ]
   }
 ]
