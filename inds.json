@@ -34,15 +34,27 @@
     "birthPlace": null,
     "deathDate": null,
     "deathPlace": null,
-    "spouse": "@I0003@",
-    "children": [
-      "@I0000@",
-      "@I0004@"
+    "families": [
+      [
+        [
+          "@I0003@"
+        ],
+        [
+          "@I0000@",
+          "@I0004@"
+        ]
+      ]
     ],
-    "spouseName": "Barbara DeSerrano",
-    "childrenNames": [
-      "Jack DeSerrano",
-      "Emma DeSerrano"
+    "familiesNames": [
+      [
+        [
+          "Barbara DeSerrano"
+        ],
+        [
+          "Jack DeSerrano",
+          "Emma DeSerrano"
+        ]
+      ]
     ],
     "parents": [
       "@I0005@",
@@ -66,15 +78,27 @@
     "birthPlace": null,
     "deathDate": null,
     "deathPlace": null,
-    "spouse": "@I0002@",
-    "children": [
-      "@I0000@",
-      "@I0004@"
+    "families": [
+      [
+        [
+          "@I0002@"
+        ],
+        [
+          "@I0000@",
+          "@I0004@"
+        ]
+      ]
     ],
-    "spouseName": "James DeSerrano",
-    "childrenNames": [
-      "Jack DeSerrano",
-      "Emma DeSerrano"
+    "familiesNames": [
+      [
+        [
+          "James DeSerrano"
+        ],
+        [
+          "Jack DeSerrano",
+          "Emma DeSerrano"
+        ]
+      ]
     ]
   },
   {
@@ -112,29 +136,41 @@
     "birthPlace": null,
     "deathDate": "17 NOV 2008",
     "deathPlace": null,
-    "spouse": "@I0006@",
-    "children": [
-      "@I0002@",
-      "@I0007@",
-      "@I0011@",
-      "@I0012@",
-      "@I0024@",
-      "@I0028@",
-      "@I0033@",
-      "@I0043@",
-      "@I0044@"
+    "families": [
+      [
+        [
+          "@I0006@"
+        ],
+        [
+          "@I0002@",
+          "@I0007@",
+          "@I0011@",
+          "@I0012@",
+          "@I0024@",
+          "@I0028@",
+          "@I0033@",
+          "@I0043@",
+          "@I0044@"
+        ]
+      ]
     ],
-    "spouseName": "Donna DeSerrano",
-    "childrenNames": [
-      "James DeSerrano",
-      "Louis DeSerrano",
-      "Ruth DeSerrano",
-      "Lorraine DeSerrano",
-      "Christine Harrop",
-      "Joan Pringle",
-      "Robert DeSerrano",
-      "David DeSerrano",
-      "Anthony DeSerrano"
+    "familiesNames": [
+      [
+        [
+          "Donna DeSerrano"
+        ],
+        [
+          "James DeSerrano",
+          "Louis DeSerrano",
+          "Ruth DeSerrano",
+          "Lorraine DeSerrano",
+          "Christine Harrop",
+          "Joan Pringle",
+          "Robert DeSerrano",
+          "David DeSerrano",
+          "Anthony DeSerrano"
+        ]
+      ]
     ],
     "parents": [
       "@I0160@",
@@ -158,29 +194,41 @@
     "birthPlace": null,
     "deathDate": null,
     "deathPlace": null,
-    "spouse": "@I0005@",
-    "children": [
-      "@I0002@",
-      "@I0007@",
-      "@I0011@",
-      "@I0012@",
-      "@I0024@",
-      "@I0028@",
-      "@I0033@",
-      "@I0043@",
-      "@I0044@"
+    "families": [
+      [
+        [
+          "@I0005@"
+        ],
+        [
+          "@I0002@",
+          "@I0007@",
+          "@I0011@",
+          "@I0012@",
+          "@I0024@",
+          "@I0028@",
+          "@I0033@",
+          "@I0043@",
+          "@I0044@"
+        ]
+      ]
     ],
-    "spouseName": "Louis Julius Rudolph DeSerrano",
-    "childrenNames": [
-      "James DeSerrano",
-      "Louis DeSerrano",
-      "Ruth DeSerrano",
-      "Lorraine DeSerrano",
-      "Christine Harrop",
-      "Joan Pringle",
-      "Robert DeSerrano",
-      "David DeSerrano",
-      "Anthony DeSerrano"
+    "familiesNames": [
+      [
+        [
+          "Louis Julius Rudolph DeSerrano"
+        ],
+        [
+          "James DeSerrano",
+          "Louis DeSerrano",
+          "Ruth DeSerrano",
+          "Lorraine DeSerrano",
+          "Christine Harrop",
+          "Joan Pringle",
+          "Robert DeSerrano",
+          "David DeSerrano",
+          "Anthony DeSerrano"
+        ]
+      ]
     ],
     "parents": [
       "@I0045@",
@@ -212,15 +260,27 @@
       "Louis Julius Rudolph DeSerrano",
       "Donna DeSerrano"
     ],
-    "spouse": "@I0008@",
-    "children": [
-      "@I0009@",
-      "@I0010@"
+    "families": [
+      [
+        [
+          "@I0008@"
+        ],
+        [
+          "@I0009@",
+          "@I0010@"
+        ]
+      ]
     ],
-    "spouseName": "Sally DeSerrano",
-    "childrenNames": [
-      "Alexandra DeSerrano",
-      "Julian DeSerrano"
+    "familiesNames": [
+      [
+        [
+          "Sally DeSerrano"
+        ],
+        [
+          "Alexandra DeSerrano",
+          "Julian DeSerrano"
+        ]
+      ]
     ]
   },
   {
@@ -236,15 +296,27 @@
     "birthPlace": null,
     "deathDate": null,
     "deathPlace": null,
-    "spouse": "@I0007@",
-    "children": [
-      "@I0009@",
-      "@I0010@"
+    "families": [
+      [
+        [
+          "@I0007@"
+        ],
+        [
+          "@I0009@",
+          "@I0010@"
+        ]
+      ]
     ],
-    "spouseName": "Louis DeSerrano",
-    "childrenNames": [
-      "Alexandra DeSerrano",
-      "Julian DeSerrano"
+    "familiesNames": [
+      [
+        [
+          "Louis DeSerrano"
+        ],
+        [
+          "Alexandra DeSerrano",
+          "Julian DeSerrano"
+        ]
+      ]
     ]
   },
   {
@@ -334,19 +406,31 @@
       "Louis Julius Rudolph DeSerrano",
       "Donna DeSerrano"
     ],
-    "spouse": "@I0261@",
-    "children": [
-      "@I0013@",
-      "@I0014@",
-      "@I0015@",
-      "@I0016@"
+    "families": [
+      [
+        [
+          "@I0261@"
+        ],
+        [
+          "@I0013@",
+          "@I0014@",
+          "@I0015@",
+          "@I0016@"
+        ]
+      ]
     ],
-    "spouseName": "Mark Szigatti",
-    "childrenNames": [
-      "Stefanie Szigatti",
-      "Christopher Szigatti",
-      "Laura Gillies",
-      "Craig Szigatti"
+    "familiesNames": [
+      [
+        [
+          "Mark Szigatti"
+        ],
+        [
+          "Stefanie Szigatti",
+          "Christopher Szigatti",
+          "Laura Gillies",
+          "Craig Szigatti"
+        ]
+      ]
     ]
   },
   {
@@ -370,13 +454,25 @@
       "Mark Szigatti",
       "Lorraine DeSerrano"
     ],
-    "spouse": "@I0286@",
-    "children": [
-      "@I0287@"
+    "families": [
+      [
+        [
+          "@I0286@"
+        ],
+        [
+          "@I0287@"
+        ]
+      ]
     ],
-    "spouseName": "Jennifer Therkelson",
-    "childrenNames": [
-      "Jacob Therkelson"
+    "familiesNames": [
+      [
+        [
+          "Jennifer Therkelson"
+        ],
+        [
+          "Jacob Therkelson"
+        ]
+      ]
     ]
   },
   {
@@ -400,15 +496,27 @@
       "Mark Szigatti",
       "Lorraine DeSerrano"
     ],
-    "spouse": "@I0017@",
-    "children": [
-      "@I0018@",
-      "@I0019@"
+    "families": [
+      [
+        [
+          "@I0017@"
+        ],
+        [
+          "@I0018@",
+          "@I0019@"
+        ]
+      ]
     ],
-    "spouseName": "Kim Szigatti",
-    "childrenNames": [
-      "Joseph Szigatti",
-      "Charlotte Szigatti"
+    "familiesNames": [
+      [
+        [
+          "Kim Szigatti"
+        ],
+        [
+          "Joseph Szigatti",
+          "Charlotte Szigatti"
+        ]
+      ]
     ]
   },
   {
@@ -432,17 +540,29 @@
       "Mark Szigatti",
       "Lorraine DeSerrano"
     ],
-    "spouse": "@I0020@",
-    "children": [
-      "@I0021@",
-      "@I0022@",
-      "@I0023@"
+    "families": [
+      [
+        [
+          "@I0020@"
+        ],
+        [
+          "@I0021@",
+          "@I0022@",
+          "@I0023@"
+        ]
+      ]
     ],
-    "spouseName": "Colin Gillies",
-    "childrenNames": [
-      "June Gillies",
-      "Francis Gillies",
-      "Iris Gillies"
+    "familiesNames": [
+      [
+        [
+          "Colin Gillies"
+        ],
+        [
+          "June Gillies",
+          "Francis Gillies",
+          "Iris Gillies"
+        ]
+      ]
     ]
   },
   {
@@ -480,15 +600,27 @@
     "birthPlace": null,
     "deathDate": null,
     "deathPlace": null,
-    "spouse": "@I0014@",
-    "children": [
-      "@I0018@",
-      "@I0019@"
+    "families": [
+      [
+        [
+          "@I0014@"
+        ],
+        [
+          "@I0018@",
+          "@I0019@"
+        ]
+      ]
     ],
-    "spouseName": "Christopher Szigatti",
-    "childrenNames": [
-      "Joseph Szigatti",
-      "Charlotte Szigatti"
+    "familiesNames": [
+      [
+        [
+          "Christopher Szigatti"
+        ],
+        [
+          "Joseph Szigatti",
+          "Charlotte Szigatti"
+        ]
+      ]
     ]
   },
   {
@@ -548,17 +680,29 @@
     "birthPlace": null,
     "deathDate": null,
     "deathPlace": null,
-    "spouse": "@I0015@",
-    "children": [
-      "@I0021@",
-      "@I0022@",
-      "@I0023@"
+    "families": [
+      [
+        [
+          "@I0015@"
+        ],
+        [
+          "@I0021@",
+          "@I0022@",
+          "@I0023@"
+        ]
+      ]
     ],
-    "spouseName": "Laura Gillies",
-    "childrenNames": [
-      "June Gillies",
-      "Francis Gillies",
-      "Iris Gillies"
+    "familiesNames": [
+      [
+        [
+          "Laura Gillies"
+        ],
+        [
+          "June Gillies",
+          "Francis Gillies",
+          "Iris Gillies"
+        ]
+      ]
     ]
   },
   {
@@ -648,15 +792,27 @@
       "Louis Julius Rudolph DeSerrano",
       "Donna DeSerrano"
     ],
-    "spouse": "@I0025@",
-    "children": [
-      "@I0026@",
-      "@I0027@"
+    "families": [
+      [
+        [
+          "@I0025@"
+        ],
+        [
+          "@I0026@",
+          "@I0027@"
+        ]
+      ]
     ],
-    "spouseName": "Eric Harrop",
-    "childrenNames": [
-      "Amanda Harrop",
-      "Matthew Harrop"
+    "familiesNames": [
+      [
+        [
+          "Eric Harrop"
+        ],
+        [
+          "Amanda Harrop",
+          "Matthew Harrop"
+        ]
+      ]
     ]
   },
   {
@@ -672,15 +828,27 @@
     "birthPlace": null,
     "deathDate": null,
     "deathPlace": null,
-    "spouse": "@I0024@",
-    "children": [
-      "@I0026@",
-      "@I0027@"
+    "families": [
+      [
+        [
+          "@I0024@"
+        ],
+        [
+          "@I0026@",
+          "@I0027@"
+        ]
+      ]
     ],
-    "spouseName": "Christine Harrop",
-    "childrenNames": [
-      "Amanda Harrop",
-      "Matthew Harrop"
+    "familiesNames": [
+      [
+        [
+          "Christine Harrop"
+        ],
+        [
+          "Amanda Harrop",
+          "Matthew Harrop"
+        ]
+      ]
     ]
   },
   {
@@ -748,13 +916,25 @@
       "Louis Julius Rudolph DeSerrano",
       "Donna DeSerrano"
     ],
-    "spouse": "@I0029@",
-    "children": [
-      "@I0030@"
+    "families": [
+      [
+        [
+          "@I0029@"
+        ],
+        [
+          "@I0030@"
+        ]
+      ]
     ],
-    "spouseName": "John Fraser Pringle",
-    "childrenNames": [
-      "Bowman Pringle"
+    "familiesNames": [
+      [
+        [
+          "John Fraser Pringle"
+        ],
+        [
+          "Bowman Pringle"
+        ]
+      ]
     ]
   },
   {
@@ -770,13 +950,25 @@
     "birthPlace": null,
     "deathDate": null,
     "deathPlace": null,
-    "spouse": "@I0028@",
-    "children": [
-      "@I0030@"
+    "families": [
+      [
+        [
+          "@I0028@"
+        ],
+        [
+          "@I0030@"
+        ]
+      ]
     ],
-    "spouseName": "Joan Pringle",
-    "childrenNames": [
-      "Bowman Pringle"
+    "familiesNames": [
+      [
+        [
+          "Joan Pringle"
+        ],
+        [
+          "Bowman Pringle"
+        ]
+      ]
     ]
   },
   {
@@ -800,13 +992,25 @@
       "John Fraser Pringle",
       "Joan Pringle"
     ],
-    "spouse": "@I0031@",
-    "children": [
-      "@I0032@"
+    "families": [
+      [
+        [
+          "@I0031@"
+        ],
+        [
+          "@I0032@"
+        ]
+      ]
     ],
-    "spouseName": "Sinead Pringle",
-    "childrenNames": [
-      "Neave Pringle"
+    "familiesNames": [
+      [
+        [
+          "Sinead Pringle"
+        ],
+        [
+          "Neave Pringle"
+        ]
+      ]
     ]
   },
   {
@@ -822,13 +1026,25 @@
     "birthPlace": null,
     "deathDate": null,
     "deathPlace": null,
-    "spouse": "@I0030@",
-    "children": [
-      "@I0032@"
+    "families": [
+      [
+        [
+          "@I0030@"
+        ],
+        [
+          "@I0032@"
+        ]
+      ]
     ],
-    "spouseName": "Bowman Pringle",
-    "childrenNames": [
-      "Neave Pringle"
+    "familiesNames": [
+      [
+        [
+          "Bowman Pringle"
+        ],
+        [
+          "Neave Pringle"
+        ]
+      ]
     ]
   },
   {
@@ -874,15 +1090,27 @@
       "Louis Julius Rudolph DeSerrano",
       "Donna DeSerrano"
     ],
-    "spouse": "@I0034@",
-    "children": [
-      "@I0035@",
-      "@I0036@"
+    "families": [
+      [
+        [
+          "@I0034@"
+        ],
+        [
+          "@I0035@",
+          "@I0036@"
+        ]
+      ]
     ],
-    "spouseName": "Lisa DeSerrano",
-    "childrenNames": [
-      "Desiree Worgan",
-      "Natalie DeSerrano"
+    "familiesNames": [
+      [
+        [
+          "Lisa DeSerrano"
+        ],
+        [
+          "Desiree Worgan",
+          "Natalie DeSerrano"
+        ]
+      ]
     ]
   },
   {
@@ -898,15 +1126,27 @@
     "birthPlace": null,
     "deathDate": null,
     "deathPlace": null,
-    "spouse": "@I0033@",
-    "children": [
-      "@I0035@",
-      "@I0036@"
+    "families": [
+      [
+        [
+          "@I0033@"
+        ],
+        [
+          "@I0035@",
+          "@I0036@"
+        ]
+      ]
     ],
-    "spouseName": "Robert DeSerrano",
-    "childrenNames": [
-      "Desiree Worgan",
-      "Natalie DeSerrano"
+    "familiesNames": [
+      [
+        [
+          "Robert DeSerrano"
+        ],
+        [
+          "Desiree Worgan",
+          "Natalie DeSerrano"
+        ]
+      ]
     ]
   },
   {
@@ -930,15 +1170,27 @@
       "Robert DeSerrano",
       "Lisa DeSerrano"
     ],
-    "spouse": "@I0037@",
-    "children": [
-      "@I0038@",
-      "@I0039@"
+    "families": [
+      [
+        [
+          "@I0037@"
+        ],
+        [
+          "@I0038@",
+          "@I0039@"
+        ]
+      ]
     ],
-    "spouseName": "Kyle Worgan",
-    "childrenNames": [
-      "Lucas Worgan",
-      "Liam Worgan"
+    "familiesNames": [
+      [
+        [
+          "Kyle Worgan"
+        ],
+        [
+          "Lucas Worgan",
+          "Liam Worgan"
+        ]
+      ]
     ]
   },
   {
@@ -962,15 +1214,27 @@
       "Robert DeSerrano",
       "Lisa DeSerrano"
     ],
-    "spouse": "@I0040@",
-    "children": [
-      "@I0041@",
-      "@I0042@"
+    "families": [
+      [
+        [
+          "@I0040@"
+        ],
+        [
+          "@I0041@",
+          "@I0042@"
+        ]
+      ]
     ],
-    "spouseName": "Hubert Guerrero",
-    "childrenNames": [
-      "Lua Guerrero",
-      "Kiola Guerrero"
+    "familiesNames": [
+      [
+        [
+          "Hubert Guerrero"
+        ],
+        [
+          "Lua Guerrero",
+          "Kiola Guerrero"
+        ]
+      ]
     ]
   },
   {
@@ -986,15 +1250,27 @@
     "birthPlace": null,
     "deathDate": null,
     "deathPlace": null,
-    "spouse": "@I0035@",
-    "children": [
-      "@I0038@",
-      "@I0039@"
+    "families": [
+      [
+        [
+          "@I0035@"
+        ],
+        [
+          "@I0038@",
+          "@I0039@"
+        ]
+      ]
     ],
-    "spouseName": "Desiree Worgan",
-    "childrenNames": [
-      "Lucas Worgan",
-      "Liam Worgan"
+    "familiesNames": [
+      [
+        [
+          "Desiree Worgan"
+        ],
+        [
+          "Lucas Worgan",
+          "Liam Worgan"
+        ]
+      ]
     ]
   },
   {
@@ -1054,15 +1330,27 @@
     "birthPlace": null,
     "deathDate": null,
     "deathPlace": null,
-    "spouse": "@I0036@",
-    "children": [
-      "@I0041@",
-      "@I0042@"
+    "families": [
+      [
+        [
+          "@I0036@"
+        ],
+        [
+          "@I0041@",
+          "@I0042@"
+        ]
+      ]
     ],
-    "spouseName": "Natalie DeSerrano",
-    "childrenNames": [
-      "Lua Guerrero",
-      "Kiola Guerrero"
+    "familiesNames": [
+      [
+        [
+          "Natalie DeSerrano"
+        ],
+        [
+          "Lua Guerrero",
+          "Kiola Guerrero"
+        ]
+      ]
     ]
   },
   {
@@ -1166,29 +1454,41 @@
     "birthPlace": null,
     "deathDate": "31 DEC 1962",
     "deathPlace": null,
-    "spouse": "@I0046@",
-    "children": [
-      "@I0006@",
-      "@I0047@",
-      "@I0048@",
-      "@I0091@",
-      "@I0112@",
-      "@I0117@",
-      "@I0135@",
-      "@I0158@",
-      "@I0159@"
+    "families": [
+      [
+        [
+          "@I0046@"
+        ],
+        [
+          "@I0006@",
+          "@I0047@",
+          "@I0048@",
+          "@I0091@",
+          "@I0112@",
+          "@I0117@",
+          "@I0135@",
+          "@I0158@",
+          "@I0159@"
+        ]
+      ]
     ],
-    "spouseName": "Hermina Matuščinová",
-    "childrenNames": [
-      "Donna DeSerrano",
-      "Mary Matuščinová",
-      "Anna Solínová",
-      "Štefan Frank Matuščin",
-      "Ján Matuščin",
-      "Helen Fodor",
-      "Christina Doktorčik",
-      "Otto Matuščin",
-      "Karol Matuščin"
+    "familiesNames": [
+      [
+        [
+          "Hermina Matuščinová"
+        ],
+        [
+          "Donna DeSerrano",
+          "Mary Matuščinová",
+          "Anna Solínová",
+          "Štefan Frank Matuščin",
+          "Ján Matuščin",
+          "Helen Fodor",
+          "Christina Doktorčik",
+          "Otto Matuščin",
+          "Karol Matuščin"
+        ]
+      ]
     ]
   },
   {
@@ -1204,29 +1504,41 @@
     "birthPlace": null,
     "deathDate": "21 NOV 1965",
     "deathPlace": null,
-    "spouse": "@I0045@",
-    "children": [
-      "@I0006@",
-      "@I0047@",
-      "@I0048@",
-      "@I0091@",
-      "@I0112@",
-      "@I0117@",
-      "@I0135@",
-      "@I0158@",
-      "@I0159@"
+    "families": [
+      [
+        [
+          "@I0045@"
+        ],
+        [
+          "@I0006@",
+          "@I0047@",
+          "@I0048@",
+          "@I0091@",
+          "@I0112@",
+          "@I0117@",
+          "@I0135@",
+          "@I0158@",
+          "@I0159@"
+        ]
+      ]
     ],
-    "spouseName": "Alexander Matuščin",
-    "childrenNames": [
-      "Donna DeSerrano",
-      "Mary Matuščinová",
-      "Anna Solínová",
-      "Štefan Frank Matuščin",
-      "Ján Matuščin",
-      "Helen Fodor",
-      "Christina Doktorčik",
-      "Otto Matuščin",
-      "Karol Matuščin"
+    "familiesNames": [
+      [
+        [
+          "Alexander Matuščin"
+        ],
+        [
+          "Donna DeSerrano",
+          "Mary Matuščinová",
+          "Anna Solínová",
+          "Štefan Frank Matuščin",
+          "Ján Matuščin",
+          "Helen Fodor",
+          "Christina Doktorčik",
+          "Otto Matuščin",
+          "Karol Matuščin"
+        ]
+      ]
     ]
   },
   {
@@ -1272,23 +1584,35 @@
       "Alexander Matuščin",
       "Hermina Matuščinová"
     ],
-    "spouse": "@I0049@",
-    "children": [
-      "@I0050@",
-      "@I0051@",
-      "@I0052@",
-      "@I0053@",
-      "@I0054@",
-      "@I0055@"
+    "families": [
+      [
+        [
+          "@I0049@"
+        ],
+        [
+          "@I0050@",
+          "@I0051@",
+          "@I0052@",
+          "@I0053@",
+          "@I0054@",
+          "@I0055@"
+        ]
+      ]
     ],
-    "spouseName": "Jozef Solín",
-    "childrenNames": [
-      "Ján Solín",
-      "Mariana Marčoková",
-      "Margita Bystrianská",
-      "Jozef Solín",
-      "Jaroslav Solín",
-      "Anton Solín"
+    "familiesNames": [
+      [
+        [
+          "Jozef Solín"
+        ],
+        [
+          "Ján Solín",
+          "Mariana Marčoková",
+          "Margita Bystrianská",
+          "Jozef Solín",
+          "Jaroslav Solín",
+          "Anton Solín"
+        ]
+      ]
     ]
   },
   {
@@ -1304,23 +1628,35 @@
     "birthPlace": null,
     "deathDate": "7 APR 1976",
     "deathPlace": null,
-    "spouse": "@I0048@",
-    "children": [
-      "@I0050@",
-      "@I0051@",
-      "@I0052@",
-      "@I0053@",
-      "@I0054@",
-      "@I0055@"
+    "families": [
+      [
+        [
+          "@I0048@"
+        ],
+        [
+          "@I0050@",
+          "@I0051@",
+          "@I0052@",
+          "@I0053@",
+          "@I0054@",
+          "@I0055@"
+        ]
+      ]
     ],
-    "spouseName": "Anna Solínová",
-    "childrenNames": [
-      "Ján Solín",
-      "Mariana Marčoková",
-      "Margita Bystrianská",
-      "Jozef Solín",
-      "Jaroslav Solín",
-      "Anton Solín"
+    "familiesNames": [
+      [
+        [
+          "Anna Solínová"
+        ],
+        [
+          "Ján Solín",
+          "Mariana Marčoková",
+          "Margita Bystrianská",
+          "Jozef Solín",
+          "Jaroslav Solín",
+          "Anton Solín"
+        ]
+      ]
     ]
   },
   {
@@ -1344,17 +1680,29 @@
       "Jozef Solín",
       "Anna Solínová"
     ],
-    "spouse": "@I0056@",
-    "children": [
-      "@I0057@",
-      "@I0058@",
-      "@I0059@"
+    "families": [
+      [
+        [
+          "@I0056@"
+        ],
+        [
+          "@I0057@",
+          "@I0058@",
+          "@I0059@"
+        ]
+      ]
     ],
-    "spouseName": "Magdaléna Solínová",
-    "childrenNames": [
-      "Ján Solín",
-      "Slavomír Solín",
-      "Jana Solínová"
+    "familiesNames": [
+      [
+        [
+          "Magdaléna Solínová"
+        ],
+        [
+          "Ján Solín",
+          "Slavomír Solín",
+          "Jana Solínová"
+        ]
+      ]
     ]
   },
   {
@@ -1378,15 +1726,27 @@
       "Jozef Solín",
       "Anna Solínová"
     ],
-    "spouse": "@I0062@",
-    "children": [
-      "@I0063@",
-      "@I0064@"
+    "families": [
+      [
+        [
+          "@I0062@"
+        ],
+        [
+          "@I0063@",
+          "@I0064@"
+        ]
+      ]
     ],
-    "spouseName": "Štefan Marčok",
-    "childrenNames": [
-      "Štefan Marčok",
-      "Ľubica Marčoková"
+    "familiesNames": [
+      [
+        [
+          "Štefan Marčok"
+        ],
+        [
+          "Štefan Marčok",
+          "Ľubica Marčoková"
+        ]
+      ]
     ]
   },
   {
@@ -1410,10 +1770,38 @@
       "Jozef Solín",
       "Anna Solínová"
     ],
-    "spouse": "@I0071@",
-    "children": null,
-    "spouseName": "Ján Fiam",
-    "childrenNames": null
+    "families": [
+      [
+        [
+          "@I0069@"
+        ],
+        [
+          "@I0070@"
+        ]
+      ],
+      [
+        [
+          "@I0071@"
+        ],
+        null
+      ]
+    ],
+    "familiesNames": [
+      [
+        [
+          "Štefan Bystrianský"
+        ],
+        [
+          "Danica Bystrianská"
+        ]
+      ],
+      [
+        [
+          "Ján Fiam"
+        ],
+        null
+      ]
+    ]
   },
   {
     "id": "@I0053@",
@@ -1436,15 +1824,27 @@
       "Jozef Solín",
       "Anna Solínová"
     ],
-    "spouse": "@I0072@",
-    "children": [
-      "@I0073@",
-      "@I0074@"
+    "families": [
+      [
+        [
+          "@I0072@"
+        ],
+        [
+          "@I0073@",
+          "@I0074@"
+        ]
+      ]
     ],
-    "spouseName": "Emília Solínová",
-    "childrenNames": [
-      "Alena Kuráková",
-      "Luboš Solín"
+    "familiesNames": [
+      [
+        [
+          "Emília Solínová"
+        ],
+        [
+          "Alena Kuráková",
+          "Luboš Solín"
+        ]
+      ]
     ]
   },
   {
@@ -1468,17 +1868,29 @@
       "Jozef Solín",
       "Anna Solínová"
     ],
-    "spouse": "@I0081@",
-    "children": [
-      "@I0082@",
-      "@I0083@",
-      "@I0084@"
+    "families": [
+      [
+        [
+          "@I0081@"
+        ],
+        [
+          "@I0082@",
+          "@I0083@",
+          "@I0084@"
+        ]
+      ]
     ],
-    "spouseName": "Květuše Solínová",
-    "childrenNames": [
-      "Jaroslav Solín",
-      "David Solín",
-      "Miloš Solín"
+    "familiesNames": [
+      [
+        [
+          "Květuše Solínová"
+        ],
+        [
+          "Jaroslav Solín",
+          "David Solín",
+          "Miloš Solín"
+        ]
+      ]
     ]
   },
   {
@@ -1502,15 +1914,27 @@
       "Jozef Solín",
       "Anna Solínová"
     ],
-    "spouse": "@I0088@",
-    "children": [
-      "@I0089@",
-      "@I0090@"
+    "families": [
+      [
+        [
+          "@I0088@"
+        ],
+        [
+          "@I0089@",
+          "@I0090@"
+        ]
+      ]
     ],
-    "spouseName": "Elena Vargová",
-    "childrenNames": [
-      "Mário Solín",
-      "Kristián Solín"
+    "familiesNames": [
+      [
+        [
+          "Elena Vargová"
+        ],
+        [
+          "Mário Solín",
+          "Kristián Solín"
+        ]
+      ]
     ]
   },
   {
@@ -1526,17 +1950,29 @@
     "birthPlace": null,
     "deathDate": null,
     "deathPlace": null,
-    "spouse": "@I0050@",
-    "children": [
-      "@I0057@",
-      "@I0058@",
-      "@I0059@"
+    "families": [
+      [
+        [
+          "@I0050@"
+        ],
+        [
+          "@I0057@",
+          "@I0058@",
+          "@I0059@"
+        ]
+      ]
     ],
-    "spouseName": "Ján Solín",
-    "childrenNames": [
-      "Ján Solín",
-      "Slavomír Solín",
-      "Jana Solínová"
+    "familiesNames": [
+      [
+        [
+          "Ján Solín"
+        ],
+        [
+          "Ján Solín",
+          "Slavomír Solín",
+          "Jana Solínová"
+        ]
+      ]
     ]
   },
   {
@@ -1582,13 +2018,25 @@
       "Ján Solín",
       "Magdaléna Solínová"
     ],
-    "spouse": "@I0060@",
-    "children": [
-      "@I0061@"
+    "families": [
+      [
+        [
+          "@I0060@"
+        ],
+        [
+          "@I0061@"
+        ]
+      ]
     ],
-    "spouseName": "Andrea Solínová",
-    "childrenNames": [
-      "Jakub Solín"
+    "familiesNames": [
+      [
+        [
+          "Andrea Solínová"
+        ],
+        [
+          "Jakub Solín"
+        ]
+      ]
     ]
   },
   {
@@ -1626,13 +2074,25 @@
     "birthPlace": null,
     "deathDate": null,
     "deathPlace": null,
-    "spouse": "@I0058@",
-    "children": [
-      "@I0061@"
+    "families": [
+      [
+        [
+          "@I0058@"
+        ],
+        [
+          "@I0061@"
+        ]
+      ]
     ],
-    "spouseName": "Slavomír Solín",
-    "childrenNames": [
-      "Jakub Solín"
+    "familiesNames": [
+      [
+        [
+          "Slavomír Solín"
+        ],
+        [
+          "Jakub Solín"
+        ]
+      ]
     ]
   },
   {
@@ -1670,15 +2130,27 @@
     "birthPlace": null,
     "deathDate": null,
     "deathPlace": null,
-    "spouse": "@I0051@",
-    "children": [
-      "@I0063@",
-      "@I0064@"
+    "families": [
+      [
+        [
+          "@I0051@"
+        ],
+        [
+          "@I0063@",
+          "@I0064@"
+        ]
+      ]
     ],
-    "spouseName": "Mariana Marčoková",
-    "childrenNames": [
-      "Štefan Marčok",
-      "Ľubica Marčoková"
+    "familiesNames": [
+      [
+        [
+          "Mariana Marčoková"
+        ],
+        [
+          "Štefan Marčok",
+          "Ľubica Marčoková"
+        ]
+      ]
     ]
   },
   {
@@ -1702,13 +2174,21 @@
       "Štefan Marčok",
       "Mariana Marčoková"
     ],
-    "spouse": null,
-    "spouseName": null,
-    "children": [
-      "@I0065@"
+    "families": [
+      [
+        null,
+        [
+          "@I0065@"
+        ]
+      ]
     ],
-    "childrenNames": [
-      "Martin Marčok"
+    "familiesNames": [
+      [
+        null,
+        [
+          "Martin Marčok"
+        ]
+      ]
     ]
   },
   {
@@ -1732,15 +2212,27 @@
       "Štefan Marčok",
       "Mariana Marčoková"
     ],
-    "spouse": "@I0066@",
-    "children": [
-      "@I0067@",
-      "@I0068@"
+    "families": [
+      [
+        [
+          "@I0066@"
+        ],
+        [
+          "@I0067@",
+          "@I0068@"
+        ]
+      ]
     ],
-    "spouseName": "Juraj Wonder",
-    "childrenNames": [
-      "Juraj Wonder",
-      "Stela Wonder"
+    "familiesNames": [
+      [
+        [
+          "Juraj Wonder"
+        ],
+        [
+          "Juraj Wonder",
+          "Stela Wonder"
+        ]
+      ]
     ]
   },
   {
@@ -1776,15 +2268,27 @@
     "birthPlace": null,
     "deathDate": null,
     "deathPlace": null,
-    "spouse": "@I0064@",
-    "children": [
-      "@I0067@",
-      "@I0068@"
+    "families": [
+      [
+        [
+          "@I0064@"
+        ],
+        [
+          "@I0067@",
+          "@I0068@"
+        ]
+      ]
     ],
-    "spouseName": "Ľubica Marčoková",
-    "childrenNames": [
-      "Juraj Wonder",
-      "Stela Wonder"
+    "familiesNames": [
+      [
+        [
+          "Ľubica Marčoková"
+        ],
+        [
+          "Juraj Wonder",
+          "Stela Wonder"
+        ]
+      ]
     ]
   },
   {
@@ -1844,13 +2348,25 @@
     "birthPlace": null,
     "deathDate": "11 DEC 1975",
     "deathPlace": null,
-    "spouse": "@I0052@",
-    "children": [
-      "@I0070@"
+    "families": [
+      [
+        [
+          "@I0052@"
+        ],
+        [
+          "@I0070@"
+        ]
+      ]
     ],
-    "spouseName": "Margita Bystrianská",
-    "childrenNames": [
-      "Danica Bystrianská"
+    "familiesNames": [
+      [
+        [
+          "Margita Bystrianská"
+        ],
+        [
+          "Danica Bystrianská"
+        ]
+      ]
     ]
   },
   {
@@ -1888,10 +2404,22 @@
     "birthPlace": null,
     "deathDate": "JAN 2022",
     "deathPlace": null,
-    "spouse": "@I0052@",
-    "children": null,
-    "spouseName": "Margita Bystrianská",
-    "childrenNames": null
+    "families": [
+      [
+        [
+          "@I0052@"
+        ],
+        null
+      ]
+    ],
+    "familiesNames": [
+      [
+        [
+          "Margita Bystrianská"
+        ],
+        null
+      ]
+    ]
   },
   {
     "id": "@I0072@",
@@ -1906,15 +2434,27 @@
     "birthPlace": null,
     "deathDate": null,
     "deathPlace": null,
-    "spouse": "@I0053@",
-    "children": [
-      "@I0073@",
-      "@I0074@"
+    "families": [
+      [
+        [
+          "@I0053@"
+        ],
+        [
+          "@I0073@",
+          "@I0074@"
+        ]
+      ]
     ],
-    "spouseName": "Jozef Solín",
-    "childrenNames": [
-      "Alena Kuráková",
-      "Luboš Solín"
+    "familiesNames": [
+      [
+        [
+          "Jozef Solín"
+        ],
+        [
+          "Alena Kuráková",
+          "Luboš Solín"
+        ]
+      ]
     ]
   },
   {
@@ -1938,15 +2478,27 @@
       "Jozef Solín",
       "Emília Solínová"
     ],
-    "spouse": "@I0075@",
-    "children": [
-      "@I0076@",
-      "@I0077@"
+    "families": [
+      [
+        [
+          "@I0075@"
+        ],
+        [
+          "@I0076@",
+          "@I0077@"
+        ]
+      ]
     ],
-    "spouseName": "Vladimír Kurák",
-    "childrenNames": [
-      "Adam Kurák",
-      "Matej Kurák"
+    "familiesNames": [
+      [
+        [
+          "Vladimír Kurák"
+        ],
+        [
+          "Adam Kurák",
+          "Matej Kurák"
+        ]
+      ]
     ]
   },
   {
@@ -1970,15 +2522,27 @@
       "Jozef Solín",
       "Emília Solínová"
     ],
-    "spouse": "@I0078@",
-    "children": [
-      "@I0079@",
-      "@I0080@"
+    "families": [
+      [
+        [
+          "@I0078@"
+        ],
+        [
+          "@I0079@",
+          "@I0080@"
+        ]
+      ]
     ],
-    "spouseName": "Mariana Solínová",
-    "childrenNames": [
-      "Jakub Solín",
-      "Samuel Solín"
+    "familiesNames": [
+      [
+        [
+          "Mariana Solínová"
+        ],
+        [
+          "Jakub Solín",
+          "Samuel Solín"
+        ]
+      ]
     ]
   },
   {
@@ -1994,15 +2558,27 @@
     "birthPlace": null,
     "deathDate": null,
     "deathPlace": null,
-    "spouse": "@I0073@",
-    "children": [
-      "@I0076@",
-      "@I0077@"
+    "families": [
+      [
+        [
+          "@I0073@"
+        ],
+        [
+          "@I0076@",
+          "@I0077@"
+        ]
+      ]
     ],
-    "spouseName": "Alena Kuráková",
-    "childrenNames": [
-      "Adam Kurák",
-      "Matej Kurák"
+    "familiesNames": [
+      [
+        [
+          "Alena Kuráková"
+        ],
+        [
+          "Adam Kurák",
+          "Matej Kurák"
+        ]
+      ]
     ]
   },
   {
@@ -2062,15 +2638,27 @@
     "birthPlace": null,
     "deathDate": null,
     "deathPlace": null,
-    "spouse": "@I0074@",
-    "children": [
-      "@I0079@",
-      "@I0080@"
+    "families": [
+      [
+        [
+          "@I0074@"
+        ],
+        [
+          "@I0079@",
+          "@I0080@"
+        ]
+      ]
     ],
-    "spouseName": "Luboš Solín",
-    "childrenNames": [
-      "Jakub Solín",
-      "Samuel Solín"
+    "familiesNames": [
+      [
+        [
+          "Luboš Solín"
+        ],
+        [
+          "Jakub Solín",
+          "Samuel Solín"
+        ]
+      ]
     ]
   },
   {
@@ -2130,17 +2718,29 @@
     "birthPlace": null,
     "deathDate": null,
     "deathPlace": null,
-    "spouse": "@I0054@",
-    "children": [
-      "@I0082@",
-      "@I0083@",
-      "@I0084@"
+    "families": [
+      [
+        [
+          "@I0054@"
+        ],
+        [
+          "@I0082@",
+          "@I0083@",
+          "@I0084@"
+        ]
+      ]
     ],
-    "spouseName": "Jaroslav Solín",
-    "childrenNames": [
-      "Jaroslav Solín",
-      "David Solín",
-      "Miloš Solín"
+    "familiesNames": [
+      [
+        [
+          "Jaroslav Solín"
+        ],
+        [
+          "Jaroslav Solín",
+          "David Solín",
+          "Miloš Solín"
+        ]
+      ]
     ]
   },
   {
@@ -2164,15 +2764,27 @@
       "Jaroslav Solín",
       "Květuše Solínová"
     ],
-    "spouse": "@I0085@",
-    "children": [
-      "@I0086@",
-      "@I0087@"
+    "families": [
+      [
+        [
+          "@I0085@"
+        ],
+        [
+          "@I0086@",
+          "@I0087@"
+        ]
+      ]
     ],
-    "spouseName": "Pavla Solínová",
-    "childrenNames": [
-      "Filip Solín",
-      "Tereza Solínová"
+    "familiesNames": [
+      [
+        [
+          "Pavla Solínová"
+        ],
+        [
+          "Filip Solín",
+          "Tereza Solínová"
+        ]
+      ]
     ]
   },
   {
@@ -2232,15 +2844,27 @@
     "birthPlace": null,
     "deathDate": null,
     "deathPlace": null,
-    "spouse": "@I0082@",
-    "children": [
-      "@I0086@",
-      "@I0087@"
+    "families": [
+      [
+        [
+          "@I0082@"
+        ],
+        [
+          "@I0086@",
+          "@I0087@"
+        ]
+      ]
     ],
-    "spouseName": "Jaroslav Solín",
-    "childrenNames": [
-      "Filip Solín",
-      "Tereza Solínová"
+    "familiesNames": [
+      [
+        [
+          "Jaroslav Solín"
+        ],
+        [
+          "Filip Solín",
+          "Tereza Solínová"
+        ]
+      ]
     ]
   },
   {
@@ -2300,15 +2924,27 @@
     "birthPlace": null,
     "deathDate": null,
     "deathPlace": null,
-    "spouse": "@I0055@",
-    "children": [
-      "@I0089@",
-      "@I0090@"
+    "families": [
+      [
+        [
+          "@I0055@"
+        ],
+        [
+          "@I0089@",
+          "@I0090@"
+        ]
+      ]
     ],
-    "spouseName": "Anton Solín",
-    "childrenNames": [
-      "Mário Solín",
-      "Kristián Solín"
+    "familiesNames": [
+      [
+        [
+          "Anton Solín"
+        ],
+        [
+          "Mário Solín",
+          "Kristián Solín"
+        ]
+      ]
     ]
   },
   {
@@ -2376,19 +3012,31 @@
       "Alexander Matuščin",
       "Hermina Matuščinová"
     ],
-    "spouse": "@I0092@",
-    "children": [
-      "@I0093@",
-      "@I0094@",
-      "@I0095@",
-      "@I0096@"
+    "families": [
+      [
+        [
+          "@I0092@"
+        ],
+        [
+          "@I0093@",
+          "@I0094@",
+          "@I0095@",
+          "@I0096@"
+        ]
+      ]
     ],
-    "spouseName": "Anna Matuščin",
-    "childrenNames": [
-      "Mary Micallef",
-      "Jerry Steve Matuščin",
-      "Antonia Morris",
-      "Frances Mauer"
+    "familiesNames": [
+      [
+        [
+          "Anna Matuščin"
+        ],
+        [
+          "Mary Micallef",
+          "Jerry Steve Matuščin",
+          "Antonia Morris",
+          "Frances Mauer"
+        ]
+      ]
     ]
   },
   {
@@ -2404,19 +3052,31 @@
     "birthPlace": null,
     "deathDate": "4 JUN 1994",
     "deathPlace": null,
-    "spouse": "@I0091@",
-    "children": [
-      "@I0093@",
-      "@I0094@",
-      "@I0095@",
-      "@I0096@"
+    "families": [
+      [
+        [
+          "@I0091@"
+        ],
+        [
+          "@I0093@",
+          "@I0094@",
+          "@I0095@",
+          "@I0096@"
+        ]
+      ]
     ],
-    "spouseName": "Štefan Frank Matuščin",
-    "childrenNames": [
-      "Mary Micallef",
-      "Jerry Steve Matuščin",
-      "Antonia Morris",
-      "Frances Mauer"
+    "familiesNames": [
+      [
+        [
+          "Štefan Frank Matuščin"
+        ],
+        [
+          "Mary Micallef",
+          "Jerry Steve Matuščin",
+          "Antonia Morris",
+          "Frances Mauer"
+        ]
+      ]
     ]
   },
   {
@@ -2440,15 +3100,27 @@
       "Štefan Frank Matuščin",
       "Anna Matuščin"
     ],
-    "spouse": "@I0097@",
-    "children": [
-      "@I0098@",
-      "@I0099@"
+    "families": [
+      [
+        [
+          "@I0097@"
+        ],
+        [
+          "@I0098@",
+          "@I0099@"
+        ]
+      ]
     ],
-    "spouseName": "Paul Micallef",
-    "childrenNames": [
-      "Kristen Sarra",
-      "Michael Charles Micallef"
+    "familiesNames": [
+      [
+        [
+          "Paul Micallef"
+        ],
+        [
+          "Kristen Sarra",
+          "Michael Charles Micallef"
+        ]
+      ]
     ]
   },
   {
@@ -2472,15 +3144,23 @@
       "Štefan Frank Matuščin",
       "Anna Matuščin"
     ],
-    "spouse": null,
-    "spouseName": null,
-    "children": [
-      "@I0102@",
-      "@I0103@"
+    "families": [
+      [
+        null,
+        [
+          "@I0102@",
+          "@I0103@"
+        ]
+      ]
     ],
-    "childrenNames": [
-      "Alexander Matuščin",
-      "Amy Matuščin"
+    "familiesNames": [
+      [
+        null,
+        [
+          "Alexander Matuščin",
+          "Amy Matuščin"
+        ]
+      ]
     ]
   },
   {
@@ -2504,17 +3184,29 @@
       "Štefan Frank Matuščin",
       "Anna Matuščin"
     ],
-    "spouse": "@I0104@",
-    "children": [
-      "@I0105@",
-      "@I0106@",
-      "@I0107@"
+    "families": [
+      [
+        [
+          "@I0104@"
+        ],
+        [
+          "@I0105@",
+          "@I0106@",
+          "@I0107@"
+        ]
+      ]
     ],
-    "spouseName": "John Everett Morris",
-    "childrenNames": [
-      "Stephanie Morris",
-      "Sarah Morris",
-      "Stacey Morris"
+    "familiesNames": [
+      [
+        [
+          "John Everett Morris"
+        ],
+        [
+          "Stephanie Morris",
+          "Sarah Morris",
+          "Stacey Morris"
+        ]
+      ]
     ]
   },
   {
@@ -2538,15 +3230,27 @@
       "Štefan Frank Matuščin",
       "Anna Matuščin"
     ],
-    "spouse": "@I0109@",
-    "children": [
-      "@I0110@",
-      "@I0111@"
+    "families": [
+      [
+        [
+          "@I0109@"
+        ],
+        [
+          "@I0110@",
+          "@I0111@"
+        ]
+      ]
     ],
-    "spouseName": "Frank Mauer",
-    "childrenNames": [
-      "Jennifer Mauer",
-      "Richard Francis Mauer"
+    "familiesNames": [
+      [
+        [
+          "Frank Mauer"
+        ],
+        [
+          "Jennifer Mauer",
+          "Richard Francis Mauer"
+        ]
+      ]
     ]
   },
   {
@@ -2562,15 +3266,27 @@
     "birthPlace": null,
     "deathDate": null,
     "deathPlace": null,
-    "spouse": "@I0093@",
-    "children": [
-      "@I0098@",
-      "@I0099@"
+    "families": [
+      [
+        [
+          "@I0093@"
+        ],
+        [
+          "@I0098@",
+          "@I0099@"
+        ]
+      ]
     ],
-    "spouseName": "Mary Micallef",
-    "childrenNames": [
-      "Kristen Sarra",
-      "Michael Charles Micallef"
+    "familiesNames": [
+      [
+        [
+          "Mary Micallef"
+        ],
+        [
+          "Kristen Sarra",
+          "Michael Charles Micallef"
+        ]
+      ]
     ]
   },
   {
@@ -2594,10 +3310,22 @@
       "Paul Micallef",
       "Mary Micallef"
     ],
-    "spouse": "@I0100@",
-    "children": null,
-    "spouseName": "Frank Sarra",
-    "childrenNames": null
+    "families": [
+      [
+        [
+          "@I0100@"
+        ],
+        null
+      ]
+    ],
+    "familiesNames": [
+      [
+        [
+          "Frank Sarra"
+        ],
+        null
+      ]
+    ]
   },
   {
     "id": "@I0099@",
@@ -2620,10 +3348,22 @@
       "Paul Micallef",
       "Mary Micallef"
     ],
-    "spouse": "@I0101@",
-    "children": null,
-    "spouseName": "Shereen Micallef",
-    "childrenNames": null
+    "families": [
+      [
+        [
+          "@I0101@"
+        ],
+        null
+      ]
+    ],
+    "familiesNames": [
+      [
+        [
+          "Shereen Micallef"
+        ],
+        null
+      ]
+    ]
   },
   {
     "id": "@I0100@",
@@ -2638,10 +3378,22 @@
     "birthPlace": null,
     "deathDate": null,
     "deathPlace": null,
-    "spouse": "@I0098@",
-    "children": null,
-    "spouseName": "Kristen Sarra",
-    "childrenNames": null
+    "families": [
+      [
+        [
+          "@I0098@"
+        ],
+        null
+      ]
+    ],
+    "familiesNames": [
+      [
+        [
+          "Kristen Sarra"
+        ],
+        null
+      ]
+    ]
   },
   {
     "id": "@I0101@",
@@ -2656,10 +3408,22 @@
     "birthPlace": null,
     "deathDate": null,
     "deathPlace": null,
-    "spouse": "@I0099@",
-    "children": null,
-    "spouseName": "Michael Charles Micallef",
-    "childrenNames": null
+    "families": [
+      [
+        [
+          "@I0099@"
+        ],
+        null
+      ]
+    ],
+    "familiesNames": [
+      [
+        [
+          "Michael Charles Micallef"
+        ],
+        null
+      ]
+    ]
   },
   {
     "id": "@I0102@",
@@ -2714,17 +3478,29 @@
     "birthPlace": null,
     "deathDate": null,
     "deathPlace": null,
-    "spouse": "@I0095@",
-    "children": [
-      "@I0105@",
-      "@I0106@",
-      "@I0107@"
+    "families": [
+      [
+        [
+          "@I0095@"
+        ],
+        [
+          "@I0105@",
+          "@I0106@",
+          "@I0107@"
+        ]
+      ]
     ],
-    "spouseName": "Antonia Morris",
-    "childrenNames": [
-      "Stephanie Morris",
-      "Sarah Morris",
-      "Stacey Morris"
+    "familiesNames": [
+      [
+        [
+          "Antonia Morris"
+        ],
+        [
+          "Stephanie Morris",
+          "Sarah Morris",
+          "Stacey Morris"
+        ]
+      ]
     ]
   },
   {
@@ -2770,13 +3546,25 @@
       "John Everett Morris",
       "Antonia Morris"
     ],
-    "spouse": null,
-    "spouseName": null,
-    "children": [
-      "@I0108@"
+    "families": [
+      [
+        [
+          null
+        ],
+        [
+          "@I0108@"
+        ]
+      ]
     ],
-    "childrenNames": [
-      "Hayden Morris"
+    "familiesNames": [
+      [
+        [
+          null
+        ],
+        [
+          "Hayden Morris"
+        ]
+      ]
     ]
   },
   {
@@ -2834,15 +3622,27 @@
     "birthPlace": null,
     "deathDate": null,
     "deathPlace": null,
-    "spouse": "@I0096@",
-    "children": [
-      "@I0110@",
-      "@I0111@"
+    "families": [
+      [
+        [
+          "@I0096@"
+        ],
+        [
+          "@I0110@",
+          "@I0111@"
+        ]
+      ]
     ],
-    "spouseName": "Frances Mauer",
-    "childrenNames": [
-      "Jennifer Mauer",
-      "Richard Francis Mauer"
+    "familiesNames": [
+      [
+        [
+          "Frances Mauer"
+        ],
+        [
+          "Jennifer Mauer",
+          "Richard Francis Mauer"
+        ]
+      ]
     ]
   },
   {
@@ -2910,15 +3710,27 @@
       "Alexander Matuščin",
       "Hermina Matuščinová"
     ],
-    "spouse": "@I0113@",
-    "children": [
-      "@I0114@",
-      "@I0115@"
+    "families": [
+      [
+        [
+          "@I0113@"
+        ],
+        [
+          "@I0114@",
+          "@I0115@"
+        ]
+      ]
     ],
-    "spouseName": "Annastazia Matuščin",
-    "childrenNames": [
-      "Ilaine Matuščin",
-      "Janet Fowler"
+    "familiesNames": [
+      [
+        [
+          "Annastazia Matuščin"
+        ],
+        [
+          "Ilaine Matuščin",
+          "Janet Fowler"
+        ]
+      ]
     ]
   },
   {
@@ -2934,15 +3746,27 @@
     "birthPlace": null,
     "deathDate": "1996",
     "deathPlace": null,
-    "spouse": "@I0112@",
-    "children": [
-      "@I0114@",
-      "@I0115@"
+    "families": [
+      [
+        [
+          "@I0112@"
+        ],
+        [
+          "@I0114@",
+          "@I0115@"
+        ]
+      ]
     ],
-    "spouseName": "Ján Matuščin",
-    "childrenNames": [
-      "Ilaine Matuščin",
-      "Janet Fowler"
+    "familiesNames": [
+      [
+        [
+          "Ján Matuščin"
+        ],
+        [
+          "Ilaine Matuščin",
+          "Janet Fowler"
+        ]
+      ]
     ]
   },
   {
@@ -2988,10 +3812,22 @@
       "Ján Matuščin",
       "Annastazia Matuščin"
     ],
-    "spouse": "@I0116@",
-    "children": null,
-    "spouseName": "Ralph Fowler",
-    "childrenNames": null
+    "families": [
+      [
+        [
+          "@I0116@"
+        ],
+        null
+      ]
+    ],
+    "familiesNames": [
+      [
+        [
+          "Ralph Fowler"
+        ],
+        null
+      ]
+    ]
   },
   {
     "id": "@I0116@",
@@ -3006,10 +3842,22 @@
     "birthPlace": null,
     "deathDate": "2 JAN 2000",
     "deathPlace": null,
-    "spouse": "@I0115@",
-    "children": null,
-    "spouseName": "Janet Fowler",
-    "childrenNames": null
+    "families": [
+      [
+        [
+          "@I0115@"
+        ],
+        null
+      ]
+    ],
+    "familiesNames": [
+      [
+        [
+          "Janet Fowler"
+        ],
+        null
+      ]
+    ]
   },
   {
     "id": "@I0117@",
@@ -3032,19 +3880,31 @@
       "Alexander Matuščin",
       "Hermina Matuščinová"
     ],
-    "spouse": "@I0118@",
-    "children": [
-      "@I0119@",
-      "@I0120@",
-      "@I0121@",
-      "@I0122@"
+    "families": [
+      [
+        [
+          "@I0118@"
+        ],
+        [
+          "@I0119@",
+          "@I0120@",
+          "@I0121@",
+          "@I0122@"
+        ]
+      ]
     ],
-    "spouseName": "Steve Fodor",
-    "childrenNames": [
-      "Isabel Klaris",
-      "Larry Steve Fodor",
-      "Gary John Fodor",
-      "Brenda Steffes"
+    "familiesNames": [
+      [
+        [
+          "Steve Fodor"
+        ],
+        [
+          "Isabel Klaris",
+          "Larry Steve Fodor",
+          "Gary John Fodor",
+          "Brenda Steffes"
+        ]
+      ]
     ]
   },
   {
@@ -3060,19 +3920,31 @@
     "birthPlace": null,
     "deathDate": null,
     "deathPlace": null,
-    "spouse": "@I0117@",
-    "children": [
-      "@I0119@",
-      "@I0120@",
-      "@I0121@",
-      "@I0122@"
+    "families": [
+      [
+        [
+          "@I0117@"
+        ],
+        [
+          "@I0119@",
+          "@I0120@",
+          "@I0121@",
+          "@I0122@"
+        ]
+      ]
     ],
-    "spouseName": "Helen Fodor",
-    "childrenNames": [
-      "Isabel Klaris",
-      "Larry Steve Fodor",
-      "Gary John Fodor",
-      "Brenda Steffes"
+    "familiesNames": [
+      [
+        [
+          "Helen Fodor"
+        ],
+        [
+          "Isabel Klaris",
+          "Larry Steve Fodor",
+          "Gary John Fodor",
+          "Brenda Steffes"
+        ]
+      ]
     ]
   },
   {
@@ -3096,15 +3968,27 @@
       "Steve Fodor",
       "Helen Fodor"
     ],
-    "spouse": "@I0123@",
-    "children": [
-      "@I0124@",
-      "@I0125@"
+    "families": [
+      [
+        [
+          "@I0123@"
+        ],
+        [
+          "@I0124@",
+          "@I0125@"
+        ]
+      ]
     ],
-    "spouseName": "Hans Klaris",
-    "childrenNames": [
-      "Denise Leve",
-      "Terry Klaris"
+    "familiesNames": [
+      [
+        [
+          "Hans Klaris"
+        ],
+        [
+          "Denise Leve",
+          "Terry Klaris"
+        ]
+      ]
     ]
   },
   {
@@ -3128,13 +4012,25 @@
       "Steve Fodor",
       "Helen Fodor"
     ],
-    "spouse": "@I0127@",
-    "children": [
-      "@I0128@"
+    "families": [
+      [
+        [
+          "@I0127@"
+        ],
+        [
+          "@I0128@"
+        ]
+      ]
     ],
-    "spouseName": "Christina Fodor",
-    "childrenNames": [
-      "Marina Fodor"
+    "familiesNames": [
+      [
+        [
+          "Christina Fodor"
+        ],
+        [
+          "Marina Fodor"
+        ]
+      ]
     ]
   },
   {
@@ -3158,15 +4054,27 @@
       "Steve Fodor",
       "Helen Fodor"
     ],
-    "spouse": "@I0129@",
-    "children": [
-      "@I0130@",
-      "@I0131@"
+    "families": [
+      [
+        [
+          "@I0129@"
+        ],
+        [
+          "@I0130@",
+          "@I0131@"
+        ]
+      ]
     ],
-    "spouseName": "Christine Fodor",
-    "childrenNames": [
-      "Andrew Fodor",
-      "Gerratt Fodor"
+    "familiesNames": [
+      [
+        [
+          "Christine Fodor"
+        ],
+        [
+          "Andrew Fodor",
+          "Gerratt Fodor"
+        ]
+      ]
     ]
   },
   {
@@ -3190,15 +4098,27 @@
       "Steve Fodor",
       "Helen Fodor"
     ],
-    "spouse": "@I0132@",
-    "children": [
-      "@I0133@",
-      "@I0134@"
+    "families": [
+      [
+        [
+          "@I0132@"
+        ],
+        [
+          "@I0133@",
+          "@I0134@"
+        ]
+      ]
     ],
-    "spouseName": "Peter Steffes",
-    "childrenNames": [
-      "Gregory Steffes",
-      "Lisa Steffes"
+    "familiesNames": [
+      [
+        [
+          "Peter Steffes"
+        ],
+        [
+          "Gregory Steffes",
+          "Lisa Steffes"
+        ]
+      ]
     ]
   },
   {
@@ -3214,15 +4134,27 @@
     "birthPlace": null,
     "deathDate": null,
     "deathPlace": null,
-    "spouse": "@I0119@",
-    "children": [
-      "@I0124@",
-      "@I0125@"
+    "families": [
+      [
+        [
+          "@I0119@"
+        ],
+        [
+          "@I0124@",
+          "@I0125@"
+        ]
+      ]
     ],
-    "spouseName": "Isabel Klaris",
-    "childrenNames": [
-      "Denise Leve",
-      "Terry Klaris"
+    "familiesNames": [
+      [
+        [
+          "Isabel Klaris"
+        ],
+        [
+          "Denise Leve",
+          "Terry Klaris"
+        ]
+      ]
     ]
   },
   {
@@ -3246,13 +4178,25 @@
       "Hans Klaris",
       "Isabel Klaris"
     ],
-    "spouse": null,
-    "spouseName": null,
-    "children": [
-      "@I0126@"
+    "families": [
+      [
+        [
+          null
+        ],
+        [
+          "@I0126@"
+        ]
+      ]
     ],
-    "childrenNames": [
-      "Antonia Leve"
+    "familiesNames": [
+      [
+        [
+          null
+        ],
+        [
+          "Antonia Leve"
+        ]
+      ]
     ]
   },
   {
@@ -3310,13 +4254,25 @@
     "birthPlace": null,
     "deathDate": null,
     "deathPlace": null,
-    "spouse": "@I0120@",
-    "children": [
-      "@I0128@"
+    "families": [
+      [
+        [
+          "@I0120@"
+        ],
+        [
+          "@I0128@"
+        ]
+      ]
     ],
-    "spouseName": "Larry Steve Fodor",
-    "childrenNames": [
-      "Marina Fodor"
+    "familiesNames": [
+      [
+        [
+          "Larry Steve Fodor"
+        ],
+        [
+          "Marina Fodor"
+        ]
+      ]
     ]
   },
   {
@@ -3354,15 +4310,27 @@
     "birthPlace": null,
     "deathDate": null,
     "deathPlace": null,
-    "spouse": "@I0121@",
-    "children": [
-      "@I0130@",
-      "@I0131@"
+    "families": [
+      [
+        [
+          "@I0121@"
+        ],
+        [
+          "@I0130@",
+          "@I0131@"
+        ]
+      ]
     ],
-    "spouseName": "Gary John Fodor",
-    "childrenNames": [
-      "Andrew Fodor",
-      "Gerratt Fodor"
+    "familiesNames": [
+      [
+        [
+          "Gary John Fodor"
+        ],
+        [
+          "Andrew Fodor",
+          "Gerratt Fodor"
+        ]
+      ]
     ]
   },
   {
@@ -3422,15 +4390,27 @@
     "birthPlace": null,
     "deathDate": null,
     "deathPlace": null,
-    "spouse": "@I0122@",
-    "children": [
-      "@I0133@",
-      "@I0134@"
+    "families": [
+      [
+        [
+          "@I0122@"
+        ],
+        [
+          "@I0133@",
+          "@I0134@"
+        ]
+      ]
     ],
-    "spouseName": "Brenda Steffes",
-    "childrenNames": [
-      "Gregory Steffes",
-      "Lisa Steffes"
+    "familiesNames": [
+      [
+        [
+          "Brenda Steffes"
+        ],
+        [
+          "Gregory Steffes",
+          "Lisa Steffes"
+        ]
+      ]
     ]
   },
   {
@@ -3498,19 +4478,31 @@
       "Alexander Matuščin",
       "Hermina Matuščinová"
     ],
-    "spouse": "@I0137@",
-    "children": [
-      "@I0138@",
-      "@I0139@",
-      "@I0140@",
-      "@I0141@"
+    "families": [
+      [
+        [
+          "@I0137@"
+        ],
+        [
+          "@I0138@",
+          "@I0139@",
+          "@I0140@",
+          "@I0141@"
+        ]
+      ]
     ],
-    "spouseName": "John Joseph Doktorčik",
-    "childrenNames": [
-      "Mary Margaret Towers",
-      "Theresa Ann Cadotte",
-      "Thomas Edward Doktorčik",
-      "Patricia Elizabeth Glasgow"
+    "familiesNames": [
+      [
+        [
+          "John Joseph Doktorčik"
+        ],
+        [
+          "Mary Margaret Towers",
+          "Theresa Ann Cadotte",
+          "Thomas Edward Doktorčik",
+          "Patricia Elizabeth Glasgow"
+        ]
+      ]
     ]
   },
   {
@@ -3526,19 +4518,31 @@
     "birthPlace": null,
     "deathDate": "11 DEC 2007",
     "deathPlace": null,
-    "spouse": "@I0135@",
-    "children": [
-      "@I0138@",
-      "@I0139@",
-      "@I0140@",
-      "@I0141@"
+    "families": [
+      [
+        [
+          "@I0135@"
+        ],
+        [
+          "@I0138@",
+          "@I0139@",
+          "@I0140@",
+          "@I0141@"
+        ]
+      ]
     ],
-    "spouseName": "Christina Doktorčik",
-    "childrenNames": [
-      "Mary Margaret Towers",
-      "Theresa Ann Cadotte",
-      "Thomas Edward Doktorčik",
-      "Patricia Elizabeth Glasgow"
+    "familiesNames": [
+      [
+        [
+          "Christina Doktorčik"
+        ],
+        [
+          "Mary Margaret Towers",
+          "Theresa Ann Cadotte",
+          "Thomas Edward Doktorčik",
+          "Patricia Elizabeth Glasgow"
+        ]
+      ]
     ]
   },
   {
@@ -3562,15 +4566,27 @@
       "John Joseph Doktorčik",
       "Christina Doktorčik"
     ],
-    "spouse": "@I0142@",
-    "children": [
-      "@I0143@",
-      "@I0144@"
+    "families": [
+      [
+        [
+          "@I0142@"
+        ],
+        [
+          "@I0143@",
+          "@I0144@"
+        ]
+      ]
     ],
-    "spouseName": "Ken Towers",
-    "childrenNames": [
-      "Kristie Lynn Friest",
-      "Amy Marie Sebestyen"
+    "familiesNames": [
+      [
+        [
+          "Ken Towers"
+        ],
+        [
+          "Kristie Lynn Friest",
+          "Amy Marie Sebestyen"
+        ]
+      ]
     ]
   },
   {
@@ -3594,17 +4610,29 @@
       "John Joseph Doktorčik",
       "Christina Doktorčik"
     ],
-    "spouse": "@I0147@",
-    "children": [
-      "@I0148@",
-      "@I0149@",
-      "@I0150@"
+    "families": [
+      [
+        [
+          "@I0147@"
+        ],
+        [
+          "@I0148@",
+          "@I0149@",
+          "@I0150@"
+        ]
+      ]
     ],
-    "spouseName": "Wayne Cadotte",
-    "childrenNames": [
-      "David Cadotte",
-      "Michael Richard Cadotte",
-      "Adam Jeremy Cadotte"
+    "familiesNames": [
+      [
+        [
+          "Wayne Cadotte"
+        ],
+        [
+          "David Cadotte",
+          "Michael Richard Cadotte",
+          "Adam Jeremy Cadotte"
+        ]
+      ]
     ]
   },
   {
@@ -3628,15 +4656,27 @@
       "John Joseph Doktorčik",
       "Christina Doktorčik"
     ],
-    "spouse": "@I0152@",
-    "children": [
-      "@I0153@",
-      "@I0154@"
+    "families": [
+      [
+        [
+          "@I0152@"
+        ],
+        [
+          "@I0153@",
+          "@I0154@"
+        ]
+      ]
     ],
-    "spouseName": "Rosemary Doktorčik",
-    "childrenNames": [
-      "Christopher James Doktorčik",
-      "Jennifer Doktorčik"
+    "familiesNames": [
+      [
+        [
+          "Rosemary Doktorčik"
+        ],
+        [
+          "Christopher James Doktorčik",
+          "Jennifer Doktorčik"
+        ]
+      ]
     ]
   },
   {
@@ -3660,15 +4700,27 @@
       "John Joseph Doktorčik",
       "Christina Doktorčik"
     ],
-    "spouse": "@I0155@",
-    "children": [
-      "@I0156@",
-      "@I0157@"
+    "families": [
+      [
+        [
+          "@I0155@"
+        ],
+        [
+          "@I0156@",
+          "@I0157@"
+        ]
+      ]
     ],
-    "spouseName": "Graham Glasgow",
-    "childrenNames": [
-      "Emily Glasgow",
-      "Scott Glasgow"
+    "familiesNames": [
+      [
+        [
+          "Graham Glasgow"
+        ],
+        [
+          "Emily Glasgow",
+          "Scott Glasgow"
+        ]
+      ]
     ]
   },
   {
@@ -3684,15 +4736,27 @@
     "birthPlace": null,
     "deathDate": null,
     "deathPlace": null,
-    "spouse": "@I0138@",
-    "children": [
-      "@I0143@",
-      "@I0144@"
+    "families": [
+      [
+        [
+          "@I0138@"
+        ],
+        [
+          "@I0143@",
+          "@I0144@"
+        ]
+      ]
     ],
-    "spouseName": "Mary Margaret Towers",
-    "childrenNames": [
-      "Kristie Lynn Friest",
-      "Amy Marie Sebestyen"
+    "familiesNames": [
+      [
+        [
+          "Mary Margaret Towers"
+        ],
+        [
+          "Kristie Lynn Friest",
+          "Amy Marie Sebestyen"
+        ]
+      ]
     ]
   },
   {
@@ -3716,10 +4780,22 @@
       "Ken Towers",
       "Mary Margaret Towers"
     ],
-    "spouse": "@I0145@",
-    "children": null,
-    "spouseName": "Owen Friest",
-    "childrenNames": null
+    "families": [
+      [
+        [
+          "@I0145@"
+        ],
+        null
+      ]
+    ],
+    "familiesNames": [
+      [
+        [
+          "Owen Friest"
+        ],
+        null
+      ]
+    ]
   },
   {
     "id": "@I0144@",
@@ -3742,10 +4818,22 @@
       "Ken Towers",
       "Mary Margaret Towers"
     ],
-    "spouse": "@I0146@",
-    "children": null,
-    "spouseName": "Shane Sebestyen",
-    "childrenNames": null
+    "families": [
+      [
+        [
+          "@I0146@"
+        ],
+        null
+      ]
+    ],
+    "familiesNames": [
+      [
+        [
+          "Shane Sebestyen"
+        ],
+        null
+      ]
+    ]
   },
   {
     "id": "@I0145@",
@@ -3760,10 +4848,22 @@
     "birthPlace": null,
     "deathDate": null,
     "deathPlace": null,
-    "spouse": "@I0143@",
-    "children": null,
-    "spouseName": "Kristie Lynn Friest",
-    "childrenNames": null
+    "families": [
+      [
+        [
+          "@I0143@"
+        ],
+        null
+      ]
+    ],
+    "familiesNames": [
+      [
+        [
+          "Kristie Lynn Friest"
+        ],
+        null
+      ]
+    ]
   },
   {
     "id": "@I0146@",
@@ -3778,10 +4878,22 @@
     "birthPlace": null,
     "deathDate": null,
     "deathPlace": null,
-    "spouse": "@I0144@",
-    "children": null,
-    "spouseName": "Amy Marie Sebestyen",
-    "childrenNames": null
+    "families": [
+      [
+        [
+          "@I0144@"
+        ],
+        null
+      ]
+    ],
+    "familiesNames": [
+      [
+        [
+          "Amy Marie Sebestyen"
+        ],
+        null
+      ]
+    ]
   },
   {
     "id": "@I0147@",
@@ -3796,17 +4908,29 @@
     "birthPlace": null,
     "deathDate": null,
     "deathPlace": null,
-    "spouse": "@I0139@",
-    "children": [
-      "@I0148@",
-      "@I0149@",
-      "@I0150@"
+    "families": [
+      [
+        [
+          "@I0139@"
+        ],
+        [
+          "@I0148@",
+          "@I0149@",
+          "@I0150@"
+        ]
+      ]
     ],
-    "spouseName": "Theresa Ann Cadotte",
-    "childrenNames": [
-      "David Cadotte",
-      "Michael Richard Cadotte",
-      "Adam Jeremy Cadotte"
+    "familiesNames": [
+      [
+        [
+          "Theresa Ann Cadotte"
+        ],
+        [
+          "David Cadotte",
+          "Michael Richard Cadotte",
+          "Adam Jeremy Cadotte"
+        ]
+      ]
     ]
   },
   {
@@ -3852,10 +4976,22 @@
       "Wayne Cadotte",
       "Theresa Ann Cadotte"
     ],
-    "spouse": "@I0151@",
-    "children": null,
-    "spouseName": "Heather Cadotte",
-    "childrenNames": null
+    "families": [
+      [
+        [
+          "@I0151@"
+        ],
+        null
+      ]
+    ],
+    "familiesNames": [
+      [
+        [
+          "Heather Cadotte"
+        ],
+        null
+      ]
+    ]
   },
   {
     "id": "@I0150@",
@@ -3892,10 +5028,22 @@
     "birthPlace": null,
     "deathDate": null,
     "deathPlace": null,
-    "spouse": "@I0149@",
-    "children": null,
-    "spouseName": "Michael Richard Cadotte",
-    "childrenNames": null
+    "families": [
+      [
+        [
+          "@I0149@"
+        ],
+        null
+      ]
+    ],
+    "familiesNames": [
+      [
+        [
+          "Michael Richard Cadotte"
+        ],
+        null
+      ]
+    ]
   },
   {
     "id": "@I0152@",
@@ -3910,15 +5058,27 @@
     "birthPlace": null,
     "deathDate": null,
     "deathPlace": null,
-    "spouse": "@I0140@",
-    "children": [
-      "@I0153@",
-      "@I0154@"
+    "families": [
+      [
+        [
+          "@I0140@"
+        ],
+        [
+          "@I0153@",
+          "@I0154@"
+        ]
+      ]
     ],
-    "spouseName": "Thomas Edward Doktorčik",
-    "childrenNames": [
-      "Christopher James Doktorčik",
-      "Jennifer Doktorčik"
+    "familiesNames": [
+      [
+        [
+          "Thomas Edward Doktorčik"
+        ],
+        [
+          "Christopher James Doktorčik",
+          "Jennifer Doktorčik"
+        ]
+      ]
     ]
   },
   {
@@ -3978,15 +5138,27 @@
     "birthPlace": null,
     "deathDate": null,
     "deathPlace": null,
-    "spouse": "@I0141@",
-    "children": [
-      "@I0156@",
-      "@I0157@"
+    "families": [
+      [
+        [
+          "@I0141@"
+        ],
+        [
+          "@I0156@",
+          "@I0157@"
+        ]
+      ]
     ],
-    "spouseName": "Patricia Elizabeth Glasgow",
-    "childrenNames": [
-      "Emily Glasgow",
-      "Scott Glasgow"
+    "familiesNames": [
+      [
+        [
+          "Patricia Elizabeth Glasgow"
+        ],
+        [
+          "Emily Glasgow",
+          "Scott Glasgow"
+        ]
+      ]
     ]
   },
   {
@@ -4090,31 +5262,43 @@
     "birthPlace": null,
     "deathDate": "28 SEP 1963",
     "deathPlace": null,
-    "spouse": "@I0161@",
-    "children": [
-      "@I0005@",
-      "@I0162@",
-      "@I0163@",
-      "@I0164@",
-      "@I0165@",
-      "@I0166@",
-      "@I0167@",
-      "@I0168@",
-      "@I0169@",
-      "@I0170@"
+    "families": [
+      [
+        [
+          "@I0161@"
+        ],
+        [
+          "@I0005@",
+          "@I0162@",
+          "@I0163@",
+          "@I0164@",
+          "@I0165@",
+          "@I0166@",
+          "@I0167@",
+          "@I0168@",
+          "@I0169@",
+          "@I0170@"
+        ]
+      ]
     ],
-    "spouseName": "Emma-Amelia DeSerrano",
-    "childrenNames": [
-      "Louis Julius Rudolph DeSerrano",
-      "Renaat Oscar De Serranno",
-      "Violet Madeline Lea",
-      "Lillian McCloskey",
-      "Alvin DeSerrano",
-      "Allan DeSerrano",
-      "Ellen McCarthy",
-      "Jean Hyacinth Smit",
-      "Gabriel DeSerrano",
-      "Angelo Michael DeSerrano"
+    "familiesNames": [
+      [
+        [
+          "Emma-Amelia DeSerrano"
+        ],
+        [
+          "Louis Julius Rudolph DeSerrano",
+          "Renaat Oscar De Serranno",
+          "Violet Madeline Lea",
+          "Lillian McCloskey",
+          "Alvin DeSerrano",
+          "Allan DeSerrano",
+          "Ellen McCarthy",
+          "Jean Hyacinth Smit",
+          "Gabriel DeSerrano",
+          "Angelo Michael DeSerrano"
+        ]
+      ]
     ],
     "parents": [
       "@I0299@",
@@ -4138,31 +5322,43 @@
     "birthPlace": "Beveren-Roeselare, Belgium",
     "deathDate": "17 JAN 1983",
     "deathPlace": null,
-    "spouse": "@I0160@",
-    "children": [
-      "@I0005@",
-      "@I0162@",
-      "@I0163@",
-      "@I0164@",
-      "@I0165@",
-      "@I0166@",
-      "@I0167@",
-      "@I0168@",
-      "@I0169@",
-      "@I0170@"
+    "families": [
+      [
+        [
+          "@I0160@"
+        ],
+        [
+          "@I0005@",
+          "@I0162@",
+          "@I0163@",
+          "@I0164@",
+          "@I0165@",
+          "@I0166@",
+          "@I0167@",
+          "@I0168@",
+          "@I0169@",
+          "@I0170@"
+        ]
+      ]
     ],
-    "spouseName": "Alois DeSerrano",
-    "childrenNames": [
-      "Louis Julius Rudolph DeSerrano",
-      "Renaat Oscar De Serranno",
-      "Violet Madeline Lea",
-      "Lillian McCloskey",
-      "Alvin DeSerrano",
-      "Allan DeSerrano",
-      "Ellen McCarthy",
-      "Jean Hyacinth Smit",
-      "Gabriel DeSerrano",
-      "Angelo Michael DeSerrano"
+    "familiesNames": [
+      [
+        [
+          "Alois DeSerrano"
+        ],
+        [
+          "Louis Julius Rudolph DeSerrano",
+          "Renaat Oscar De Serranno",
+          "Violet Madeline Lea",
+          "Lillian McCloskey",
+          "Alvin DeSerrano",
+          "Allan DeSerrano",
+          "Ellen McCarthy",
+          "Jean Hyacinth Smit",
+          "Gabriel DeSerrano",
+          "Angelo Michael DeSerrano"
+        ]
+      ]
     ],
     "parents": [
       "@I0171@",
@@ -4194,21 +5390,33 @@
       "Alois DeSerrano",
       "Emma-Amelia DeSerrano"
     ],
-    "spouse": "@I0232@",
-    "children": [
-      "@I0233@",
-      "@I0234@",
-      "@I0235@",
-      "@I0236@",
-      "@I0237@"
+    "families": [
+      [
+        [
+          "@I0232@"
+        ],
+        [
+          "@I0233@",
+          "@I0234@",
+          "@I0235@",
+          "@I0236@",
+          "@I0237@"
+        ]
+      ]
     ],
-    "spouseName": "Mary Sinnesael",
-    "childrenNames": [
-      "Ronald DeSerrano",
-      "Jacques DeSerrano",
-      "Eric DeSerrano",
-      "Nicolas DeSerrano",
-      "Catharina DeSerrano"
+    "familiesNames": [
+      [
+        [
+          "Mary Sinnesael"
+        ],
+        [
+          "Ronald DeSerrano",
+          "Jacques DeSerrano",
+          "Eric DeSerrano",
+          "Nicolas DeSerrano",
+          "Catharina DeSerrano"
+        ]
+      ]
     ]
   },
   {
@@ -4232,19 +5440,31 @@
       "Alois DeSerrano",
       "Emma-Amelia DeSerrano"
     ],
-    "spouse": "@I0238@",
-    "children": [
-      "@I0239@",
-      "@I0243@",
-      "@I0245@",
-      "@I0249@"
+    "families": [
+      [
+        [
+          "@I0238@"
+        ],
+        [
+          "@I0239@",
+          "@I0243@",
+          "@I0245@",
+          "@I0249@"
+        ]
+      ]
     ],
-    "spouseName": "Garth Lea",
-    "childrenNames": [
-      "Gary Lea",
-      "Gail Misner",
-      "Daniel Lea",
-      "Ronald Lea"
+    "familiesNames": [
+      [
+        [
+          "Garth Lea"
+        ],
+        [
+          "Gary Lea",
+          "Gail Misner",
+          "Daniel Lea",
+          "Ronald Lea"
+        ]
+      ]
     ]
   },
   {
@@ -4268,17 +5488,29 @@
       "Alois DeSerrano",
       "Emma-Amelia DeSerrano"
     ],
-    "spouse": "@I0253@",
-    "children": [
-      "@I0254@",
-      "@I0255@",
-      "@I0258@"
+    "families": [
+      [
+        [
+          "@I0253@"
+        ],
+        [
+          "@I0254@",
+          "@I0255@",
+          "@I0258@"
+        ]
+      ]
     ],
-    "spouseName": "Peter McCloskey",
-    "childrenNames": [
-      "James McCloskey",
-      "Nancy Collver",
-      "Leo McCloskey"
+    "familiesNames": [
+      [
+        [
+          "Peter McCloskey"
+        ],
+        [
+          "James McCloskey",
+          "Nancy Collver",
+          "Leo McCloskey"
+        ]
+      ]
     ]
   },
   {
@@ -4324,21 +5556,33 @@
       "Alois DeSerrano",
       "Emma-Amelia DeSerrano"
     ],
-    "spouse": "@I0263@",
-    "children": [
-      "@I0274@",
-      "@I0276@",
-      "@I0277@",
-      "@I0278@",
-      "@I0280@"
+    "families": [
+      [
+        [
+          "@I0263@"
+        ],
+        [
+          "@I0274@",
+          "@I0276@",
+          "@I0277@",
+          "@I0278@",
+          "@I0280@"
+        ]
+      ]
     ],
-    "spouseName": "Mary DeSerrano",
-    "childrenNames": [
-      "Debbie Friesen",
-      "Zane DeSerrano",
-      "Maureen Berdan",
-      "Laurie Danchak",
-      "Allan DeSerrano"
+    "familiesNames": [
+      [
+        [
+          "Mary DeSerrano"
+        ],
+        [
+          "Debbie Friesen",
+          "Zane DeSerrano",
+          "Maureen Berdan",
+          "Laurie Danchak",
+          "Allan DeSerrano"
+        ]
+      ]
     ]
   },
   {
@@ -4362,15 +5606,27 @@
       "Alois DeSerrano",
       "Emma-Amelia DeSerrano"
     ],
-    "spouse": "@I0271@",
-    "children": [
-      "@I0272@",
-      "@I0273@"
+    "families": [
+      [
+        [
+          "@I0271@"
+        ],
+        [
+          "@I0272@",
+          "@I0273@"
+        ]
+      ]
     ],
-    "spouseName": "Eugene McCarthy",
-    "childrenNames": [
-      "Timothy McCarthy",
-      "Thomas McCarthy"
+    "familiesNames": [
+      [
+        [
+          "Eugene McCarthy"
+        ],
+        [
+          "Timothy McCarthy",
+          "Thomas McCarthy"
+        ]
+      ]
     ]
   },
   {
@@ -4394,17 +5650,29 @@
       "Alois DeSerrano",
       "Emma-Amelia DeSerrano"
     ],
-    "spouse": "@I0264@",
-    "children": [
-      "@I0265@",
-      "@I0267@",
-      "@I0269@"
+    "families": [
+      [
+        [
+          "@I0264@"
+        ],
+        [
+          "@I0265@",
+          "@I0267@",
+          "@I0269@"
+        ]
+      ]
     ],
-    "spouseName": "Harry Henricus Smit",
-    "childrenNames": [
-      "Valerie Smit",
-      "Michele Druiett",
-      "Jennifer Wintemute"
+    "familiesNames": [
+      [
+        [
+          "Harry Henricus Smit"
+        ],
+        [
+          "Valerie Smit",
+          "Michele Druiett",
+          "Jennifer Wintemute"
+        ]
+      ]
     ]
   },
   {
@@ -4450,17 +5718,29 @@
       "Alois DeSerrano",
       "Emma-Amelia DeSerrano"
     ],
-    "spouse": "@I0270@",
-    "children": [
-      "@I0281@",
-      "@I0282@",
-      "@I0284@"
+    "families": [
+      [
+        [
+          "@I0270@"
+        ],
+        [
+          "@I0281@",
+          "@I0282@",
+          "@I0284@"
+        ]
+      ]
     ],
-    "spouseName": "Mary Ann DeSerrano",
-    "childrenNames": [
-      "Theresa DeSerrano",
-      "Lynda Amorim",
-      "Carla VanKessel"
+    "familiesNames": [
+      [
+        [
+          "Mary Ann DeSerrano"
+        ],
+        [
+          "Theresa DeSerrano",
+          "Lynda Amorim",
+          "Carla VanKessel"
+        ]
+      ]
     ]
   },
   {
@@ -4476,21 +5756,33 @@
     "birthPlace": "Koolskamp, Belgium",
     "deathDate": "1 JUN 1939",
     "deathPlace": "Hooglede, Belgium",
-    "spouse": "@I0172@",
-    "children": [
-      "@I0161@",
-      "@I0288@",
-      "@I0290@",
-      "@I0291@",
-      "@I0292@"
+    "families": [
+      [
+        [
+          "@I0172@"
+        ],
+        [
+          "@I0161@",
+          "@I0288@",
+          "@I0290@",
+          "@I0291@",
+          "@I0292@"
+        ]
+      ]
     ],
-    "spouseName": "Pharailde Marie Maddens",
-    "childrenNames": [
-      "Emma-Amelia DeSerrano",
-      "Paula Kaes",
-      "George Devos",
-      "Paul Devos",
-      "Rene Devos"
+    "familiesNames": [
+      [
+        [
+          "Pharailde Marie Maddens"
+        ],
+        [
+          "Emma-Amelia DeSerrano",
+          "Paula Kaes",
+          "George Devos",
+          "Paul Devos",
+          "Rene Devos"
+        ]
+      ]
     ],
     "parents": [
       "@I0173@",
@@ -4514,21 +5806,33 @@
     "birthPlace": "Ardooie, Belgium",
     "deathDate": "6 AUG 1933",
     "deathPlace": "Hooglede, Belgium",
-    "spouse": "@I0171@",
-    "children": [
-      "@I0161@",
-      "@I0288@",
-      "@I0290@",
-      "@I0291@",
-      "@I0292@"
+    "families": [
+      [
+        [
+          "@I0171@"
+        ],
+        [
+          "@I0161@",
+          "@I0288@",
+          "@I0290@",
+          "@I0291@",
+          "@I0292@"
+        ]
+      ]
     ],
-    "spouseName": "Jordaen August Devos",
-    "childrenNames": [
-      "Emma-Amelia DeSerrano",
-      "Paula Kaes",
-      "George Devos",
-      "Paul Devos",
-      "Rene Devos"
+    "familiesNames": [
+      [
+        [
+          "Jordaen August Devos"
+        ],
+        [
+          "Emma-Amelia DeSerrano",
+          "Paula Kaes",
+          "George Devos",
+          "Paul Devos",
+          "Rene Devos"
+        ]
+      ]
     ],
     "parents": [
       "@I0202@",
@@ -4552,13 +5856,25 @@
     "birthPlace": "Kachtem, Belgium",
     "deathDate": "17 JUL 1903",
     "deathPlace": "Koolskamp, Belgium",
-    "spouse": "@I0174@",
-    "children": [
-      "@I0171@"
+    "families": [
+      [
+        [
+          "@I0174@"
+        ],
+        [
+          "@I0171@"
+        ]
+      ]
     ],
-    "spouseName": "Virginie Malfait",
-    "childrenNames": [
-      "Jordaen August Devos"
+    "familiesNames": [
+      [
+        [
+          "Virginie Malfait"
+        ],
+        [
+          "Jordaen August Devos"
+        ]
+      ]
     ],
     "parents": [
       "@I0175@",
@@ -4582,13 +5898,25 @@
     "birthPlace": "Koolskamp, Belgium",
     "deathDate": "7 APR 1902",
     "deathPlace": "Koolskamp, Belgium",
-    "spouse": "@I0173@",
-    "children": [
-      "@I0171@"
+    "families": [
+      [
+        [
+          "@I0173@"
+        ],
+        [
+          "@I0171@"
+        ]
+      ]
     ],
-    "spouseName": "Josephus Devos",
-    "childrenNames": [
-      "Jordaen August Devos"
+    "familiesNames": [
+      [
+        [
+          "Josephus Devos"
+        ],
+        [
+          "Jordaen August Devos"
+        ]
+      ]
     ],
     "parents": [
       "@I0189@",
@@ -4612,13 +5940,25 @@
     "birthPlace": "Rumbeke, Belgium",
     "deathDate": "14 DEC 1836",
     "deathPlace": "Zwevezele, Belgium",
-    "spouse": "@I0176@",
-    "children": [
-      "@I0173@"
+    "families": [
+      [
+        [
+          "@I0176@"
+        ],
+        [
+          "@I0173@"
+        ]
+      ]
     ],
-    "spouseName": "Maria Franc. Keersbilck",
-    "childrenNames": [
-      "Josephus Devos"
+    "familiesNames": [
+      [
+        [
+          "Maria Franc. Keersbilck"
+        ],
+        [
+          "Josephus Devos"
+        ]
+      ]
     ],
     "parents": [
       "@I0177@",
@@ -4642,13 +5982,25 @@
     "birthPlace": "Ardooie, Belgium",
     "deathDate": "3 NOV 1816",
     "deathPlace": "Koolskamp, Belgium",
-    "spouse": "@I0175@",
-    "children": [
-      "@I0173@"
+    "families": [
+      [
+        [
+          "@I0175@"
+        ],
+        [
+          "@I0173@"
+        ]
+      ]
     ],
-    "spouseName": "Benedictus Devos",
-    "childrenNames": [
-      "Josephus Devos"
+    "familiesNames": [
+      [
+        [
+          "Benedictus Devos"
+        ],
+        [
+          "Josephus Devos"
+        ]
+      ]
     ],
     "parents": [
       "@I0183@",
@@ -4672,13 +6024,25 @@
     "birthPlace": "Rumbeke, Belgium",
     "deathDate": "18 APR 1792",
     "deathPlace": "Rumbeke, Belgium",
-    "spouse": "@I0178@",
-    "children": [
-      "@I0175@"
+    "families": [
+      [
+        [
+          "@I0178@"
+        ],
+        [
+          "@I0175@"
+        ]
+      ]
     ],
-    "spouseName": "Isabella Vangheluwe",
-    "childrenNames": [
-      "Benedictus Devos"
+    "familiesNames": [
+      [
+        [
+          "Isabella Vangheluwe"
+        ],
+        [
+          "Benedictus Devos"
+        ]
+      ]
     ],
     "parents": [
       "@I0179@",
@@ -4702,13 +6066,25 @@
     "birthPlace": "Rumbeke, Belgium",
     "deathDate": "18 JAN 1820",
     "deathPlace": "Rumbeke, Belgium",
-    "spouse": "@I0177@",
-    "children": [
-      "@I0175@"
+    "families": [
+      [
+        [
+          "@I0177@"
+        ],
+        [
+          "@I0175@"
+        ]
+      ]
     ],
-    "spouseName": "Dominicus Devos",
-    "childrenNames": [
-      "Benedictus Devos"
+    "familiesNames": [
+      [
+        [
+          "Dominicus Devos"
+        ],
+        [
+          "Benedictus Devos"
+        ]
+      ]
     ],
     "parents": [
       "@I0181@",
@@ -4732,13 +6108,25 @@
     "birthPlace": "Rumbeke, Belgium",
     "deathDate": "3 DEC 1751",
     "deathPlace": "Rumbeke, Belgium",
-    "spouse": "@I0180@",
-    "children": [
-      "@I0177@"
+    "families": [
+      [
+        [
+          "@I0180@"
+        ],
+        [
+          "@I0177@"
+        ]
+      ]
     ],
-    "spouseName": "Isabella Cl. Vangheluwe",
-    "childrenNames": [
-      "Dominicus Devos"
+    "familiesNames": [
+      [
+        [
+          "Isabella Cl. Vangheluwe"
+        ],
+        [
+          "Dominicus Devos"
+        ]
+      ]
     ]
   },
   {
@@ -4754,13 +6142,25 @@
     "birthPlace": "Rumbeke, Belgium",
     "deathDate": "25 APR 1757",
     "deathPlace": "Rumbeke, Belgium",
-    "spouse": "@I0179@",
-    "children": [
-      "@I0177@"
+    "families": [
+      [
+        [
+          "@I0179@"
+        ],
+        [
+          "@I0177@"
+        ]
+      ]
     ],
-    "spouseName": "Marinus Devos",
-    "childrenNames": [
-      "Dominicus Devos"
+    "familiesNames": [
+      [
+        [
+          "Marinus Devos"
+        ],
+        [
+          "Dominicus Devos"
+        ]
+      ]
     ]
   },
   {
@@ -4776,13 +6176,25 @@
     "birthPlace": null,
     "deathDate": "26 MAR 1786",
     "deathPlace": "Rumbeke, Belgium",
-    "spouse": "@I0182@",
-    "children": [
-      "@I0178@"
+    "families": [
+      [
+        [
+          "@I0182@"
+        ],
+        [
+          "@I0178@"
+        ]
+      ]
     ],
-    "spouseName": "Maria Catharina Anne",
-    "childrenNames": [
-      "Isabella Vangheluwe"
+    "familiesNames": [
+      [
+        [
+          "Maria Catharina Anne"
+        ],
+        [
+          "Isabella Vangheluwe"
+        ]
+      ]
     ]
   },
   {
@@ -4798,13 +6210,25 @@
     "birthPlace": "Roeselare, Belgium",
     "deathDate": "10 MAR 1779",
     "deathPlace": "Rumbeke, Belgium",
-    "spouse": "@I0181@",
-    "children": [
-      "@I0178@"
+    "families": [
+      [
+        [
+          "@I0181@"
+        ],
+        [
+          "@I0178@"
+        ]
+      ]
     ],
-    "spouseName": "Augustinus Vangheluwe",
-    "childrenNames": [
-      "Isabella Vangheluwe"
+    "familiesNames": [
+      [
+        [
+          "Augustinus Vangheluwe"
+        ],
+        [
+          "Isabella Vangheluwe"
+        ]
+      ]
     ]
   },
   {
@@ -4820,13 +6244,25 @@
     "birthPlace": "Ardooie, Belgium",
     "deathDate": "1 JAN 1806",
     "deathPlace": "Ardooie, Belgium",
-    "spouse": "@I0184@",
-    "children": [
-      "@I0176@"
+    "families": [
+      [
+        [
+          "@I0184@"
+        ],
+        [
+          "@I0176@"
+        ]
+      ]
     ],
-    "spouseName": "Maria Joanna Desmet",
-    "childrenNames": [
-      "Maria Franc. Keersbilck"
+    "familiesNames": [
+      [
+        [
+          "Maria Joanna Desmet"
+        ],
+        [
+          "Maria Franc. Keersbilck"
+        ]
+      ]
     ],
     "parents": [
       "@I0185@",
@@ -4850,13 +6286,25 @@
     "birthPlace": "Ardooie, Belgium",
     "deathDate": null,
     "deathPlace": null,
-    "spouse": "@I0183@",
-    "children": [
-      "@I0176@"
+    "families": [
+      [
+        [
+          "@I0183@"
+        ],
+        [
+          "@I0176@"
+        ]
+      ]
     ],
-    "spouseName": "Bernardus Vankeesbelck",
-    "childrenNames": [
-      "Maria Franc. Keersbilck"
+    "familiesNames": [
+      [
+        [
+          "Bernardus Vankeesbelck"
+        ],
+        [
+          "Maria Franc. Keersbilck"
+        ]
+      ]
     ],
     "parents": [
       "@I0187@",
@@ -4880,13 +6328,25 @@
     "birthPlace": null,
     "deathDate": null,
     "deathPlace": null,
-    "spouse": "@I0186@",
-    "children": [
-      "@I0183@"
+    "families": [
+      [
+        [
+          "@I0186@"
+        ],
+        [
+          "@I0183@"
+        ]
+      ]
     ],
-    "spouseName": "Maria Pauwels",
-    "childrenNames": [
-      "Bernardus Vankeesbelck"
+    "familiesNames": [
+      [
+        [
+          "Maria Pauwels"
+        ],
+        [
+          "Bernardus Vankeesbelck"
+        ]
+      ]
     ]
   },
   {
@@ -4902,13 +6362,25 @@
     "birthPlace": null,
     "deathDate": "30 JUN 1758",
     "deathPlace": "Ardooie, Belgium",
-    "spouse": "@I0185@",
-    "children": [
-      "@I0183@"
+    "families": [
+      [
+        [
+          "@I0185@"
+        ],
+        [
+          "@I0183@"
+        ]
+      ]
     ],
-    "spouseName": "Ludovicus Vankeesbelck",
-    "childrenNames": [
-      "Bernardus Vankeesbelck"
+    "familiesNames": [
+      [
+        [
+          "Ludovicus Vankeesbelck"
+        ],
+        [
+          "Bernardus Vankeesbelck"
+        ]
+      ]
     ]
   },
   {
@@ -4924,13 +6396,25 @@
     "birthPlace": null,
     "deathDate": "6 DEC 1779",
     "deathPlace": "Ardooie, Belgium",
-    "spouse": "@I0188@",
-    "children": [
-      "@I0184@"
+    "families": [
+      [
+        [
+          "@I0188@"
+        ],
+        [
+          "@I0184@"
+        ]
+      ]
     ],
-    "spouseName": "Adriana Messelis",
-    "childrenNames": [
-      "Maria Joanna Desmet"
+    "familiesNames": [
+      [
+        [
+          "Adriana Messelis"
+        ],
+        [
+          "Maria Joanna Desmet"
+        ]
+      ]
     ]
   },
   {
@@ -4946,13 +6430,25 @@
     "birthPlace": "Ardooie, Belgium",
     "deathDate": "2 MAY 1767",
     "deathPlace": "Ardooie, Belgium",
-    "spouse": "@I0187@",
-    "children": [
-      "@I0184@"
+    "families": [
+      [
+        [
+          "@I0187@"
+        ],
+        [
+          "@I0184@"
+        ]
+      ]
     ],
-    "spouseName": "Emanuel Desmet",
-    "childrenNames": [
-      "Maria Joanna Desmet"
+    "familiesNames": [
+      [
+        [
+          "Emanuel Desmet"
+        ],
+        [
+          "Maria Joanna Desmet"
+        ]
+      ]
     ]
   },
   {
@@ -4968,13 +6464,25 @@
     "birthPlace": "Ledegem, Belgium",
     "deathDate": "25 AUG 1848",
     "deathPlace": "Koolskamp, Belgium",
-    "spouse": "@I0190@",
-    "children": [
-      "@I0174@"
+    "families": [
+      [
+        [
+          "@I0190@"
+        ],
+        [
+          "@I0174@"
+        ]
+      ]
     ],
-    "spouseName": "Francisca Oosterlinck",
-    "childrenNames": [
-      "Virginie Malfait"
+    "familiesNames": [
+      [
+        [
+          "Francisca Oosterlinck"
+        ],
+        [
+          "Virginie Malfait"
+        ]
+      ]
     ],
     "parents": [
       "@I0191@",
@@ -4998,13 +6506,25 @@
     "birthPlace": "Zwevezele, Belgium",
     "deathDate": "12 JUN 1855",
     "deathPlace": "Koolskamp, Belgium",
-    "spouse": "@I0189@",
-    "children": [
-      "@I0174@"
+    "families": [
+      [
+        [
+          "@I0189@"
+        ],
+        [
+          "@I0174@"
+        ]
+      ]
     ],
-    "spouseName": "Petrus Jacobus Malfait",
-    "childrenNames": [
-      "Virginie Malfait"
+    "familiesNames": [
+      [
+        [
+          "Petrus Jacobus Malfait"
+        ],
+        [
+          "Virginie Malfait"
+        ]
+      ]
     ],
     "parents": [
       "@I0196@",
@@ -5028,13 +6548,25 @@
     "birthPlace": null,
     "deathDate": "5 JAN 1809",
     "deathPlace": "Moorslede, Belgium",
-    "spouse": "@I0192@",
-    "children": [
-      "@I0189@"
+    "families": [
+      [
+        [
+          "@I0192@"
+        ],
+        [
+          "@I0189@"
+        ]
+      ]
     ],
-    "spouseName": "Maria Franc. Vermeulen",
-    "childrenNames": [
-      "Petrus Jacobus Malfait"
+    "familiesNames": [
+      [
+        [
+          "Maria Franc. Vermeulen"
+        ],
+        [
+          "Petrus Jacobus Malfait"
+        ]
+      ]
     ],
     "parents": [
       "@I0193@"
@@ -5056,13 +6588,25 @@
     "birthPlace": "Hooglede, Belgium",
     "deathDate": "11 OCT 1780",
     "deathPlace": "Ledegem, Belgium",
-    "spouse": "@I0191@",
-    "children": [
-      "@I0189@"
+    "families": [
+      [
+        [
+          "@I0191@"
+        ],
+        [
+          "@I0189@"
+        ]
+      ]
     ],
-    "spouseName": "Petrus Jacobus Malfait",
-    "childrenNames": [
-      "Petrus Jacobus Malfait"
+    "familiesNames": [
+      [
+        [
+          "Petrus Jacobus Malfait"
+        ],
+        [
+          "Petrus Jacobus Malfait"
+        ]
+      ]
     ],
     "parents": [
       "@I0194@",
@@ -5086,13 +6630,21 @@
     "birthPlace": null,
     "deathDate": null,
     "deathPlace": null,
-    "spouse": null,
-    "spouseName": null,
-    "children": [
-      "@I0191@"
+    "families": [
+      [
+        null,
+        [
+          "@I0191@"
+        ]
+      ]
     ],
-    "childrenNames": [
-      "Petrus Jacobus Malfait"
+    "familiesNames": [
+      [
+        null,
+        [
+          "Petrus Jacobus Malfait"
+        ]
+      ]
     ]
   },
   {
@@ -5108,13 +6660,25 @@
     "birthPlace": null,
     "deathDate": null,
     "deathPlace": null,
-    "spouse": "@I0195@",
-    "children": [
-      "@I0192@"
+    "families": [
+      [
+        [
+          "@I0195@"
+        ],
+        [
+          "@I0192@"
+        ]
+      ]
     ],
-    "spouseName": "Anna Maria Feders",
-    "childrenNames": [
-      "Maria Franc. Vermeulen"
+    "familiesNames": [
+      [
+        [
+          "Anna Maria Feders"
+        ],
+        [
+          "Maria Franc. Vermeulen"
+        ]
+      ]
     ]
   },
   {
@@ -5130,13 +6694,25 @@
     "birthPlace": null,
     "deathDate": null,
     "deathPlace": null,
-    "spouse": "@I0194@",
-    "children": [
-      "@I0192@"
+    "families": [
+      [
+        [
+          "@I0194@"
+        ],
+        [
+          "@I0192@"
+        ]
+      ]
     ],
-    "spouseName": "Jacobus Vermeulen",
-    "childrenNames": [
-      "Maria Franc. Vermeulen"
+    "familiesNames": [
+      [
+        [
+          "Jacobus Vermeulen"
+        ],
+        [
+          "Maria Franc. Vermeulen"
+        ]
+      ]
     ]
   },
   {
@@ -5152,13 +6728,25 @@
     "birthPlace": null,
     "deathDate": "9 OCT 1803",
     "deathPlace": null,
-    "spouse": "@I0197@",
-    "children": [
-      "@I0190@"
+    "families": [
+      [
+        [
+          "@I0197@"
+        ],
+        [
+          "@I0190@"
+        ]
+      ]
     ],
-    "spouseName": "Maria Johanna De Clercq",
-    "childrenNames": [
-      "Francisca Oosterlinck"
+    "familiesNames": [
+      [
+        [
+          "Maria Johanna De Clercq"
+        ],
+        [
+          "Francisca Oosterlinck"
+        ]
+      ]
     ],
     "parents": [
       "@I0198@",
@@ -5182,13 +6770,25 @@
     "birthPlace": null,
     "deathDate": "31 JUL 1829",
     "deathPlace": "Koolskamp, Belgium",
-    "spouse": "@I0196@",
-    "children": [
-      "@I0190@"
+    "families": [
+      [
+        [
+          "@I0196@"
+        ],
+        [
+          "@I0190@"
+        ]
+      ]
     ],
-    "spouseName": "Joannes Oosterlinck",
-    "childrenNames": [
-      "Francisca Oosterlinck"
+    "familiesNames": [
+      [
+        [
+          "Joannes Oosterlinck"
+        ],
+        [
+          "Francisca Oosterlinck"
+        ]
+      ]
     ],
     "parents": [
       "@I0200@",
@@ -5212,13 +6812,25 @@
     "birthPlace": null,
     "deathDate": null,
     "deathPlace": null,
-    "spouse": "@I0199@",
-    "children": [
-      "@I0196@"
+    "families": [
+      [
+        [
+          "@I0199@"
+        ],
+        [
+          "@I0196@"
+        ]
+      ]
     ],
-    "spouseName": "Petronilla DeSerrano",
-    "childrenNames": [
-      "Joannes Oosterlinck"
+    "familiesNames": [
+      [
+        [
+          "Petronilla DeSerrano"
+        ],
+        [
+          "Joannes Oosterlinck"
+        ]
+      ]
     ]
   },
   {
@@ -5234,13 +6846,25 @@
     "birthPlace": null,
     "deathDate": null,
     "deathPlace": null,
-    "spouse": "@I0198@",
-    "children": [
-      "@I0196@"
+    "families": [
+      [
+        [
+          "@I0198@"
+        ],
+        [
+          "@I0196@"
+        ]
+      ]
     ],
-    "spouseName": "Franciscus Oosterlinck",
-    "childrenNames": [
-      "Joannes Oosterlinck"
+    "familiesNames": [
+      [
+        [
+          "Franciscus Oosterlinck"
+        ],
+        [
+          "Joannes Oosterlinck"
+        ]
+      ]
     ],
     "parents": [
       "@I0309@",
@@ -5264,13 +6888,25 @@
     "birthPlace": null,
     "deathDate": null,
     "deathPlace": null,
-    "spouse": "@I0201@",
-    "children": [
-      "@I0197@"
+    "families": [
+      [
+        [
+          "@I0201@"
+        ],
+        [
+          "@I0197@"
+        ]
+      ]
     ],
-    "spouseName": "Joanna Desloovere",
-    "childrenNames": [
-      "Maria Johanna De Clercq"
+    "familiesNames": [
+      [
+        [
+          "Joanna Desloovere"
+        ],
+        [
+          "Maria Johanna De Clercq"
+        ]
+      ]
     ]
   },
   {
@@ -5286,13 +6922,25 @@
     "birthPlace": null,
     "deathDate": null,
     "deathPlace": null,
-    "spouse": "@I0200@",
-    "children": [
-      "@I0197@"
+    "families": [
+      [
+        [
+          "@I0200@"
+        ],
+        [
+          "@I0197@"
+        ]
+      ]
     ],
-    "spouseName": "Petrus Joannes De Clercq",
-    "childrenNames": [
-      "Maria Johanna De Clercq"
+    "familiesNames": [
+      [
+        [
+          "Petrus Joannes De Clercq"
+        ],
+        [
+          "Maria Johanna De Clercq"
+        ]
+      ]
     ]
   },
   {
@@ -5308,13 +6956,25 @@
     "birthPlace": "Beveren-Roeselare, Belgium",
     "deathDate": "29 MAY 1883",
     "deathPlace": "Beveren-Roeselare, Belgium",
-    "spouse": "@I0203@",
-    "children": [
-      "@I0172@"
+    "families": [
+      [
+        [
+          "@I0203@"
+        ],
+        [
+          "@I0172@"
+        ]
+      ]
     ],
-    "spouseName": "Barbara Dekeersgieter",
-    "childrenNames": [
-      "Pharailde Marie Maddens"
+    "familiesNames": [
+      [
+        [
+          "Barbara Dekeersgieter"
+        ],
+        [
+          "Pharailde Marie Maddens"
+        ]
+      ]
     ],
     "parents": [
       "@I0204@",
@@ -5338,13 +6998,25 @@
     "birthPlace": "Beveren-Roeselare, Belgium",
     "deathDate": "6 FEB 1907",
     "deathPlace": "Beveren-Roeselare, Belgium",
-    "spouse": "@I0202@",
-    "children": [
-      "@I0172@"
+    "families": [
+      [
+        [
+          "@I0202@"
+        ],
+        [
+          "@I0172@"
+        ]
+      ]
     ],
-    "spouseName": "Joannes Maddens",
-    "childrenNames": [
-      "Pharailde Marie Maddens"
+    "familiesNames": [
+      [
+        [
+          "Joannes Maddens"
+        ],
+        [
+          "Pharailde Marie Maddens"
+        ]
+      ]
     ],
     "parents": [
       "@I0218@",
@@ -5368,13 +7040,25 @@
     "birthPlace": "Beveren-Roeselare, Belgium",
     "deathDate": "4 AUG 1876",
     "deathPlace": "Oostnieuwkerke, Belgium",
-    "spouse": "@I0205@",
-    "children": [
-      "@I0202@"
+    "families": [
+      [
+        [
+          "@I0205@"
+        ],
+        [
+          "@I0202@"
+        ]
+      ]
     ],
-    "spouseName": "Godeliva Vandewalle",
-    "childrenNames": [
-      "Joannes Maddens"
+    "familiesNames": [
+      [
+        [
+          "Godeliva Vandewalle"
+        ],
+        [
+          "Joannes Maddens"
+        ]
+      ]
     ],
     "parents": [
       "@I0206@",
@@ -5398,13 +7082,25 @@
     "birthPlace": "Lichtervelde, Belgium",
     "deathDate": "10 JUL 1852",
     "deathPlace": "Ardooie, Belgium",
-    "spouse": "@I0204@",
-    "children": [
-      "@I0202@"
+    "families": [
+      [
+        [
+          "@I0204@"
+        ],
+        [
+          "@I0202@"
+        ]
+      ]
     ],
-    "spouseName": "Petrus Maddens",
-    "childrenNames": [
-      "Joannes Maddens"
+    "familiesNames": [
+      [
+        [
+          "Petrus Maddens"
+        ],
+        [
+          "Joannes Maddens"
+        ]
+      ]
     ],
     "parents": [
       "@I0212@",
@@ -5428,13 +7124,25 @@
     "birthPlace": "Izegem, Belgium",
     "deathDate": "18 MAY 1830",
     "deathPlace": "Beveren-Roeselare, Belgium",
-    "spouse": "@I0207@",
-    "children": [
-      "@I0204@"
+    "families": [
+      [
+        [
+          "@I0207@"
+        ],
+        [
+          "@I0204@"
+        ]
+      ]
     ],
-    "spouseName": "Rosalia Boutens",
-    "childrenNames": [
-      "Petrus Maddens"
+    "familiesNames": [
+      [
+        [
+          "Rosalia Boutens"
+        ],
+        [
+          "Petrus Maddens"
+        ]
+      ]
     ],
     "parents": [
       "@I0208@",
@@ -5458,13 +7166,25 @@
     "birthPlace": "Gits, Belgium",
     "deathDate": "1 NOV 1794",
     "deathPlace": "Beveren-Roeselare, Belgium",
-    "spouse": "@I0206@",
-    "children": [
-      "@I0204@"
+    "families": [
+      [
+        [
+          "@I0206@"
+        ],
+        [
+          "@I0204@"
+        ]
+      ]
     ],
-    "spouseName": "Petrus Josephus Maddens",
-    "childrenNames": [
-      "Petrus Maddens"
+    "familiesNames": [
+      [
+        [
+          "Petrus Josephus Maddens"
+        ],
+        [
+          "Petrus Maddens"
+        ]
+      ]
     ],
     "parents": [
       "@I0210@",
@@ -5488,13 +7208,25 @@
     "birthPlace": null,
     "deathDate": "20 JUL 1757",
     "deathPlace": "Izegem, Belgium",
-    "spouse": "@I0209@",
-    "children": [
-      "@I0206@"
+    "families": [
+      [
+        [
+          "@I0209@"
+        ],
+        [
+          "@I0206@"
+        ]
+      ]
     ],
-    "spouseName": "Maria Jacoba Gellinck",
-    "childrenNames": [
-      "Petrus Josephus Maddens"
+    "familiesNames": [
+      [
+        [
+          "Maria Jacoba Gellinck"
+        ],
+        [
+          "Petrus Josephus Maddens"
+        ]
+      ]
     ]
   },
   {
@@ -5510,13 +7242,25 @@
     "birthPlace": null,
     "deathDate": "26 FEB 1755",
     "deathPlace": "Izegem, Belgium",
-    "spouse": "@I0208@",
-    "children": [
-      "@I0206@"
+    "families": [
+      [
+        [
+          "@I0208@"
+        ],
+        [
+          "@I0206@"
+        ]
+      ]
     ],
-    "spouseName": "Guillielmus Maddens",
-    "childrenNames": [
-      "Petrus Josephus Maddens"
+    "familiesNames": [
+      [
+        [
+          "Guillielmus Maddens"
+        ],
+        [
+          "Petrus Josephus Maddens"
+        ]
+      ]
     ]
   },
   {
@@ -5532,13 +7276,25 @@
     "birthPlace": null,
     "deathDate": null,
     "deathPlace": null,
-    "spouse": "@I0211@",
-    "children": [
-      "@I0207@"
+    "families": [
+      [
+        [
+          "@I0211@"
+        ],
+        [
+          "@I0207@"
+        ]
+      ]
     ],
-    "spouseName": "Anna Theresia Vermeersch",
-    "childrenNames": [
-      "Rosalia Boutens"
+    "familiesNames": [
+      [
+        [
+          "Anna Theresia Vermeersch"
+        ],
+        [
+          "Rosalia Boutens"
+        ]
+      ]
     ]
   },
   {
@@ -5554,13 +7310,25 @@
     "birthPlace": "Gits, Belgium",
     "deathDate": "27 DEC 1771",
     "deathPlace": "Gits, Belgium",
-    "spouse": "@I0210@",
-    "children": [
-      "@I0207@"
+    "families": [
+      [
+        [
+          "@I0210@"
+        ],
+        [
+          "@I0207@"
+        ]
+      ]
     ],
-    "spouseName": "Mattheus Boutens",
-    "childrenNames": [
-      "Rosalia Boutens"
+    "familiesNames": [
+      [
+        [
+          "Mattheus Boutens"
+        ],
+        [
+          "Rosalia Boutens"
+        ]
+      ]
     ]
   },
   {
@@ -5576,13 +7344,25 @@
     "birthPlace": "Lichtervelde, Belgium",
     "deathDate": null,
     "deathPlace": null,
-    "spouse": "@I0213@",
-    "children": [
-      "@I0205@"
+    "families": [
+      [
+        [
+          "@I0213@"
+        ],
+        [
+          "@I0205@"
+        ]
+      ]
     ],
-    "spouseName": "Maria Vandenbussche",
-    "childrenNames": [
-      "Godeliva Vandewalle"
+    "familiesNames": [
+      [
+        [
+          "Maria Vandenbussche"
+        ],
+        [
+          "Godeliva Vandewalle"
+        ]
+      ]
     ],
     "parents": [
       "@I0214@",
@@ -5606,13 +7386,25 @@
     "birthPlace": "Lichtervelde, Belgium",
     "deathDate": null,
     "deathPlace": null,
-    "spouse": "@I0212@",
-    "children": [
-      "@I0205@"
+    "families": [
+      [
+        [
+          "@I0212@"
+        ],
+        [
+          "@I0205@"
+        ]
+      ]
     ],
-    "spouseName": "Joannes Bapt. Vandewalle",
-    "childrenNames": [
-      "Godeliva Vandewalle"
+    "familiesNames": [
+      [
+        [
+          "Joannes Bapt. Vandewalle"
+        ],
+        [
+          "Godeliva Vandewalle"
+        ]
+      ]
     ],
     "parents": [
       "@I0216@",
@@ -5636,13 +7428,25 @@
     "birthPlace": null,
     "deathDate": null,
     "deathPlace": null,
-    "spouse": "@I0215@",
-    "children": [
-      "@I0212@"
+    "families": [
+      [
+        [
+          "@I0215@"
+        ],
+        [
+          "@I0212@"
+        ]
+      ]
     ],
-    "spouseName": "Petronilla Roelens",
-    "childrenNames": [
-      "Joannes Bapt. Vandewalle"
+    "familiesNames": [
+      [
+        [
+          "Petronilla Roelens"
+        ],
+        [
+          "Joannes Bapt. Vandewalle"
+        ]
+      ]
     ]
   },
   {
@@ -5658,13 +7462,25 @@
     "birthPlace": null,
     "deathDate": null,
     "deathPlace": null,
-    "spouse": "@I0214@",
-    "children": [
-      "@I0212@"
+    "families": [
+      [
+        [
+          "@I0214@"
+        ],
+        [
+          "@I0212@"
+        ]
+      ]
     ],
-    "spouseName": "Petrus Vandewalle",
-    "childrenNames": [
-      "Joannes Bapt. Vandewalle"
+    "familiesNames": [
+      [
+        [
+          "Petrus Vandewalle"
+        ],
+        [
+          "Joannes Bapt. Vandewalle"
+        ]
+      ]
     ]
   },
   {
@@ -5680,13 +7496,25 @@
     "birthPlace": null,
     "deathDate": null,
     "deathPlace": null,
-    "spouse": "@I0217@",
-    "children": [
-      "@I0213@"
+    "families": [
+      [
+        [
+          "@I0217@"
+        ],
+        [
+          "@I0213@"
+        ]
+      ]
     ],
-    "spouseName": "Maria Theresia Bernaert",
-    "childrenNames": [
-      "Maria Vandenbussche"
+    "familiesNames": [
+      [
+        [
+          "Maria Theresia Bernaert"
+        ],
+        [
+          "Maria Vandenbussche"
+        ]
+      ]
     ]
   },
   {
@@ -5702,13 +7530,25 @@
     "birthPlace": null,
     "deathDate": null,
     "deathPlace": null,
-    "spouse": "@I0216@",
-    "children": [
-      "@I0213@"
+    "families": [
+      [
+        [
+          "@I0216@"
+        ],
+        [
+          "@I0213@"
+        ]
+      ]
     ],
-    "spouseName": "Michael Vandenbussche",
-    "childrenNames": [
-      "Maria Vandenbussche"
+    "familiesNames": [
+      [
+        [
+          "Michael Vandenbussche"
+        ],
+        [
+          "Maria Vandenbussche"
+        ]
+      ]
     ]
   },
   {
@@ -5724,13 +7564,25 @@
     "birthPlace": "Beveren-Roeselare, Belgium",
     "deathDate": "29 JAN 1867",
     "deathPlace": "Beveren-Roeselare, Belgium",
-    "spouse": "@I0219@",
-    "children": [
-      "@I0203@"
+    "families": [
+      [
+        [
+          "@I0219@"
+        ],
+        [
+          "@I0203@"
+        ]
+      ]
     ],
-    "spouseName": "Constantia Cloet",
-    "childrenNames": [
-      "Barbara Dekeersgieter"
+    "familiesNames": [
+      [
+        [
+          "Constantia Cloet"
+        ],
+        [
+          "Barbara Dekeersgieter"
+        ]
+      ]
     ],
     "parents": [
       "@I0220@",
@@ -5754,13 +7606,25 @@
     "birthPlace": "Oostnieuwkerke, Belgium",
     "deathDate": "6 JUN 1873",
     "deathPlace": "Roeselare, Belgium",
-    "spouse": "@I0218@",
-    "children": [
-      "@I0203@"
+    "families": [
+      [
+        [
+          "@I0218@"
+        ],
+        [
+          "@I0203@"
+        ]
+      ]
     ],
-    "spouseName": "Amandus Dekeersgieter",
-    "childrenNames": [
-      "Barbara Dekeersgieter"
+    "familiesNames": [
+      [
+        [
+          "Amandus Dekeersgieter"
+        ],
+        [
+          "Barbara Dekeersgieter"
+        ]
+      ]
     ],
     "parents": [
       "@I0226@",
@@ -5784,13 +7648,25 @@
     "birthPlace": "Beveren-Roeselare, Belgium",
     "deathDate": "23 SEP 1807",
     "deathPlace": "Beveren-Roeselare, Belgium",
-    "spouse": "@I0221@",
-    "children": [
-      "@I0218@"
+    "families": [
+      [
+        [
+          "@I0221@"
+        ],
+        [
+          "@I0218@"
+        ]
+      ]
     ],
-    "spouseName": "Isabella Messeyne",
-    "childrenNames": [
-      "Amandus Dekeersgieter"
+    "familiesNames": [
+      [
+        [
+          "Isabella Messeyne"
+        ],
+        [
+          "Amandus Dekeersgieter"
+        ]
+      ]
     ],
     "parents": [
       "@I0222@",
@@ -5814,13 +7690,25 @@
     "birthPlace": "Roeselare, Belgium",
     "deathDate": "25 APR 1817",
     "deathPlace": "Beveren-Roeselare, Belgium",
-    "spouse": "@I0220@",
-    "children": [
-      "@I0218@"
+    "families": [
+      [
+        [
+          "@I0220@"
+        ],
+        [
+          "@I0218@"
+        ]
+      ]
     ],
-    "spouseName": "Philippus Dekeersgieter",
-    "childrenNames": [
-      "Amandus Dekeersgieter"
+    "familiesNames": [
+      [
+        [
+          "Philippus Dekeersgieter"
+        ],
+        [
+          "Amandus Dekeersgieter"
+        ]
+      ]
     ],
     "parents": [
       "@I0224@",
@@ -5844,13 +7732,25 @@
     "birthPlace": "Beveren-Roeselare, Belgium",
     "deathDate": "10 JAN 1789",
     "deathPlace": "Beveren-Roeselare, Belgium",
-    "spouse": "@I0223@",
-    "children": [
-      "@I0220@"
+    "families": [
+      [
+        [
+          "@I0223@"
+        ],
+        [
+          "@I0220@"
+        ]
+      ]
     ],
-    "spouseName": "Brigitte Rooseboom",
-    "childrenNames": [
-      "Philippus Dekeersgieter"
+    "familiesNames": [
+      [
+        [
+          "Brigitte Rooseboom"
+        ],
+        [
+          "Philippus Dekeersgieter"
+        ]
+      ]
     ]
   },
   {
@@ -5866,13 +7766,25 @@
     "birthPlace": "Beveren-Roeselare, Belgium",
     "deathDate": "16 DEC 1768",
     "deathPlace": "Beveren-Roeselare, Belgium",
-    "spouse": "@I0222@",
-    "children": [
-      "@I0220@"
+    "families": [
+      [
+        [
+          "@I0222@"
+        ],
+        [
+          "@I0220@"
+        ]
+      ]
     ],
-    "spouseName": "Jacobus Dekeersgieter",
-    "childrenNames": [
-      "Philippus Dekeersgieter"
+    "familiesNames": [
+      [
+        [
+          "Jacobus Dekeersgieter"
+        ],
+        [
+          "Philippus Dekeersgieter"
+        ]
+      ]
     ]
   },
   {
@@ -5888,13 +7800,25 @@
     "birthPlace": null,
     "deathDate": "18 AUG 1769",
     "deathPlace": "Roeselare, Belgium",
-    "spouse": "@I0225@",
-    "children": [
-      "@I0221@"
+    "families": [
+      [
+        [
+          "@I0225@"
+        ],
+        [
+          "@I0221@"
+        ]
+      ]
     ],
-    "spouseName": "Isabella Callewaert",
-    "childrenNames": [
-      "Isabella Messeyne"
+    "familiesNames": [
+      [
+        [
+          "Isabella Callewaert"
+        ],
+        [
+          "Isabella Messeyne"
+        ]
+      ]
     ]
   },
   {
@@ -5910,13 +7834,25 @@
     "birthPlace": null,
     "deathDate": null,
     "deathPlace": null,
-    "spouse": "@I0224@",
-    "children": [
-      "@I0221@"
+    "families": [
+      [
+        [
+          "@I0224@"
+        ],
+        [
+          "@I0221@"
+        ]
+      ]
     ],
-    "spouseName": "Jacobus Messeyne",
-    "childrenNames": [
-      "Isabella Messeyne"
+    "familiesNames": [
+      [
+        [
+          "Jacobus Messeyne"
+        ],
+        [
+          "Isabella Messeyne"
+        ]
+      ]
     ]
   },
   {
@@ -5932,13 +7868,25 @@
     "birthPlace": "Oostnieuwkerke, Belgium",
     "deathDate": "2 DEC 1833",
     "deathPlace": "Oostnieuwkerke, Belgium",
-    "spouse": "@I0227@",
-    "children": [
-      "@I0219@"
+    "families": [
+      [
+        [
+          "@I0227@"
+        ],
+        [
+          "@I0219@"
+        ]
+      ]
     ],
-    "spouseName": "Cecilia Swaenepoel",
-    "childrenNames": [
-      "Constantia Cloet"
+    "familiesNames": [
+      [
+        [
+          "Cecilia Swaenepoel"
+        ],
+        [
+          "Constantia Cloet"
+        ]
+      ]
     ],
     "parents": [
       "@I0228@",
@@ -5962,13 +7910,25 @@
     "birthPlace": "Oostnieuwkerke, Belgium",
     "deathDate": "8 MAY 1812",
     "deathPlace": "Oostnieuwkerke, Belgium",
-    "spouse": "@I0226@",
-    "children": [
-      "@I0219@"
+    "families": [
+      [
+        [
+          "@I0226@"
+        ],
+        [
+          "@I0219@"
+        ]
+      ]
     ],
-    "spouseName": "Joannes Baptista Cloet",
-    "childrenNames": [
-      "Constantia Cloet"
+    "familiesNames": [
+      [
+        [
+          "Joannes Baptista Cloet"
+        ],
+        [
+          "Constantia Cloet"
+        ]
+      ]
     ],
     "parents": [
       "@I0230@",
@@ -5992,13 +7952,25 @@
     "birthPlace": null,
     "deathDate": null,
     "deathPlace": null,
-    "spouse": "@I0229@",
-    "children": [
-      "@I0226@"
+    "families": [
+      [
+        [
+          "@I0229@"
+        ],
+        [
+          "@I0226@"
+        ]
+      ]
     ],
-    "spouseName": "Maria Genoveva Carlier",
-    "childrenNames": [
-      "Joannes Baptista Cloet"
+    "familiesNames": [
+      [
+        [
+          "Maria Genoveva Carlier"
+        ],
+        [
+          "Joannes Baptista Cloet"
+        ]
+      ]
     ]
   },
   {
@@ -6014,13 +7986,25 @@
     "birthPlace": null,
     "deathDate": "6 OCT 1760",
     "deathPlace": "Oostnieuwkerke, Belgium",
-    "spouse": "@I0228@",
-    "children": [
-      "@I0226@"
+    "families": [
+      [
+        [
+          "@I0228@"
+        ],
+        [
+          "@I0226@"
+        ]
+      ]
     ],
-    "spouseName": "Petrus Francis Cloet",
-    "childrenNames": [
-      "Joannes Baptista Cloet"
+    "familiesNames": [
+      [
+        [
+          "Petrus Francis Cloet"
+        ],
+        [
+          "Joannes Baptista Cloet"
+        ]
+      ]
     ]
   },
   {
@@ -6036,13 +8020,25 @@
     "birthPlace": "Oostnieuwkerke, Belgium",
     "deathDate": "6 JUL 1774",
     "deathPlace": "Oostnieuwkerke, Belgium",
-    "spouse": "@I0231@",
-    "children": [
-      "@I0227@"
+    "families": [
+      [
+        [
+          "@I0231@"
+        ],
+        [
+          "@I0227@"
+        ]
+      ]
     ],
-    "spouseName": "Maria Cathar. De Saffere",
-    "childrenNames": [
-      "Cecilia Swaenepoel"
+    "familiesNames": [
+      [
+        [
+          "Maria Cathar. De Saffere"
+        ],
+        [
+          "Cecilia Swaenepoel"
+        ]
+      ]
     ]
   },
   {
@@ -6058,13 +8054,25 @@
     "birthPlace": "Oostnieuwkerke, Belgium",
     "deathDate": "30 OCT 1793",
     "deathPlace": "Oostnieuwkerke, Belgium",
-    "spouse": "@I0230@",
-    "children": [
-      "@I0227@"
+    "families": [
+      [
+        [
+          "@I0230@"
+        ],
+        [
+          "@I0227@"
+        ]
+      ]
     ],
-    "spouseName": "Joannes Swaenepoel",
-    "childrenNames": [
-      "Cecilia Swaenepoel"
+    "familiesNames": [
+      [
+        [
+          "Joannes Swaenepoel"
+        ],
+        [
+          "Cecilia Swaenepoel"
+        ]
+      ]
     ]
   },
   {
@@ -6080,21 +8088,33 @@
     "birthPlace": null,
     "deathDate": null,
     "deathPlace": null,
-    "spouse": "@I0162@",
-    "children": [
-      "@I0233@",
-      "@I0234@",
-      "@I0235@",
-      "@I0236@",
-      "@I0237@"
+    "families": [
+      [
+        [
+          "@I0162@"
+        ],
+        [
+          "@I0233@",
+          "@I0234@",
+          "@I0235@",
+          "@I0236@",
+          "@I0237@"
+        ]
+      ]
     ],
-    "spouseName": "Renaat Oscar De Serranno",
-    "childrenNames": [
-      "Ronald DeSerrano",
-      "Jacques DeSerrano",
-      "Eric DeSerrano",
-      "Nicolas DeSerrano",
-      "Catharina DeSerrano"
+    "familiesNames": [
+      [
+        [
+          "Renaat Oscar De Serranno"
+        ],
+        [
+          "Ronald DeSerrano",
+          "Jacques DeSerrano",
+          "Eric DeSerrano",
+          "Nicolas DeSerrano",
+          "Catharina DeSerrano"
+        ]
+      ]
     ]
   },
   {
@@ -6220,19 +8240,31 @@
     "birthPlace": null,
     "deathDate": null,
     "deathPlace": null,
-    "spouse": "@I0163@",
-    "children": [
-      "@I0239@",
-      "@I0243@",
-      "@I0245@",
-      "@I0249@"
+    "families": [
+      [
+        [
+          "@I0163@"
+        ],
+        [
+          "@I0239@",
+          "@I0243@",
+          "@I0245@",
+          "@I0249@"
+        ]
+      ]
     ],
-    "spouseName": "Violet Madeline Lea",
-    "childrenNames": [
-      "Gary Lea",
-      "Gail Misner",
-      "Daniel Lea",
-      "Ronald Lea"
+    "familiesNames": [
+      [
+        [
+          "Violet Madeline Lea"
+        ],
+        [
+          "Gary Lea",
+          "Gail Misner",
+          "Daniel Lea",
+          "Ronald Lea"
+        ]
+      ]
     ]
   },
   {
@@ -6256,15 +8288,27 @@
       "Garth Lea",
       "Violet Madeline Lea"
     ],
-    "spouse": "@I0240@",
-    "children": [
-      "@I0241@",
-      "@I0242@"
+    "families": [
+      [
+        [
+          "@I0240@"
+        ],
+        [
+          "@I0241@",
+          "@I0242@"
+        ]
+      ]
     ],
-    "spouseName": "Joanna Lea",
-    "childrenNames": [
-      "Lisa Lea",
-      "Derek Lea"
+    "familiesNames": [
+      [
+        [
+          "Joanna Lea"
+        ],
+        [
+          "Lisa Lea",
+          "Derek Lea"
+        ]
+      ]
     ]
   },
   {
@@ -6280,15 +8324,27 @@
     "birthPlace": null,
     "deathDate": null,
     "deathPlace": null,
-    "spouse": "@I0239@",
-    "children": [
-      "@I0241@",
-      "@I0242@"
+    "families": [
+      [
+        [
+          "@I0239@"
+        ],
+        [
+          "@I0241@",
+          "@I0242@"
+        ]
+      ]
     ],
-    "spouseName": "Gary Lea",
-    "childrenNames": [
-      "Lisa Lea",
-      "Derek Lea"
+    "familiesNames": [
+      [
+        [
+          "Gary Lea"
+        ],
+        [
+          "Lisa Lea",
+          "Derek Lea"
+        ]
+      ]
     ]
   },
   {
@@ -6334,10 +8390,22 @@
       "Gary Lea",
       "Joanna Lea"
     ],
-    "spouse": "@I0298@",
-    "children": null,
-    "spouseName": "Janet Lea",
-    "childrenNames": null
+    "families": [
+      [
+        [
+          "@I0298@"
+        ],
+        null
+      ]
+    ],
+    "familiesNames": [
+      [
+        [
+          "Janet Lea"
+        ],
+        null
+      ]
+    ]
   },
   {
     "id": "@I0243@",
@@ -6360,10 +8428,22 @@
       "Garth Lea",
       "Violet Madeline Lea"
     ],
-    "spouse": "@I0262@",
-    "children": null,
-    "spouseName": "Kenneth Misner",
-    "childrenNames": null
+    "families": [
+      [
+        [
+          "@I0262@"
+        ],
+        null
+      ]
+    ],
+    "familiesNames": [
+      [
+        [
+          "Kenneth Misner"
+        ],
+        null
+      ]
+    ]
   },
   {
     "id": "@I0245@",
@@ -6386,15 +8466,27 @@
       "Garth Lea",
       "Violet Madeline Lea"
     ],
-    "spouse": "@I0246@",
-    "children": [
-      "@I0247@",
-      "@I0248@"
+    "families": [
+      [
+        [
+          "@I0246@"
+        ],
+        [
+          "@I0247@",
+          "@I0248@"
+        ]
+      ]
     ],
-    "spouseName": "Jane Lea",
-    "childrenNames": [
-      "Alisson Lea",
-      "Kevin Lea"
+    "familiesNames": [
+      [
+        [
+          "Jane Lea"
+        ],
+        [
+          "Alisson Lea",
+          "Kevin Lea"
+        ]
+      ]
     ]
   },
   {
@@ -6410,15 +8502,27 @@
     "birthPlace": null,
     "deathDate": null,
     "deathPlace": null,
-    "spouse": "@I0245@",
-    "children": [
-      "@I0247@",
-      "@I0248@"
+    "families": [
+      [
+        [
+          "@I0245@"
+        ],
+        [
+          "@I0247@",
+          "@I0248@"
+        ]
+      ]
     ],
-    "spouseName": "Daniel Lea",
-    "childrenNames": [
-      "Alisson Lea",
-      "Kevin Lea"
+    "familiesNames": [
+      [
+        [
+          "Daniel Lea"
+        ],
+        [
+          "Alisson Lea",
+          "Kevin Lea"
+        ]
+      ]
     ]
   },
   {
@@ -6486,15 +8590,27 @@
       "Garth Lea",
       "Violet Madeline Lea"
     ],
-    "spouse": "@I0250@",
-    "children": [
-      "@I0251@",
-      "@I0252@"
+    "families": [
+      [
+        [
+          "@I0250@"
+        ],
+        [
+          "@I0251@",
+          "@I0252@"
+        ]
+      ]
     ],
-    "spouseName": "Laura Lea",
-    "childrenNames": [
-      "Christopher Lea",
-      "Renée Lea"
+    "familiesNames": [
+      [
+        [
+          "Laura Lea"
+        ],
+        [
+          "Christopher Lea",
+          "Renée Lea"
+        ]
+      ]
     ]
   },
   {
@@ -6510,15 +8626,27 @@
     "birthPlace": null,
     "deathDate": null,
     "deathPlace": null,
-    "spouse": "@I0249@",
-    "children": [
-      "@I0251@",
-      "@I0252@"
+    "families": [
+      [
+        [
+          "@I0249@"
+        ],
+        [
+          "@I0251@",
+          "@I0252@"
+        ]
+      ]
     ],
-    "spouseName": "Ronald Lea",
-    "childrenNames": [
-      "Christopher Lea",
-      "Renée Lea"
+    "familiesNames": [
+      [
+        [
+          "Ronald Lea"
+        ],
+        [
+          "Christopher Lea",
+          "Renée Lea"
+        ]
+      ]
     ]
   },
   {
@@ -6578,17 +8706,29 @@
     "birthPlace": null,
     "deathDate": "15 NOV 2007",
     "deathPlace": null,
-    "spouse": "@I0164@",
-    "children": [
-      "@I0254@",
-      "@I0255@",
-      "@I0258@"
+    "families": [
+      [
+        [
+          "@I0164@"
+        ],
+        [
+          "@I0254@",
+          "@I0255@",
+          "@I0258@"
+        ]
+      ]
     ],
-    "spouseName": "Lillian McCloskey",
-    "childrenNames": [
-      "James McCloskey",
-      "Nancy Collver",
-      "Leo McCloskey"
+    "familiesNames": [
+      [
+        [
+          "Lillian McCloskey"
+        ],
+        [
+          "James McCloskey",
+          "Nancy Collver",
+          "Leo McCloskey"
+        ]
+      ]
     ]
   },
   {
@@ -6612,10 +8752,34 @@
       "Peter McCloskey",
       "Lillian McCloskey"
     ],
-    "spouse": "@I0260@",
-    "children": null,
-    "spouseName": "Meredith McCloskey",
-    "childrenNames": null
+    "families": [
+      [
+        [
+          "@I0256@"
+        ],
+        null
+      ],
+      [
+        [
+          "@I0260@"
+        ],
+        null
+      ]
+    ],
+    "familiesNames": [
+      [
+        [
+          "Beverly McCloskey"
+        ],
+        null
+      ],
+      [
+        [
+          "Meredith McCloskey"
+        ],
+        null
+      ]
+    ]
   },
   {
     "id": "@I0255@",
@@ -6638,10 +8802,22 @@
       "Peter McCloskey",
       "Lillian McCloskey"
     ],
-    "spouse": "@I0257@",
-    "children": null,
-    "spouseName": "Roy Collver",
-    "childrenNames": null
+    "families": [
+      [
+        [
+          "@I0257@"
+        ],
+        null
+      ]
+    ],
+    "familiesNames": [
+      [
+        [
+          "Roy Collver"
+        ],
+        null
+      ]
+    ]
   },
   {
     "id": "@I0256@",
@@ -6656,10 +8832,22 @@
     "birthPlace": null,
     "deathDate": null,
     "deathPlace": null,
-    "spouse": "@I0254@",
-    "children": null,
-    "spouseName": "James McCloskey",
-    "childrenNames": null
+    "families": [
+      [
+        [
+          "@I0254@"
+        ],
+        null
+      ]
+    ],
+    "familiesNames": [
+      [
+        [
+          "James McCloskey"
+        ],
+        null
+      ]
+    ]
   },
   {
     "id": "@I0257@",
@@ -6674,10 +8862,22 @@
     "birthPlace": null,
     "deathDate": null,
     "deathPlace": null,
-    "spouse": "@I0255@",
-    "children": null,
-    "spouseName": "Nancy Collver",
-    "childrenNames": null
+    "families": [
+      [
+        [
+          "@I0255@"
+        ],
+        null
+      ]
+    ],
+    "familiesNames": [
+      [
+        [
+          "Nancy Collver"
+        ],
+        null
+      ]
+    ]
   },
   {
     "id": "@I0258@",
@@ -6700,10 +8900,22 @@
       "Peter McCloskey",
       "Lillian McCloskey"
     ],
-    "spouse": "@I0259@",
-    "children": null,
-    "spouseName": "Paula McCloskey",
-    "childrenNames": null
+    "families": [
+      [
+        [
+          "@I0259@"
+        ],
+        null
+      ]
+    ],
+    "familiesNames": [
+      [
+        [
+          "Paula McCloskey"
+        ],
+        null
+      ]
+    ]
   },
   {
     "id": "@I0259@",
@@ -6718,10 +8930,22 @@
     "birthPlace": null,
     "deathDate": null,
     "deathPlace": null,
-    "spouse": "@I0258@",
-    "children": null,
-    "spouseName": "Leo McCloskey",
-    "childrenNames": null
+    "families": [
+      [
+        [
+          "@I0258@"
+        ],
+        null
+      ]
+    ],
+    "familiesNames": [
+      [
+        [
+          "Leo McCloskey"
+        ],
+        null
+      ]
+    ]
   },
   {
     "id": "@I0260@",
@@ -6736,10 +8960,22 @@
     "birthPlace": null,
     "deathDate": null,
     "deathPlace": null,
-    "spouse": "@I0254@",
-    "children": null,
-    "spouseName": "James McCloskey",
-    "childrenNames": null
+    "families": [
+      [
+        [
+          "@I0254@"
+        ],
+        null
+      ]
+    ],
+    "familiesNames": [
+      [
+        [
+          "James McCloskey"
+        ],
+        null
+      ]
+    ]
   },
   {
     "id": "@I0261@",
@@ -6754,19 +8990,31 @@
     "birthPlace": null,
     "deathDate": null,
     "deathPlace": null,
-    "spouse": "@I0012@",
-    "children": [
-      "@I0013@",
-      "@I0014@",
-      "@I0015@",
-      "@I0016@"
+    "families": [
+      [
+        [
+          "@I0012@"
+        ],
+        [
+          "@I0013@",
+          "@I0014@",
+          "@I0015@",
+          "@I0016@"
+        ]
+      ]
     ],
-    "spouseName": "Lorraine DeSerrano",
-    "childrenNames": [
-      "Stefanie Szigatti",
-      "Christopher Szigatti",
-      "Laura Gillies",
-      "Craig Szigatti"
+    "familiesNames": [
+      [
+        [
+          "Lorraine DeSerrano"
+        ],
+        [
+          "Stefanie Szigatti",
+          "Christopher Szigatti",
+          "Laura Gillies",
+          "Craig Szigatti"
+        ]
+      ]
     ]
   },
   {
@@ -6782,10 +9030,22 @@
     "birthPlace": null,
     "deathDate": null,
     "deathPlace": null,
-    "spouse": "@I0243@",
-    "children": null,
-    "spouseName": "Gail Misner",
-    "childrenNames": null
+    "families": [
+      [
+        [
+          "@I0243@"
+        ],
+        null
+      ]
+    ],
+    "familiesNames": [
+      [
+        [
+          "Gail Misner"
+        ],
+        null
+      ]
+    ]
   },
   {
     "id": "@I0263@",
@@ -6800,21 +9060,33 @@
     "birthPlace": "Horní Němčí, Czech Republic",
     "deathDate": "18 JUN 2012",
     "deathPlace": "Simcoe, Ontario",
-    "spouse": "@I0166@",
-    "children": [
-      "@I0274@",
-      "@I0276@",
-      "@I0277@",
-      "@I0278@",
-      "@I0280@"
+    "families": [
+      [
+        [
+          "@I0166@"
+        ],
+        [
+          "@I0274@",
+          "@I0276@",
+          "@I0277@",
+          "@I0278@",
+          "@I0280@"
+        ]
+      ]
     ],
-    "spouseName": "Allan DeSerrano",
-    "childrenNames": [
-      "Debbie Friesen",
-      "Zane DeSerrano",
-      "Maureen Berdan",
-      "Laurie Danchak",
-      "Allan DeSerrano"
+    "familiesNames": [
+      [
+        [
+          "Allan DeSerrano"
+        ],
+        [
+          "Debbie Friesen",
+          "Zane DeSerrano",
+          "Maureen Berdan",
+          "Laurie Danchak",
+          "Allan DeSerrano"
+        ]
+      ]
     ]
   },
   {
@@ -6830,17 +9102,29 @@
     "birthPlace": "Leeuwarden, Netherlands",
     "deathDate": "8 APR 2019",
     "deathPlace": null,
-    "spouse": "@I0168@",
-    "children": [
-      "@I0265@",
-      "@I0267@",
-      "@I0269@"
+    "families": [
+      [
+        [
+          "@I0168@"
+        ],
+        [
+          "@I0265@",
+          "@I0267@",
+          "@I0269@"
+        ]
+      ]
     ],
-    "spouseName": "Jean Hyacinth Smit",
-    "childrenNames": [
-      "Valerie Smit",
-      "Michele Druiett",
-      "Jennifer Wintemute"
+    "familiesNames": [
+      [
+        [
+          "Jean Hyacinth Smit"
+        ],
+        [
+          "Valerie Smit",
+          "Michele Druiett",
+          "Jennifer Wintemute"
+        ]
+      ]
     ]
   },
   {
@@ -6886,10 +9170,22 @@
       "Harry Henricus Smit",
       "Jean Hyacinth Smit"
     ],
-    "spouse": "@I0268@",
-    "children": null,
-    "spouseName": "Greg Druiett",
-    "childrenNames": null
+    "families": [
+      [
+        [
+          "@I0268@"
+        ],
+        null
+      ]
+    ],
+    "familiesNames": [
+      [
+        [
+          "Greg Druiett"
+        ],
+        null
+      ]
+    ]
   },
   {
     "id": "@I0268@",
@@ -6904,10 +9200,22 @@
     "birthPlace": null,
     "deathDate": null,
     "deathPlace": null,
-    "spouse": "@I0267@",
-    "children": null,
-    "spouseName": "Michele Druiett",
-    "childrenNames": null
+    "families": [
+      [
+        [
+          "@I0267@"
+        ],
+        null
+      ]
+    ],
+    "familiesNames": [
+      [
+        [
+          "Michele Druiett"
+        ],
+        null
+      ]
+    ]
   },
   {
     "id": "@I0269@",
@@ -6944,17 +9252,29 @@
     "birthPlace": null,
     "deathDate": null,
     "deathPlace": null,
-    "spouse": "@I0170@",
-    "children": [
-      "@I0281@",
-      "@I0282@",
-      "@I0284@"
+    "families": [
+      [
+        [
+          "@I0170@"
+        ],
+        [
+          "@I0281@",
+          "@I0282@",
+          "@I0284@"
+        ]
+      ]
     ],
-    "spouseName": "Angelo Michael DeSerrano",
-    "childrenNames": [
-      "Theresa DeSerrano",
-      "Lynda Amorim",
-      "Carla VanKessel"
+    "familiesNames": [
+      [
+        [
+          "Angelo Michael DeSerrano"
+        ],
+        [
+          "Theresa DeSerrano",
+          "Lynda Amorim",
+          "Carla VanKessel"
+        ]
+      ]
     ]
   },
   {
@@ -6970,15 +9290,27 @@
     "birthPlace": null,
     "deathDate": null,
     "deathPlace": null,
-    "spouse": "@I0167@",
-    "children": [
-      "@I0272@",
-      "@I0273@"
+    "families": [
+      [
+        [
+          "@I0167@"
+        ],
+        [
+          "@I0272@",
+          "@I0273@"
+        ]
+      ]
     ],
-    "spouseName": "Ellen McCarthy",
-    "childrenNames": [
-      "Timothy McCarthy",
-      "Thomas McCarthy"
+    "familiesNames": [
+      [
+        [
+          "Ellen McCarthy"
+        ],
+        [
+          "Timothy McCarthy",
+          "Thomas McCarthy"
+        ]
+      ]
     ]
   },
   {
@@ -7046,15 +9378,27 @@
       "Allan DeSerrano",
       "Mary DeSerrano"
     ],
-    "spouse": "@I0275@",
-    "children": [
-      "@I0295@",
-      "@I0296@"
+    "families": [
+      [
+        [
+          "@I0275@"
+        ],
+        [
+          "@I0295@",
+          "@I0296@"
+        ]
+      ]
     ],
-    "spouseName": "Dennis Friesen",
-    "childrenNames": [
-      "Nicole Friesen",
-      "Jason Friesen"
+    "familiesNames": [
+      [
+        [
+          "Dennis Friesen"
+        ],
+        [
+          "Nicole Friesen",
+          "Jason Friesen"
+        ]
+      ]
     ]
   },
   {
@@ -7070,15 +9414,27 @@
     "birthPlace": null,
     "deathDate": null,
     "deathPlace": null,
-    "spouse": "@I0274@",
-    "children": [
-      "@I0295@",
-      "@I0296@"
+    "families": [
+      [
+        [
+          "@I0274@"
+        ],
+        [
+          "@I0295@",
+          "@I0296@"
+        ]
+      ]
     ],
-    "spouseName": "Debbie Friesen",
-    "childrenNames": [
-      "Nicole Friesen",
-      "Jason Friesen"
+    "familiesNames": [
+      [
+        [
+          "Debbie Friesen"
+        ],
+        [
+          "Nicole Friesen",
+          "Jason Friesen"
+        ]
+      ]
     ]
   },
   {
@@ -7124,13 +9480,25 @@
       "Allan DeSerrano",
       "Mary DeSerrano"
     ],
-    "spouse": "@I0294@",
-    "children": [
-      "@I0297@"
+    "families": [
+      [
+        [
+          "@I0294@"
+        ],
+        [
+          "@I0297@"
+        ]
+      ]
     ],
-    "spouseName": "Lanny Berdan",
-    "childrenNames": [
-      "Melissa Berdan"
+    "familiesNames": [
+      [
+        [
+          "Lanny Berdan"
+        ],
+        [
+          "Melissa Berdan"
+        ]
+      ]
     ]
   },
   {
@@ -7154,10 +9522,22 @@
       "Allan DeSerrano",
       "Mary DeSerrano"
     ],
-    "spouse": "@I0279@",
-    "children": null,
-    "spouseName": "David Danchak",
-    "childrenNames": null
+    "families": [
+      [
+        [
+          "@I0279@"
+        ],
+        null
+      ]
+    ],
+    "familiesNames": [
+      [
+        [
+          "David Danchak"
+        ],
+        null
+      ]
+    ]
   },
   {
     "id": "@I0279@",
@@ -7172,10 +9552,22 @@
     "birthPlace": null,
     "deathDate": null,
     "deathPlace": null,
-    "spouse": "@I0278@",
-    "children": null,
-    "spouseName": "Laurie Danchak",
-    "childrenNames": null
+    "families": [
+      [
+        [
+          "@I0278@"
+        ],
+        null
+      ]
+    ],
+    "familiesNames": [
+      [
+        [
+          "Laurie Danchak"
+        ],
+        null
+      ]
+    ]
   },
   {
     "id": "@I0280@",
@@ -7242,10 +9634,22 @@
       "Angelo Michael DeSerrano",
       "Mary Ann DeSerrano"
     ],
-    "spouse": "@I0283@",
-    "children": null,
-    "spouseName": "John Amorim",
-    "childrenNames": null
+    "families": [
+      [
+        [
+          "@I0283@"
+        ],
+        null
+      ]
+    ],
+    "familiesNames": [
+      [
+        [
+          "John Amorim"
+        ],
+        null
+      ]
+    ]
   },
   {
     "id": "@I0283@",
@@ -7260,10 +9664,22 @@
     "birthPlace": null,
     "deathDate": null,
     "deathPlace": null,
-    "spouse": "@I0282@",
-    "children": null,
-    "spouseName": "Lynda Amorim",
-    "childrenNames": null
+    "families": [
+      [
+        [
+          "@I0282@"
+        ],
+        null
+      ]
+    ],
+    "familiesNames": [
+      [
+        [
+          "Lynda Amorim"
+        ],
+        null
+      ]
+    ]
   },
   {
     "id": "@I0284@",
@@ -7286,10 +9702,22 @@
       "Angelo Michael DeSerrano",
       "Mary Ann DeSerrano"
     ],
-    "spouse": "@I0285@",
-    "children": null,
-    "spouseName": "Mark VanKessel",
-    "childrenNames": null
+    "families": [
+      [
+        [
+          "@I0285@"
+        ],
+        null
+      ]
+    ],
+    "familiesNames": [
+      [
+        [
+          "Mark VanKessel"
+        ],
+        null
+      ]
+    ]
   },
   {
     "id": "@I0285@",
@@ -7304,10 +9732,22 @@
     "birthPlace": null,
     "deathDate": null,
     "deathPlace": null,
-    "spouse": "@I0284@",
-    "children": null,
-    "spouseName": "Carla VanKessel",
-    "childrenNames": null
+    "families": [
+      [
+        [
+          "@I0284@"
+        ],
+        null
+      ]
+    ],
+    "familiesNames": [
+      [
+        [
+          "Carla VanKessel"
+        ],
+        null
+      ]
+    ]
   },
   {
     "id": "@I0286@",
@@ -7322,13 +9762,25 @@
     "birthPlace": null,
     "deathDate": null,
     "deathPlace": null,
-    "spouse": "@I0013@",
-    "children": [
-      "@I0287@"
+    "families": [
+      [
+        [
+          "@I0013@"
+        ],
+        [
+          "@I0287@"
+        ]
+      ]
     ],
-    "spouseName": "Stefanie Szigatti",
-    "childrenNames": [
-      "Jacob Therkelson"
+    "familiesNames": [
+      [
+        [
+          "Stefanie Szigatti"
+        ],
+        [
+          "Jacob Therkelson"
+        ]
+      ]
     ]
   },
   {
@@ -7374,10 +9826,22 @@
       "Jordaen August Devos",
       "Pharailde Marie Maddens"
     ],
-    "spouse": "@I0289@",
-    "children": null,
-    "spouseName": "Eugene Kaes",
-    "childrenNames": null
+    "families": [
+      [
+        [
+          "@I0289@"
+        ],
+        null
+      ]
+    ],
+    "familiesNames": [
+      [
+        [
+          "Eugene Kaes"
+        ],
+        null
+      ]
+    ]
   },
   {
     "id": "@I0289@",
@@ -7392,10 +9856,22 @@
     "birthPlace": null,
     "deathDate": null,
     "deathPlace": null,
-    "spouse": "@I0288@",
-    "children": null,
-    "spouseName": "Paula Kaes",
-    "childrenNames": null
+    "families": [
+      [
+        [
+          "@I0288@"
+        ],
+        null
+      ]
+    ],
+    "familiesNames": [
+      [
+        [
+          "Paula Kaes"
+        ],
+        null
+      ]
+    ]
   },
   {
     "id": "@I0290@",
@@ -7462,10 +9938,22 @@
       "Jordaen August Devos",
       "Pharailde Marie Maddens"
     ],
-    "spouse": "@I0293@",
-    "children": null,
-    "spouseName": "Thelma Edith Grant",
-    "childrenNames": null
+    "families": [
+      [
+        [
+          "@I0293@"
+        ],
+        null
+      ]
+    ],
+    "familiesNames": [
+      [
+        [
+          "Thelma Edith Grant"
+        ],
+        null
+      ]
+    ]
   },
   {
     "id": "@I0293@",
@@ -7480,10 +9968,22 @@
     "birthPlace": null,
     "deathDate": null,
     "deathPlace": null,
-    "spouse": "@I0292@",
-    "children": null,
-    "spouseName": "Rene Devos",
-    "childrenNames": null
+    "families": [
+      [
+        [
+          "@I0292@"
+        ],
+        null
+      ]
+    ],
+    "familiesNames": [
+      [
+        [
+          "Rene Devos"
+        ],
+        null
+      ]
+    ]
   },
   {
     "id": "@I0294@",
@@ -7498,13 +9998,25 @@
     "birthPlace": null,
     "deathDate": null,
     "deathPlace": null,
-    "spouse": "@I0277@",
-    "children": [
-      "@I0297@"
+    "families": [
+      [
+        [
+          "@I0277@"
+        ],
+        [
+          "@I0297@"
+        ]
+      ]
     ],
-    "spouseName": "Maureen Berdan",
-    "childrenNames": [
-      "Melissa Berdan"
+    "familiesNames": [
+      [
+        [
+          "Maureen Berdan"
+        ],
+        [
+          "Melissa Berdan"
+        ]
+      ]
     ]
   },
   {
@@ -7586,10 +10098,22 @@
     "birthPlace": null,
     "deathDate": null,
     "deathPlace": null,
-    "spouse": "@I0242@",
-    "children": null,
-    "spouseName": "Derek Lea",
-    "childrenNames": null
+    "families": [
+      [
+        [
+          "@I0242@"
+        ],
+        null
+      ]
+    ],
+    "familiesNames": [
+      [
+        [
+          "Derek Lea"
+        ],
+        null
+      ]
+    ]
   },
   {
     "id": "@I0299@",
@@ -7604,13 +10128,25 @@
     "birthPlace": null,
     "deathDate": null,
     "deathPlace": null,
-    "spouse": "@I0300@",
-    "children": [
-      "@I0160@"
+    "families": [
+      [
+        [
+          "@I0300@"
+        ],
+        [
+          "@I0160@"
+        ]
+      ]
     ],
-    "spouseName": "Julienne DeSerrano",
-    "childrenNames": [
-      "Alois DeSerrano"
+    "familiesNames": [
+      [
+        [
+          "Julienne DeSerrano"
+        ],
+        [
+          "Alois DeSerrano"
+        ]
+      ]
     ],
     "parents": [
       "@I0301@",
@@ -7634,13 +10170,25 @@
     "birthPlace": null,
     "deathDate": null,
     "deathPlace": null,
-    "spouse": "@I0299@",
-    "children": [
-      "@I0160@"
+    "families": [
+      [
+        [
+          "@I0299@"
+        ],
+        [
+          "@I0160@"
+        ]
+      ]
     ],
-    "spouseName": "Leonard DeSerrano",
-    "childrenNames": [
-      "Alois DeSerrano"
+    "familiesNames": [
+      [
+        [
+          "Leonard DeSerrano"
+        ],
+        [
+          "Alois DeSerrano"
+        ]
+      ]
     ]
   },
   {
@@ -7656,13 +10204,25 @@
     "birthPlace": null,
     "deathDate": null,
     "deathPlace": null,
-    "spouse": "@I0302@",
-    "children": [
-      "@I0299@"
+    "families": [
+      [
+        [
+          "@I0302@"
+        ],
+        [
+          "@I0299@"
+        ]
+      ]
     ],
-    "spouseName": "Caroline DeSerrano",
-    "childrenNames": [
-      "Leonard DeSerrano"
+    "familiesNames": [
+      [
+        [
+          "Caroline DeSerrano"
+        ],
+        [
+          "Leonard DeSerrano"
+        ]
+      ]
     ],
     "parents": [
       "@I0303@",
@@ -7686,13 +10246,25 @@
     "birthPlace": null,
     "deathDate": null,
     "deathPlace": null,
-    "spouse": "@I0301@",
-    "children": [
-      "@I0299@"
+    "families": [
+      [
+        [
+          "@I0301@"
+        ],
+        [
+          "@I0299@"
+        ]
+      ]
     ],
-    "spouseName": "Ferdinand DeSerrano",
-    "childrenNames": [
-      "Leonard DeSerrano"
+    "familiesNames": [
+      [
+        [
+          "Ferdinand DeSerrano"
+        ],
+        [
+          "Leonard DeSerrano"
+        ]
+      ]
     ]
   },
   {
@@ -7708,13 +10280,25 @@
     "birthPlace": null,
     "deathDate": null,
     "deathPlace": null,
-    "spouse": "@I0304@",
-    "children": [
-      "@I0301@"
+    "families": [
+      [
+        [
+          "@I0304@"
+        ],
+        [
+          "@I0301@"
+        ]
+      ]
     ],
-    "spouseName": "Rosa Eeckhout",
-    "childrenNames": [
-      "Ferdinand DeSerrano"
+    "familiesNames": [
+      [
+        [
+          "Rosa Eeckhout"
+        ],
+        [
+          "Ferdinand DeSerrano"
+        ]
+      ]
     ],
     "parents": [
       "@I0305@",
@@ -7738,13 +10322,25 @@
     "birthPlace": null,
     "deathDate": null,
     "deathPlace": null,
-    "spouse": "@I0303@",
-    "children": [
-      "@I0301@"
+    "families": [
+      [
+        [
+          "@I0303@"
+        ],
+        [
+          "@I0301@"
+        ]
+      ]
     ],
-    "spouseName": "Petrus Ignace DeSerrano",
-    "childrenNames": [
-      "Ferdinand DeSerrano"
+    "familiesNames": [
+      [
+        [
+          "Petrus Ignace DeSerrano"
+        ],
+        [
+          "Ferdinand DeSerrano"
+        ]
+      ]
     ]
   },
   {
@@ -7760,13 +10356,25 @@
     "birthPlace": null,
     "deathDate": null,
     "deathPlace": null,
-    "spouse": "@I0306@",
-    "children": [
-      "@I0303@"
+    "families": [
+      [
+        [
+          "@I0306@"
+        ],
+        [
+          "@I0303@"
+        ]
+      ]
     ],
-    "spouseName": "Rosalia Duyck",
-    "childrenNames": [
-      "Petrus Ignace DeSerrano"
+    "familiesNames": [
+      [
+        [
+          "Rosalia Duyck"
+        ],
+        [
+          "Petrus Ignace DeSerrano"
+        ]
+      ]
     ],
     "parents": [
       "@I0307@",
@@ -7790,13 +10398,25 @@
     "birthPlace": null,
     "deathDate": null,
     "deathPlace": null,
-    "spouse": "@I0305@",
-    "children": [
-      "@I0303@"
+    "families": [
+      [
+        [
+          "@I0305@"
+        ],
+        [
+          "@I0303@"
+        ]
+      ]
     ],
-    "spouseName": "Francis DeSerrano",
-    "childrenNames": [
-      "Petrus Ignace DeSerrano"
+    "familiesNames": [
+      [
+        [
+          "Francis DeSerrano"
+        ],
+        [
+          "Petrus Ignace DeSerrano"
+        ]
+      ]
     ]
   },
   {
@@ -7812,13 +10432,25 @@
     "birthPlace": null,
     "deathDate": "2 NOV 1771",
     "deathPlace": null,
-    "spouse": "@I0308@",
-    "children": [
-      "@I0305@"
+    "families": [
+      [
+        [
+          "@I0308@"
+        ],
+        [
+          "@I0305@"
+        ]
+      ]
     ],
-    "spouseName": "Maria Catharina Caluwaert",
-    "childrenNames": [
-      "Francis DeSerrano"
+    "familiesNames": [
+      [
+        [
+          "Maria Catharina Caluwaert"
+        ],
+        [
+          "Francis DeSerrano"
+        ]
+      ]
     ],
     "parents": [
       "@I0309@",
@@ -7842,13 +10474,25 @@
     "birthPlace": null,
     "deathDate": null,
     "deathPlace": null,
-    "spouse": "@I0307@",
-    "children": [
-      "@I0305@"
+    "families": [
+      [
+        [
+          "@I0307@"
+        ],
+        [
+          "@I0305@"
+        ]
+      ]
     ],
-    "spouseName": "Jan DeSerrano",
-    "childrenNames": [
-      "Francis DeSerrano"
+    "familiesNames": [
+      [
+        [
+          "Jan DeSerrano"
+        ],
+        [
+          "Francis DeSerrano"
+        ]
+      ]
     ]
   },
   {
@@ -7864,15 +10508,27 @@
     "birthPlace": null,
     "deathDate": "21 SEP 1719",
     "deathPlace": null,
-    "spouse": "@I0310@",
-    "children": [
-      "@I0199@",
-      "@I0307@"
+    "families": [
+      [
+        [
+          "@I0310@"
+        ],
+        [
+          "@I0199@",
+          "@I0307@"
+        ]
+      ]
     ],
-    "spouseName": "Judoca Dhont",
-    "childrenNames": [
-      "Petronilla DeSerrano",
-      "Jan DeSerrano"
+    "familiesNames": [
+      [
+        [
+          "Judoca Dhont"
+        ],
+        [
+          "Petronilla DeSerrano",
+          "Jan DeSerrano"
+        ]
+      ]
     ],
     "parents": [
       "@I0311@",
@@ -7896,15 +10552,27 @@
     "birthPlace": null,
     "deathDate": null,
     "deathPlace": null,
-    "spouse": "@I0309@",
-    "children": [
-      "@I0199@",
-      "@I0307@"
+    "families": [
+      [
+        [
+          "@I0309@"
+        ],
+        [
+          "@I0199@",
+          "@I0307@"
+        ]
+      ]
     ],
-    "spouseName": "Franciscus DeSerrano",
-    "childrenNames": [
-      "Petronilla DeSerrano",
-      "Jan DeSerrano"
+    "familiesNames": [
+      [
+        [
+          "Franciscus DeSerrano"
+        ],
+        [
+          "Petronilla DeSerrano",
+          "Jan DeSerrano"
+        ]
+      ]
     ]
   },
   {
@@ -7920,13 +10588,25 @@
     "birthPlace": null,
     "deathDate": null,
     "deathPlace": null,
-    "spouse": "@I0312@",
-    "children": [
-      "@I0309@"
+    "families": [
+      [
+        [
+          "@I0312@"
+        ],
+        [
+          "@I0309@"
+        ]
+      ]
     ],
-    "spouseName": "Anna Maria Vanquathem",
-    "childrenNames": [
-      "Franciscus DeSerrano"
+    "familiesNames": [
+      [
+        [
+          "Anna Maria Vanquathem"
+        ],
+        [
+          "Franciscus DeSerrano"
+        ]
+      ]
     ],
     "parents": [
       "@I0313@"
@@ -7948,13 +10628,25 @@
     "birthPlace": null,
     "deathDate": "6 JUL 1679",
     "deathPlace": null,
-    "spouse": "@I0311@",
-    "children": [
-      "@I0309@"
+    "families": [
+      [
+        [
+          "@I0311@"
+        ],
+        [
+          "@I0309@"
+        ]
+      ]
     ],
-    "spouseName": "Franciscus Serrano",
-    "childrenNames": [
-      "Franciscus DeSerrano"
+    "familiesNames": [
+      [
+        [
+          "Franciscus Serrano"
+        ],
+        [
+          "Franciscus DeSerrano"
+        ]
+      ]
     ]
   },
   {
@@ -7970,13 +10662,21 @@
     "birthPlace": null,
     "deathDate": null,
     "deathPlace": null,
-    "spouse": null,
-    "spouseName": null,
-    "children": [
-      "@I0311@"
+    "families": [
+      [
+        null,
+        [
+          "@I0311@"
+        ]
+      ]
     ],
-    "childrenNames": [
-      "Franciscus Serrano"
+    "familiesNames": [
+      [
+        null,
+        [
+          "Franciscus Serrano"
+        ]
+      ]
     ],
     "parents": [
       "@I0314@"
@@ -7998,13 +10698,21 @@
     "birthPlace": null,
     "deathDate": null,
     "deathPlace": null,
-    "spouse": null,
-    "spouseName": null,
-    "children": [
-      "@I0313@"
+    "families": [
+      [
+        null,
+        [
+          "@I0313@"
+        ]
+      ]
     ],
-    "childrenNames": [
-      "Fernán González Serrano"
+    "familiesNames": [
+      [
+        null,
+        [
+          "Fernán González Serrano"
+        ]
+      ]
     ],
     "parents": [
       "@I0315@"
@@ -8026,13 +10734,21 @@
     "birthPlace": null,
     "deathDate": null,
     "deathPlace": null,
-    "spouse": null,
-    "spouseName": null,
-    "children": [
-      "@I0314@"
+    "families": [
+      [
+        null,
+        [
+          "@I0314@"
+        ]
+      ]
     ],
-    "childrenNames": [
-      "Martín González Serrano"
+    "familiesNames": [
+      [
+        null,
+        [
+          "Martín González Serrano"
+        ]
+      ]
     ]
   }
 ]
